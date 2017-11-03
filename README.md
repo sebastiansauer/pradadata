@@ -1,7 +1,9 @@
 # pradadata
 data sets for practical data analysis
 
-featuring data from
+
+## Contents
+Data sets featuring data from
 
 - German elections 2017
 - OECD wellbegin 2016
@@ -11,3 +13,11 @@ featuring data from
 - geomap of German electoral districts 2017
 - toy data set on sex, height, and shoe size
 - online dating plattform experiment 2015
+
+
+## Installation
+devtools::install_github("sebastiansauer/pradadata")
+
+
+## Requirements
+none
