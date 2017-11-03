@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1509749614036.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "118377774",
+    "id" : "46F5A64C",
+    "lastKnownWriteTime" : 1509749906,
+    "last_content_update" : 1509749906193,
+    "path" : "~/Documents/Publikationen/In_Arbeit/prada_data/pradadata/R/OBJECT_wellbeing.R",
+    "project_path" : "R/OBJECT_wellbeing.R",
+    "properties" : {
+        "cursorPosition" : "11,54",
+        "scrollLine" : "17"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

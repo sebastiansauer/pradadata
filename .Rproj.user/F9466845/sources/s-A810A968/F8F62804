@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1509749582480.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "F8F62804",
+    "lastKnownWriteTime" : 1509749588,
+    "last_content_update" : 1509749588493,
+    "path" : "~/Documents/Publikationen/In_Arbeit/prada_data/pradadata/R/OBJECT_cult_values.R",
+    "project_path" : "R/OBJECT_cult_values.R",
+    "properties" : {
+        "cursorPosition" : "29,10",
+        "scrollLine" : "17"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

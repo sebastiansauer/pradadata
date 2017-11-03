@@ -1,0 +1,20 @@
+#' Item labels -- for dataset \code{extra} in package \code{prada}
+#'
+
+#'
+#'
+#'
+#' @format A data frame containing 28 rows and 1 column
+#' \describe{
+#'   \item{value}{Chr. item labels}
+#'  }
+#' @details This dataset was published here: \url{https://osf.io/4kgzh}.
+#'     See survey here \url{https://goo.gl/forms/B5bparAu8uR7T1c03}.
+#'     Items of the survey have changed over time. Only the most recent version of the survey is online.
+#'     Survey conducted at the Business Psychology lab at FOM University of Applied Sciences from 2015 to April 2017
+#' @source Please cite this dataset as: 'Sauer, S. (2016, November 19).
+#'     Extraversion Dataset. http://doi.org/10.17605/OSF.IO/4KGZH'
+
+
+
+"extra_names"

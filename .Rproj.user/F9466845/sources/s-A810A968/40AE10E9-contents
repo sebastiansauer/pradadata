@@ -1,0 +1,44 @@
+#' Data from the OECD Regional Wellbeing study (RWB_03112017172414431)
+#' Version of June 2016
+#'
+#' Agregated and detailed indicators for all OECD regions are reported.
+#'
+#' Please see the userguide for details on the indicators
+#'
+#' @docType data
+#' @usage data(wellbeing)
+#' @keywords datasets
+#'
+#' @format A data frame with 429 rows and 28 variables.
+#' \describe{
+#'   \item{Country}{OECD country}
+#'   \item{Region}{XXXX}
+#'   \item{region_type}{XXXX}
+#'   \item{Education}{XXXX}
+#'   \item{Jobs}{XXXX}
+#'   \item{Income}{XXXX}
+#'   \item{Safety}{XXXX}
+#'   \item{Civic_engagement}{Civic engagement}
+#'   \item{Accessiblity_to_services}{Accessibility of services}
+#'   \item{Housing}{XXXX}
+#'   \item{Community}{XXXX}
+#'   \item{Life_satisfaction}{XXXX}
+#'   \item{Labour}{Labour force with at least secondary education}
+#'   \item{Employment}{"Employment rate}
+#'   \item{Unemployment}{Unemploy-ment rate}
+#'   \item{Income_capita}{Household disposable income per capita}
+#'   \item{Homicide}{Homicide rate}
+#'   \item{Mortality}{Mortality rate}
+#'   \item{Life_expectancy}{Life expectancy}
+#'   \item{PM25}{Air pollution (level of PM2.5)}
+#'   \item{Voter}{Voter turnout}
+#'   \item{Broadband}{Broadband access}
+#'   \item{Rooms}{Number of rooms per person}
+#'   \item{Support}{Perceived social network support}
+#'   \item{Satisfaction}{Self assessment of life satisfaction}
+#'}
+#'
+#' @source \href{https://www.oecdregionalwellbeing.org/}
+#'
+
+"wellbeing"
