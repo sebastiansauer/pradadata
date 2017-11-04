@@ -17,8 +17,7 @@ parties_de
 }
 \description{
 This dataset stems from data published by the Bundeswahlleiter 2017
-(c) Der Bundeswahlleiter, Wiesbaden 2017
-https://www.bundeswahlleiter.de/info/impressum.html
+(c) Der Bundeswahlleiter, Wiesbaden 2017, \url{https://www.bundeswahlleiter.de/info/impressum.html}
 }
 \details{
 Data is made available for unrestricted use provided the source is credited.
