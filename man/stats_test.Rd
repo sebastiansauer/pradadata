@@ -4,7 +4,7 @@
 \name{stats_test}
 \alias{stats_test}
 \title{Results from an exam in inferential statistics.}
-\format{A data frame containing 306 rows and 7 columns
+\format{A data frame containing 2263 rows and 7 columns
 \describe{
   \item{row_number}{Integer. Row number}
   \item{date_time}{Chr. Date and Time in German format}

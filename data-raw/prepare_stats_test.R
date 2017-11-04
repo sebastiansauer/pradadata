@@ -3,6 +3,7 @@
 library(tidyverse)
 stats_test_raw <- read_csv("~/Downloads/Übungsklausur Inferenzstatistik (Antworten) - Formularantworten 1.csv")
 
+data <- stats_test_raw
 
 
 prepare_stats_test <- function(data){
@@ -36,7 +37,7 @@ prepare_stats_test <- function(data){
     map_df(~recode(., "Richtig" = "TRUE", "Falsch" = "FALSE")) %>%
     map2(solutions, `==`) %>%
     as_tibble %>%
-    mutate(score = rowMeans(.)) %>%
+    mutate(score = rowMeans(., na.rm =TRUE)) %>%
     select(score) -> score
 
 
