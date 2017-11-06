@@ -20,5 +20,4 @@
 #'    Dataset “Height and shoe size.” http://doi.org/10.17605/OSF.IO/JA9DW'
 
 
-
 "wo_men"
