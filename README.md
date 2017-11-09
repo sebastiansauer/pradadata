@@ -14,7 +14,8 @@ Data sets featuring data from
 - toy data set on sex, height, and shoe size
 - online dating platform experiment 2015
 - German sentiment lexicon
-- predictors and score of statistics testgl
+- predictors and score of statistics test
+- names of world countries
 
 
 Notes that some (most) of these data sets were not published by the author of this pacakge. The original authors and the respective licences can be found in the desription of each data set.
