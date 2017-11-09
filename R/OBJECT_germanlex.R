@@ -1,0 +1,26 @@
+#' German sentiment lexicon
+#'
+#' @description Polarity lexicon: Nouns, Adjectives, Verbs, Adverbs
+#'
+#' @details Authors: Manfred Klenner, Simon Clematide, Michael Wiegand, Ronny Peters, #' Institute of Computational Linguistics, University of Zurich, Switzerland#'
+#' Version: 1.1. 2010/08/01
+#' Contact: \email{klenner@@cl.uzh.ch}
+#'
+#'
+#' Licensed under the Apache License, Version 2.0 (the "License")
+#' \url{http://www.apache.org/licenses/LICENSE-2.0}
+#'
+#'
+#' @format A data frame containing 8856 rows and 4 columns
+#' \describe{
+#'   \item{word}{Chr. German word}
+#'   \item{qualifier}{Chr. Either "NEG" for negative, "POD" for positive, "NEU" for neutral, "SHI" for shifter (derbs that enhance the sentiment eg., horribly wrong, really good), or "INT" for intensifier, where INT<1 is a reduction factor, and INT>1 is a gain factor}
+#'   \item{polarity_strength}{num. Strength of polarity}
+#'   \item{pos}{Position in Sentence, "type of word" in grammatical phrase}
+#' }
+#'
+#' @source Fahrni, Angela, and Manfred Klenner. "Old wine or warm beer: Target-specific sentiment analysis of adjectives." Proc. of the Symposium on Affective Language in Human and Machine, AISB. 2008. Clematide, Simon, and Manfred Klenner. "Evaluation and extension of a polarity lexicon for German." Proceedings of the First Workshop on Computational Approaches to Subjectivity and Sentiment Analysis. 2010.
+#'
+
+
+"germanlex"
