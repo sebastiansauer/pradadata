@@ -20,8 +20,18 @@ Notes that some (most) of these data sets were not published by the author of th
 
 
 ## Installation
-devtools::install_github("sebastiansauer/pradadata")
+`devtools::install_github("sebastiansauer/pradadata")`
+
+
+## Getting started
+
+In R (or RStudio) type
+`library("pradadata")`
+
+
+## Get help
+`help("pradadata")`
 
 
 ## Requirements
-none
+R
