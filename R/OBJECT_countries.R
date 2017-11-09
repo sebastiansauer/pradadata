@@ -1,0 +1,33 @@
+#' World country names
+#'
+#' Table with names of world countries plus some more information
+#'
+#' @format data frame with 248 countries and 19 variables
+#' \describe{
+#'   \item{name}{common name in english}
+#'   \item{tld}{country code top-level domain}
+#'   \item{cca2}{code ISO 3166-1 alpha-2}
+#'   \item{ccn3}{code ISO 3166-1 numeric}
+#'   \item{cca3}{code ISO 3166-1 alpha-3}
+#'   \item{cioc}{code International Olympic Committee}
+#'   \item{currency}{ISO 4217 currency code(s)}
+#'   \item{callingCode}{calling code(s)}
+#'   \item{capital}{capital city}
+#'   \item{altSpellings}{alternative spellings}
+#'   \item{region}{region}
+#'   \item{subregion}{subregion}
+#'   \item{languages}{list of official languages}
+#'   \item{translations}{list of name translations}
+#'   \item{latlng}{latitude and longitude}
+#'   \item{demonym}{name of residents}
+#'   \item{landlocked}{landlocked status}
+#'   \item{borders}{land borders}
+#'   \item{area}{land area in km2}
+#' }
+#'
+#' @source This dataset is made available under the Open Database License: \url{http://opendatacommons.org/licenses/odbl/1.0/};  Any rights in individual contents of the database are licensed under the Database Contents License:   \url{http://opendatacommons.org/licenses/dbcl/1.0/}
+#'
+#' @details The data were taken from \href{this source}{https://github.com/mledoze/countries} on 2017-11-09
+#'
+
+"countries"
