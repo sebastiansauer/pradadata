@@ -13,9 +13,11 @@ Data sets featuring data from
 - geomap of German electoral districts 2017
 - toy data set on sex, height, and shoe size
 - online dating platform experiment 2015
-- German sentiment lexicon
+- German sentiment lexicon (germanlex)
+- German sentiment lexicon (sentiws)
 - predictors and score of statistics test
 - names of world countries
+- party platform of the AfD party ("Alternative fuer Deutschland")
 
 
 Notes that some (most) of these data sets were not published by the author of this pacakge. The original authors and the respective licences can be found in the desription of each data set.
