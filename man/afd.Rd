@@ -3,7 +3,7 @@
 \docType{data}
 \name{afd}
 \alias{afd}
-\title{Party platform of the AfD party ("Alternative for Germany") as of 2016-05-01}
+\title{Party platform ("Parteiprogramm") of the AfD party ("Alternative for Germany") as of 2016-05-01}
 \format{A data frame containing 96 rows and variables
 \describe{
   \item{page}{int. Page number}
@@ -16,6 +16,6 @@
 afd
 }
 \description{
-Party platform of the AfD party ("Alternative for Germany") as of 2016-05-01
+Party platform ("Parteiprogramm") of the AfD party ("Alternative for Germany") as of 2016-05-01
 }
 \keyword{datasets}
