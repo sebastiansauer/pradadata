@@ -26,11 +26,11 @@
 #'   \item{Umweltbewusstsein}{Environment awareness}
 #'   \item{Interesse}{Intereset}
 #'  }
-#' @details This dataset was published here: \url{https://osf.io/4982w/}.
+#' @details This dataset was published here: \url{https://osf.io/zg89r/}.
 #'
 #' @source Please cite this dataset as: 'Gansser, O. (2017, June 8).
 #' Data for Principal Component Analysis and Common Factor
-#' Analysis. Retrieved from https://osf.io/4982w/'
+#' Analysis. Retrieved from https://osf.io/zg89r/', CC-BY 4.0
 
 
 

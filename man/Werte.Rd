@@ -25,7 +25,7 @@
 \source{
 Please cite this dataset as: 'Gansser, O. (2017, June 8).
 Data for Principal Component Analysis and Common Factor
-Analysis. Retrieved from https://osf.io/4982w/'
+Analysis. Retrieved from https://osf.io/zg89r/', CC-BY 4.0
 }
 \usage{
 Werte
@@ -37,6 +37,6 @@ The data were collected by students of the FOM
 in Germany in spring 2017 using face-to-face interviews.
 }
 \details{
-This dataset was published here: \url{https://osf.io/4982w/}.
+This dataset was published here: \url{https://osf.io/zg89r/}.
 }
 \keyword{datasets}
