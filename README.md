@@ -1,3 +1,6 @@
+[![Travis-CI Build Status](https://travis-ci.org/sebastiansauer/pradadata.svg?branch=master)](https://travis-ci.org/sebastiansauer/pradadata)
+
+
 # pradadata
 data sets for practical data analysis
 
@@ -39,3 +42,8 @@ In R (or RStudio) type
 
 ## Requirements
 R
+
+
+## Licence
+
+[![Package-License](http://img.shields.io/badge/license-GPL--3-brightgreen.svg?style=flat)](http://www.gnu.org/licenses/gpl-3.0.html)
