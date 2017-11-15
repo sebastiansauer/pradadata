@@ -7,3 +7,4 @@ R/.DS_Store
 .Rproj.user/**
 *.Rproj
 data-raw/**
+.Rproj.user

@@ -11,6 +11,6 @@ afd_raw <- pdf_text(afd_pfad)
 afd_df <- data_frame(page = 1:96,
                   content = afd_raw)
 
-afd_df <- afd
+afd <- afd_df
 
-save(afd_df, file = "data/afd_df.RData")
+save(afd, file = "data/afd.RData")
