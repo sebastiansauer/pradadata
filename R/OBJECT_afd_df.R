@@ -9,4 +9,4 @@
 #' }
 #' @source \url{https://www.alternativefuer.de/wp-content/uploads/sites/7/2016/05/2016-06-27_afd-grundsatzprogramm_web-version.pdf}, by AfD Deutschland
 
-"afd"
+"afd_df"
