@@ -8,7 +8,7 @@ afd_pfad <- "data-raw/afd_programm.pdf"
 
 afd_raw <- pdf_text(afd_pfad)
 
-afd_df <- data_frame(page = 1:96,
+afd <- data_frame(page = 1:96,
                   content = afd_raw)
 
 afd <- afd_df
