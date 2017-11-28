@@ -1,0 +1,53 @@
+ID,socec_indicator
+V1,Land
+V2,Wahlkreis-Nr.
+V3,Wahlkreis-Name
+V4,Gemeinden am 31.12.2015 (Anzahl)
+V5,Fl�che am 31.12.2015 (km�)
+V6,Bev�lkerung am 31.12.2015 - Insgesamt (in 1000)
+V7,Bev�lkerung am 31.12.2015 - Deutsche (in 1000)
+V8,Bev�lkerung am 31.12.2015 - Ausl�nder (%)
+V9,Bev�lkerungsdichte am 31.12.2015 (Einwohner je km�)
+V10,Zu- (+) bzw. Abnahme (-) der Bev�lkerung 2015 - Geburtensaldo (je 1000 Einwohner)
+V11,Zu- (+) bzw. Abnahme (-) der Bev�lkerung 2015 - Wanderungssaldo (je 1000 Einwohner)
+V12,Alter von ... bis ... Jahren am 31.12.2015 - unter 18 (%)
+V13,Alter von ... bis ... Jahren am 31.12.2015 - 18-24 (%)
+V14,Alter von ... bis ... Jahren am 31.12.2015 - 25-34 (%)
+V15,Alter von ... bis ... Jahren am 31.12.2015 - 35-59 (%)
+V16,Alter von ... bis ... Jahren am 31.12.2015 - 60-74 (%)
+V17,Alter von ... bis ... Jahren am 31.12.2015 - 75 und mehr (%)
+V18,"Zensus 2011, Bev�lkerung nach Migrationshintergrund am 09.05.2011 - ohne Migrationshintergrund (%)"
+V19,"Zensus 2011, Bev�lkerung nach Migrationshintergrund am 09.05.2011 - mit Migrationshintergrund (%)"
+V20,"Zensus 2011, Bev�lkerung nach Religionszugeh�rigkeit am 09.05.2011 - R�misch-katholische Kirche (%)"
+V21,"Zensus 2011, Bev�lkerung nach Religionszugeh�rigkeit am 09.05.2011 - Evangelische Kirche (%)"
+V22,"Zensus 2011, Bev�lkerung nach Religionszugeh�rigkeit am 09.05.2011 - Sonstige, keine, ohne Angabe (%)"
+V23,"Zensus 2011, Wohnungen in Wohngeb�uden am 09.05.2011 - Eigent�merquote"
+V24,Baut�tigkeit und Wohnungswesen - Fertiggestellte Wohnungen 2014 (je 1000 Einwohner)
+V25,Baut�tigkeit und Wohnungswesen - Bestand an Wohnungen am 31.12.2015 (je 1000 Einwohner)
+V26,Verf�gbares Einkommen der privaten Haushalte 2014 (� je Einwohner)
+V27,Bruttoinlandsprodukt 2014 (� je Einwohner)
+V28,Kraftfahrzeugbestand am 01.01.2016 (je 1000 Einwohner)
+V29,Absolventen/Abg�nger beruflicher Schulen 2015
+V30,Absolventen/Abg�nger allgemeinbildender Schulen 2015 - insgesamt ohne Externe (je 1000 Einwohner)
+V31,Absolventen/Abg�nger allgemeinbildender Schulen 2015 - ohne Hauptschulabschluss (%)
+V32,Absolventen/Abg�nger allgemeinbildender Schulen 2015 - mit Hauptschulabschluss (%)
+V33,Absolventen/Abg�nger allgemeinbildender Schulen 2015 - mit mittlerem Schulabschluss (%)
+V34,Absolventen/Abg�nger allgemeinbildender Schulen 2015 - mit allgemeiner und Fachhochschulreife (%)
+V35,Kindertagesbetreuung: Betreute Kinder am 01.03.2016 (je 1000 Einwohner)
+V36,Unternehmensregister 2014 - Unternehmen insgesamt (je 1000 Einwohner)
+V37,Unternehmensregister 2014 - Handwerksunternehmen (je 1000 Einwohner)
+V38,Sozialversicherungspflichtig Besch�ftigte am 30.06.2016 - insgesamt (je 1000 Einwohner)
+V39,"Sozialversicherungspflichtig Besch�ftigte am 30.06.2016 - Land- und Forstwirtschaft, Fischerei (%)"
+V40,Sozialversicherungspflichtig Besch�ftigte am 30.06.2016 - Produzierendes Gewerbe (%)
+V41,"Sozialversicherungspflichtig Besch�ftigte am 30.06.2016 - Handel, Gastgewerbe, Verkehr (%)"
+V42,Sozialversicherungspflichtig Besch�ftigte am 30.06.2016 - �ffentliche und private Dienstleister (%)
+V43,Sozialversicherungspflichtig Besch�ftigte am 30.06.2016 - �brige Dienstleister und 'ohne Angabe' (%)
+V44,Empf�nger(innen) von Leistungen nach SGB II am 31.12.2016 -  insgesamt (je 1000 Einwohner)
+V45,Empf�nger(innen) von Leistungen nach SGB II am 31.12.2016 - nicht erwerbsf�hige Hilfebed�rftige (%)
+V46,Empf�nger(innen) von Leistungen nach SGB II am 31.12.2016 - Ausl�nder (%)
+V47,Arbeitslosenquote M�rz 2017 - insgesamt
+V48,Arbeitslosenquote M�rz 2017 - M�nner
+V49,Arbeitslosenquote M�rz 2017 - Frauen
+V50,Arbeitslosenquote M�rz 2017 - 15 bis unter 20 Jahre
+V51,Arbeitslosenquote M�rz 2017 - 55 bis unter 65 Jahre
+V52,Fu�noten

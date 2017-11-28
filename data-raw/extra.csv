@@ -1,0 +1,827 @@
+timestamp,code,i01,i02r,i03,i04,i05,i06r,i07,i08,i09,i10,n_facebook_friends,n_hangover,age,sex,extra_single_item,time_conversation,presentation,n_party,clients,extra_vignette,i21,extra_vignette2,major,smoker,sleep_week,sleep_wend,clients_freq,extra_mean,extra_md,extra_aad,extra_mode,extra_iqr
+11.03.2015 19:17:48,HSC,3,3,3,3,4,4,3,2,3,1,250,1,24,Frau,4,10,nein,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,2.9,3,0.56,3,0
+11.03.2015 19:18:05,ERB,2,2,1,2,3,2,2,3,3,1,106,0,35,Frau,3,15,nein,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,2.1,2,0.54,2,0.75
+11.03.2015 19:18:09,ADP,3,4,1,4,4,1,3,2,3,1,215,0,25,Frau,4,15,nein,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,2.6,3,1.08,1,2.5
+11.03.2015 19:18:19,KHB,3,3,2,4,3,3,3,3,3,2,200,15,39,Frau,3,5,nein,25,NA,NA,NA,NA,NA,NA,NA,NA,NA,2.9,3,0.36000000000000004,3,0
+11.03.2015 19:18:19,PTG,4,3,1,4,4,3,4,2,3,4,100,0,29,Frau,4,5,nein,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,3.2,3.5,0.8,4,1
+11.03.2015 19:18:23,ABL,3,2,1,4,2,3,4,3,3,3,376,1,33,Mann,4,20,ja,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,2.8,3,0.68,3,0.75
+11.03.2015 19:18:38,ber,4,4,1,3,3,3,2,3,3,2,180,1,24,Frau,3,2,ja,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,2.8,3,0.68,3,0.75
+11.03.2015 19:18:50,hph,3,3,2,3,2,2,3,2,4,1,432,2,28,Mann,3,15,ja,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,2.5,2.5,0.7,2,1
+11.03.2015 19:19:27,IHW,4,4,1,4,3,4,3,3,4,2,200,5,29,Frau,4,10,nein,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,3.2,3.5,0.8,4,1
+11.03.2015 19:19:31,LEI,4,4,2,4,3,3,3,3,3,3,NA,0,38,Mann,4,10,nein,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,3.2,3,0.4800000000000001,3,0.75
+11.03.2015 19:19:40,PTG,3,3,1,3,3,3,2,3,4,1,400,1,25,Frau,4,1,nein,10,NA,NA,NA,NA,NA,NA,NA,NA,NA,2.6,3,0.76,3,0.75
+11.03.2015 19:20:02,HRM,3,4,1,3,2,3,4,2,2,3,160,2,52,Frau,4,5,ja,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,2.7,3,0.76,3,1
+11.03.2015 19:20:02,WHB,4,3,1,2,3,3,2,3,4,2,463,20,32,Mann,4,5,ja,10,NA,NA,NA,NA,NA,NA,NA,NA,NA,2.7,3,0.76,3,1
+11.03.2015 19:20:07,TSL,4,3,4,4,3,3,3,3,4,3,308,2,25,Mann,4,5,ja,10,NA,NA,NA,NA,NA,NA,NA,NA,NA,3.4,3,0.48,3,1
+11.03.2015 19:20:20,AKS,3,3,1,3,3,3,3,4,4,2,305,20,23,Frau,4,30,nein,45,NA,NA,NA,NA,NA,NA,NA,NA,NA,2.9,3,0.56,3,0
+11.03.2015 19:20:33,WGM,4,4,2,4,3,4,3,3,4,3,520,7,27,Frau,4,15,ja,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,3.4,3.5,0.6,4,1
+11.03.2015 19:20:43,WEL,4,4,3,4,3,3,3,2,4,3,369,0,32,Frau,4,10,nein,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,3.3,3,0.5599999999999999,3,1
+11.03.2015 19:20:52,WOM,4,3,3,4,4,4,4,4,4,3,NA,12,23,Mann,4,4,ja,120,NA,NA,NA,NA,NA,NA,NA,NA,NA,3.7,4,0.41999999999999993,4,0.75
+11.03.2015 19:21:52,BKM,3,3,1,4,3,3,3,3,3,2,349,1,33,Mann,4,5,nein,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2.8,3,0.5200000000000001,3,0
+11.03.2015 19:27:20,PTG,3,3,1,3,3,3,2,3,4,1,400,1,25,Frau,4,1,nein,10,NA,NA,NA,NA,NA,NA,NA,NA,NA,2.6,3,0.76,3,0.75
+12.03.2015 07:06:02,HHD,4,4,2,4,4,4,4,4,4,3,607,30,27,Frau,4,2,nein,30,NA,NA,NA,NA,NA,NA,NA,NA,NA,3.7,4,0.47999999999999987,4,0
+12.03.2015 11:17:49,HHM,3,2,1,2,1,4,1,3,4,1,197,12,26,Mann,3,30,ja,24,NA,NA,NA,NA,NA,NA,NA,NA,NA,2.2,2,1.04,1,2
+21.03.2015 17:32:11,WGM,4,4,2,4,3,4,3,3,4,3,520,7,27,Frau,4,15,ja,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,3.4,3.5,0.6,4,1
+11.05.2015 18:17:42,KSF,3,3,1,4,3,3,3,2,3,3,NA,0,32,Frau,3,5,ja,10,NA,NA,NA,NA,NA,NA,NA,NA,NA,2.8,3,0.5200000000000001,3,0
+11.05.2015 18:17:57,MJC,3,3,2,3,3,3,3,4,3,2,200,6,25,Frau,3,10,ja,12,NA,NA,NA,NA,NA,NA,NA,NA,NA,2.9,3,0.36000000000000004,3,0
+11.05.2015 18:18:11,SBM,3,3,1,3,2,3,3,3,4,1,NA,0,27,Frau,3,15,ja,20,NA,NA,NA,NA,NA,NA,NA,NA,NA,2.6,3,0.76,3,0.75
+11.05.2015 18:18:25,EGF,2,3,3,2,3,3,3,3,2,2,NA,NA,27,Frau,2,NA,nein,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2.6,3,0.48,3,1
+11.05.2015 18:18:39,HPR,3,3,1,3,3,3,3,3,3,2,400,12,29,Frau,3,NA,nein,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,2.7,3,0.47999999999999987,3,0
+11.05.2015 18:19:07,WHM,4,2,3,3,2,3,3,4,3,4,590,12,29,Mann,4,15,ja,25,NA,NA,NA,NA,NA,NA,NA,NA,NA,3.1,3,0.54,3,0.75
+11.05.2015 18:19:15,MKB,3,4,2,4,4,2,3,3,4,4,150,1,25,Frau,3,7,ja,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,3.3,3.5,0.7,4,1
+11.05.2015 21:53:59,MKB,3,4,2,4,4,2,3,3,4,4,150,1,25,Frau,3,7,ja,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,3.3,3.5,0.7,4,1
+15.09.2015 15:28:03,RWM,4,3,2,4,3,2,4,2,4,3,220,1,23,Mann,3,20,nein,5,im Schnitt 1 Mal pro Tag,NA,NA,NA,NA,NA,NA,NA,4,3.1,3,0.72,4,1.75
+15.09.2015 15:28:40,EBM,2,3,4,3,2,3,3,3,3,2,200,1,23,Frau,3,40,nein,5,im Schnitt 1 Mal pro Quartal (oder weniger),NA,NA,NA,NA,NA,NA,NA,1,2.8,3,0.4800000000000001,3,0.75
+15.09.2015 15:29:47,BED,3,2,1,3,3,3,2,3,3,2,400,2,33,Frau,3,10,ja,10,im Schnitt mehrfach pro Tag,NA,NA,NA,NA,NA,NA,NA,5,2.5,3,0.6,3,1
+15.09.2015 15:32:00,AUA,3,2,2,3,3,3,4,1,3,3,800,1,21,Mann,2,5,ja,0,im Schnitt 1 Mal pro Tag,NA,NA,NA,NA,NA,NA,NA,4,2.7,3,0.6199999999999999,3,0.75
+15.09.2015 15:37:06,MDG,3,1,2,4,3,1,3,3,2,4,350,50,24,Mann,1,10,nein,50,im Schnitt 1 Mal pro Quartal (oder weniger),NA,NA,NA,NA,NA,NA,NA,1,2.6,3,0.88,3,1
+15.09.2015 16:04:55,TBA,4,4,2,4,3,3,3,4,4,4,423,10,23,Frau,3,10,ja,15,im Schnitt mehrfach pro Tag,NA,NA,NA,NA,NA,NA,NA,5,3.5,4,0.6,4,1
+15.09.2015 16:19:39,SBR,3,3,1,3,3,3,3,3,4,2,NA,4,25,Frau,3,5,nein,8,im Schnitt mehrfach pro Tag,NA,NA,NA,NA,NA,NA,NA,5,2.8,3,0.5200000000000001,3,0
+15.09.2015 16:29:17,UFW,4,4,3,4,3,3,3,3,3,2,250,0,24,Frau,4,10,ja,65,im Schnitt mehrfach pro Tag,NA,NA,NA,NA,NA,NA,NA,5,3.2,3,0.4800000000000001,3,0.75
+15.09.2015 17:20:23,HHB,4,3,2,4,4,3,3,3,4,3,NA,2,21,Frau,4,2,ja,5,im Schnitt 1 Mal pro Quartal (oder weniger),NA,NA,NA,NA,NA,NA,NA,1,3.3,3,0.5599999999999999,3,1
+15.09.2015 17:20:54,HHB,4,3,2,4,4,3,3,3,4,3,0,2,21,Frau,4,2,ja,5,im Schnitt 1 Mal pro Quartal (oder weniger),NA,NA,NA,NA,NA,NA,NA,1,3.3,3,0.5599999999999999,3,1
+15.09.2015 19:02:03,RVK,4,3,1,4,4,3,4,4,4,3,767,0,22,Mann,4,5,ja,110,im Schnitt mehrfach pro Tag,NA,NA,NA,NA,NA,NA,NA,5,3.4,4,0.72,4,1
+15.09.2015 19:35:41,MMR,2,2,2,2,1,1,3,2,2,1,600,3,22,Mann,2,1e9,nein,5,im Schnitt 1 Mal pro Monat,NA,NA,NA,NA,NA,NA,NA,2,1.8,2,0.48,2,0.75
+15.09.2015 20:29:13,JAA,4,4,1,3,3,3,4,3,3,4,473,2,22,Frau,4,3,ja,12,im Schnitt 1 Mal pro Quartal (oder weniger),NA,NA,NA,NA,NA,NA,NA,1,3.2,3,0.64,3,1
+15.09.2015 21:58:12,EBM,2,3,4,3,2,3,3,3,3,2,200,1,23,Frau,3,40,nein,5,im Schnitt 1 Mal pro Quartal (oder weniger),NA,NA,NA,NA,NA,NA,NA,1,2.8,3,0.4800000000000001,3,0.75
+15.09.2015 22:21:00,SDS,3,3,2,3,3,3,3,4,3,1,189,5,29,Frau,4,7,nein,12,im Schnitt mehrfach pro Tag,NA,NA,NA,NA,NA,NA,NA,5,2.8,3,0.5200000000000001,3,0
+15.09.2015 23:00:23,aab,4,4,1,3,3,3,3,4,4,4,250,0,40,Mann,4,10,ja,5,im Schnitt mehrfach pro Tag,NA,NA,NA,NA,NA,NA,NA,5,3.3,3.5,0.7,4,1
+16.09.2015 10:09:06,RVM,4,4,3,4,4,2,3,4,3,1,360,15,19,Frau,3,5,nein,40,im Schnitt 1 Mal pro Quartal (oder weniger),NA,NA,NA,NA,NA,NA,NA,1,3.2,3.5,0.8,4,1
+16.09.2015 13:11:32,MWM,4,4,3,4,4,2,4,2,1,2,NA,0,22,Frau,3,NA,nein,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,3.5,1,4,2
+18.09.2015 09:56:50,JDF,4,4,1,4,3,3,3,2,4,2,350,3,21,Frau,4,NA,ja,7,im Schnitt mehrfach pro Tag,NA,NA,NA,NA,NA,NA,NA,5,3,3,0.8,4,1.75
+18.09.2015 20:59:42,dhn,4,3,2,4,4,4,3,4,4,4,550,15,24,Frau,4,3,ja,10,im Schnitt mehrfach pro Tag,NA,NA,NA,NA,NA,NA,NA,5,3.6,4,0.5599999999999999,4,0.75
+19.09.2015 11:07:20,ABS,3,2,3,3,3,3,4,3,3,3,NA,NA,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,3,0.2,3,0
+20.09.2015 13:36:13,JBM,4,3,2,3,4,3,4,3,4,1,278,4,24,Frau,4,5,ja,10,im Schnitt mehrfach pro Tag,NA,NA,NA,NA,NA,NA,NA,5,3.1,3,0.72,3,1
+20.09.2015 18:46:14,GSR,3,3,2,3,2,3,3,2,3,2,150,2,22,Frau,3,5,ja,12,im Schnitt 1 Mal pro Tag,NA,NA,NA,NA,NA,NA,NA,4,2.6,3,0.48,3,1
+20.09.2015 22:04:56,VSM,4,3,2,4,4,3,3,4,3,2,500,0,19,Frau,4,1,ja,10,im Schnitt mehrfach pro Tag,NA,NA,NA,NA,NA,NA,NA,5,3.2,3,0.64,3,1
+20.09.2015 22:05:20,FEG,4,4,4,4,4,4,4,4,4,4,892,12,21,Mann,3,1,nein,30,im Schnitt mehrfach pro Tag,NA,NA,NA,NA,NA,NA,NA,5,4,4,0,4,0
+20.09.2015 22:05:20,GMI,3,4,2,3,3,3,2,3,4,2,388,30,25,Frau,4,10,nein,35,im Schnitt 1 Mal pro Quartal (oder weniger),NA,NA,NA,NA,NA,NA,NA,1,2.9,3,0.54,3,0.75
+20.09.2015 22:08:09,CML,4,4,2,3,3,2,4,4,4,2,300,30,25,Frau,4,10,nein,40,im Schnitt mehrfach pro Tag,NA,NA,NA,NA,NA,NA,NA,5,3.2,3.5,0.8,4,1.75
+20.09.2015 22:12:50,SNI,3,4,1,4,3,3,3,3,3,1,250,12,20,Frau,4,5,nein,24,NA,NA,NA,NA,NA,NA,NA,NA,NA,2.8,3,0.7200000000000001,3,0
+20.09.2015 22:16:20,GGE,4,4,2,3,4,4,3,3,4,3,420,15,24,Frau,4,10,nein,12,im Schnitt 1 Mal pro Woche,NA,NA,NA,NA,NA,NA,NA,3,3.4,3.5,0.6,4,1
+20.09.2015 23:06:33,SBM,4,4,2,3,3,4,3,3,3,2,236,1,23,Frau,4,5,nein,10,im Schnitt mehrfach pro Tag,NA,NA,NA,NA,NA,NA,NA,5,3.1,3,0.54,3,0.75
+21.09.2015 10:36:16,RMM,3,3,1,3,3,3,2,4,4,1,300,25,20,Frau,2,20,nein,30,im Schnitt 1 Mal pro Quartal (oder weniger),NA,NA,NA,NA,NA,NA,NA,1,2.7,3,0.82,3,0.75
+21.09.2015 19:39:58,MMB,3,4,1,3,4,4,3,4,4,2,430,5,23,Frau,4,5,nein,15,im Schnitt 1 Mal pro Tag,NA,NA,NA,NA,NA,NA,NA,4,3.2,3.5,0.8,4,1
+21.09.2015 21:29:32,MSI,3,3,3,2,2,3,3,3,3,2,0,0,20,Frau,2,15,nein,20,im Schnitt mehrfach pro Tag,NA,NA,NA,NA,NA,NA,NA,5,2.7,3,0.41999999999999993,3,0.75
+23.09.2015 11:20:31,HHS,4,4,2,4,4,4,3,3,4,3,649,12,22,Frau,4,4,nein,20,im Schnitt mehrfach pro Tag,NA,NA,NA,NA,NA,NA,NA,5,3.5,4,0.6,4,1
+25.09.2015 12:41:36,DUS,3,2,1,2,2,2,2,2,3,2,195,0,30,Mann,4,60,ja,5,im Schnitt mehrfach pro Tag,NA,NA,NA,NA,NA,NA,NA,5,2.1,2,0.36000000000000004,2,0
+26.09.2015 12:54:46,JWD,3,3,1,4,4,3,3,3,3,3,200,4,24,Frau,4,10,ja,36,im Schnitt mehrfach pro Tag,NA,NA,NA,NA,NA,NA,NA,5,3,3,0.4,3,0
+28.09.2015 12:19:51,WHG,4,2,2,4,4,3,4,3,4,4,188,3,45,Mann,4,3,ja,25,im Schnitt mehrfach pro Tag,NA,NA,NA,NA,NA,NA,NA,5,3.4,4,0.72,4,1
+28.09.2015 23:08:56,WAM,4,2,1,4,3,2,3,3,3,3,410,2,23,Frau,3,3,nein,18,im Schnitt 1 Mal pro Tag,NA,NA,NA,NA,NA,NA,NA,4,2.8,3,0.68,3,0.75
+29.09.2015 08:37:26,NM,3,3,1,3,3,3,2,2,3,1,180,0,23,Frau,4,15,nein,2,im Schnitt 1 Mal pro Monat,NA,NA,NA,NA,NA,NA,NA,2,2.4,3,0.72,3,1
+29.09.2015 08:37:36,HED,4,4,2,4,4,4,2,2,3,2,410,4,23,Frau,3,15,ja,15,im Schnitt mehrfach pro Tag,NA,NA,NA,NA,NA,NA,NA,5,3.1,3.5,0.9,4,2
+29.09.2015 08:38:00,UKS,4,4,2,3,3,4,3,3,3,2,321,24,21,Frau,4,5,nein,36,im Schnitt mehrfach pro Tag,NA,NA,NA,NA,NA,NA,NA,5,3.1,3,0.54,3,0.75
+29.09.2015 08:38:06,ASS,4,3,3,3,3,3,2,3,3,2,450,3,22,Mann,3,NA,ja,15,im Schnitt 1 Mal pro Tag,NA,NA,NA,NA,NA,NA,NA,4,2.9,3,0.36000000000000004,3,0
+29.09.2015 08:39:16,GBV,4,4,2,3,3,3,3,3,3,2,400,10,21,Frau,3,5,nein,25,im Schnitt 1 Mal pro Monat,NA,NA,NA,NA,NA,NA,NA,2,3,3,0.4,3,0
+29.09.2015 08:39:32,MRM,4,4,4,4,4,2,4,3,4,3,412,3,26,Frau,4,5,nein,16,im Schnitt 1 Mal pro Tag,NA,NA,NA,NA,NA,NA,NA,4,3.6,4,0.5599999999999999,4,0.75
+29.09.2015 10:25:32,SFZM,4,4,3,3,3,3,2,1,2,2,197,0,20,Frau,3,0,nein,2,im Schnitt 1 Mal pro Quartal (oder weniger),NA,NA,NA,NA,NA,NA,NA,1,2.7,3,0.76,3,1
+29.09.2015 12:29:38,WEB,3,4,1,3,4,3,3,3,4,2,350,24,29,Frau,NA,5,nein,56,im Schnitt 1 Mal pro Tag,NA,NA,NA,NA,NA,NA,NA,4,3,3,0.6,3,0.75
+30.09.2015 12:52:52,FRW,4,4,1,4,4,4,4,4,4,4,0,0,40,Frau,4,3,ja,4,im Schnitt mehrfach pro Tag,NA,NA,NA,NA,NA,NA,NA,5,3.7,4,0.5399999999999998,4,0
+01.10.2015 09:13:09,OHN,3,3,2,3,3,3,3,3,4,2,261,4,25,Frau,3,5,ja,10,im Schnitt mehrfach pro Tag,NA,NA,NA,NA,NA,NA,NA,5,2.9,3,0.36000000000000004,3,0
+01.10.2015 12:46:04,BGM,4,4,1,4,4,3,3,3,3,2,400,30,25,Frau,4,10,nein,40,im Schnitt mehrfach pro Tag,NA,NA,NA,NA,NA,NA,NA,5,3.1,3,0.72,3,1
+01.10.2015 22:50:15,Wga,4,4,2,4,4,3,4,3,4,3,600,2,20,Frau,4,2,nein,5,im Schnitt 1 Mal pro Tag,NA,NA,NA,NA,NA,NA,NA,4,3.5,4,0.6,4,1
+02.10.2015 08:27:37,KMA,4,3,2,4,4,2,3,3,3,3,200,20,28,Frau,4,5,nein,15,im Schnitt mehrfach pro Tag,NA,NA,NA,NA,NA,NA,NA,5,3.1,3,0.54,3,0.75
+02.10.2015 08:49:04,RDA,3,3,4,3,3,2,3,2,3,1,517,0,25,Frau,3,10,nein,10,im Schnitt mehrfach pro Tag,NA,NA,NA,NA,NA,NA,NA,5,2.7,3,0.6199999999999999,3,0.75
+02.10.2015 14:32:59,HPA,4,3,4,3,2,4,3,3,4,2,400,20,25,Mann,4,10,ja,15,im Schnitt mehrfach pro Tag,NA,NA,NA,NA,NA,NA,NA,5,3.2,3,0.64,3,1
+05.10.2015 21:10:25,OSB,4,4,1,3,4,4,4,3,4,3,550,5,24,Frau,4,2,ja,8,im Schnitt 1 Mal pro Woche,NA,NA,NA,NA,NA,NA,NA,3,3.4,4,0.72,4,1
+07.10.2015 12:09:45,FGL,2,3,2,3,3,3,4,2,2,4,325,5,29,Frau,2,5,ja,1,im Schnitt 1 Mal pro Woche,NA,NA,NA,NA,NA,NA,NA,3,2.8,3,0.64,2,1
+07.10.2015 21:53:03,RBI,3,3,1,2,2,3,3,3,3,3,200,5,22,Frau,3,20,nein,25,im Schnitt mehrfach pro Tag,NA,NA,NA,NA,NA,NA,NA,5,2.6,3,0.5599999999999999,3,0.75
+09.10.2015 21:38:48,RBA,3,2,1,2,2,1,1,4,2,3,450,28,28,Mann,3,5,ja,14,im Schnitt mehrfach pro Tag,NA,NA,NA,NA,NA,NA,NA,5,2.1,2,0.74,2,1.5
+09.10.2015 22:02:41,HSE,4,4,1,3,3,3,3,3,3,3,60,3,26,Mann,3,5,ja,5,im Schnitt mehrfach pro Tag,NA,NA,NA,NA,NA,NA,NA,5,3,3,0.4,3,0
+10.10.2015 07:47:26,REA,3,1,1,3,2,2,2,1,2,1,NA,2,25,Mann,3,15,ja,1,im Schnitt 1 Mal pro Tag,NA,NA,NA,NA,NA,NA,NA,4,1.8,2,0.64,1,1
+10.10.2015 09:27:46,WTF,4,3,2,4,4,4,3,3,4,4,NA,1,30,Mann,4,6,ja,4,im Schnitt mehrfach pro Tag,NA,NA,NA,NA,NA,NA,NA,5,3.5,4,0.6,4,1
+10.10.2015 09:32:01,Cori,4,4,2,4,4,3,3,3,3,2,319,5,24,Frau,3,NA,ja,10,Ich habe keinen Kundenkontakt,NA,NA,NA,NA,NA,NA,NA,NA,3.2,3,0.64,3,1
+10.10.2015 09:40:55,MFA,4,4,2,3,4,3,4,3,4,3,635,3,25,Frau,4,1,ja,10,im Schnitt mehrfach pro Tag,NA,NA,NA,NA,NA,NA,NA,5,3.4,3.5,0.6,4,1
+15.10.2015 15:40:23,WAE,2,3,1,3,2,2,2,2,3,1,NA,1,43,Mann,3,10,nein,2,im Schnitt 1 Mal pro Tag,NA,NA,NA,NA,NA,NA,NA,4,2.1,2,0.54,2,0.75
+22.10.2015 19:45:24,MWM,3,4,2,4,3,4,4,2,4,3,234,3,30,Mann,3,NA,NA,30,im Schnitt mehrfach pro Tag,NA,NA,NA,NA,NA,NA,NA,5,3.3,3.5,0.7,4,1
+25.10.2015 14:36:11,WUB,4,3,1,4,4,2,4,3,3,3,520,10,26,Frau,4,2,ja,26,im Schnitt 1 Mal pro Tag,NA,NA,NA,NA,NA,NA,NA,4,3.1,3,0.72,3,1
+02.11.2015 20:49:58,EGH,4,3,2,4,3,3,3,3,4,4,228,0,32,Frau,4,5,nein,15,im Schnitt 1 Mal pro Tag,NA,NA,NA,NA,NA,NA,NA,4,3.3,3,0.5599999999999999,3,1
+18.11.2015 16:30:52,mzr,1,1,3,3,1,2,2,1,1,4,NA,0,45,Mann,1,45,ja,0,im Schnitt 1 Mal pro Monat,NA,NA,NA,NA,NA,NA,NA,2,1.9,1.5,0.9,1,1.75
+02.12.2015 16:15:52,BMM,3,2,1,2,2,1,3,1,2,2,NA,4,23,Mann,3,30,nein,7,im Schnitt 1 Mal pro Monat,NA,NA,NA,NA,NA,NA,NA,2,1.9,2,0.54,2,0.75
+03.12.2015 14:29:09,GKM,4,3,1,4,3,3,4,3,4,2,360,10,21,Frau,2,30,nein,30,im Schnitt mehrfach pro Tag,NA,NA,NA,NA,NA,NA,NA,5,3.1,3,0.72,3,1
+03.12.2015 19:34:45,shm,3,4,1,3,3,2,2,2,4,2,315,0,24,Frau,2,45,nein,3,3 Mal pro Woche,NA,NA,NA,NA,NA,NA,NA,NA,2.6,2.5,0.8,2,1
+04.12.2015 15:40:50,FHM,3,4,2,3,4,3,3,2,4,2,NA,0,22,Mann,3,30,nein,5,100,NA,NA,NA,NA,NA,NA,NA,NA,3,3,0.6,3,1.5
+05.12.2015 11:11:57,kbf,4,3,2,4,2,3,2,3,3,1,629,18,21,Frau,4,30,ja,34,im Schnitt mehrfach pro Tag,NA,NA,NA,NA,NA,NA,NA,5,2.7,3,0.76,3,1
+05.12.2015 15:30:27,JMM,4,3,2,2,3,3,2,4,4,1,391,6,21,Frau,3,30,nein,50,im Schnitt 1 Mal pro Tag,NA,NA,NA,NA,NA,NA,NA,4,2.8,3,0.8400000000000001,2,1.75
+09.12.2015 17:20:52,kcw,4,4,3,4,4,4,4,3,3,3,NA,153,38,Mann,NA,1,ja,4,im Schnitt 1 Mal pro Monat,NA,NA,NA,NA,NA,NA,NA,2,3.6,4,0.48,4,1
+15.12.2015 15:00:16,WKR,4,4,3,3,3,4,4,4,4,1,120,1,28,Frau,4,10,nein,6,im Schnitt mehrfach pro Tag,NA,NA,NA,NA,NA,NA,NA,5,3.4,4,0.72,4,1
+01.01.2016 18:16:00,HKK,4,4,3,4,4,4,3,3,3,3,250,0,45,Frau,4,5,ja,6,im Schnitt mehrfach pro Tag,NA,NA,NA,NA,NA,NA,NA,5,3.5,3.5,0.5,3,1
+19.01.2016 19:43:52,GGM,3,3,3,2,2,1,2,2,3,1,350,2,23,Frau,3,45,nein,4,im Schnitt mehrfach pro Tag,NA,NA,NA,NA,NA,NA,NA,5,2.2,2,0.64,2,1
+01.02.2016 17:50:10,EUL,3,3,1,4,4,3,4,3,3,4,600,10,26,Mann,4,3,ja,10,im Schnitt mehrfach pro Tag,NA,NA,NA,NA,NA,NA,NA,5,3.2,3,0.64,3,1
+02.02.2016 19:44:07,VEB,3,2,2,3,3,3,2,3,2,4,NA,0,31,Frau,4,10,nein,0,im Schnitt 1 Mal pro Woche,NA,NA,NA,NA,NA,NA,NA,3,2.7,3,0.5599999999999999,3,1
+02.02.2016 20:42:15,PZC,4,2,3,3,3,3,4,4,4,2,550,2,27,Mann,4,30,ja,10,im Schnitt mehrfach pro Tag,NA,NA,NA,NA,NA,NA,NA,5,3.2,3,0.64,3,1
+03.02.2016 13:51:55,GAH,4,4,3,4,3,2,4,3,4,3,NA,3,32,Mann,3,5,ja,5,im Schnitt mehrfach pro Tag,NA,NA,NA,NA,NA,NA,NA,5,3.4,3.5,0.6,4,1
+04.02.2016 18:45:42,BTL,4,3,1,4,3,3,3,4,3,3,155,3,26,Frau,3,2,nein,3,im Schnitt mehrfach pro Tag,NA,NA,NA,NA,NA,NA,NA,5,3.1,3,0.54,3,0.75
+08.02.2016 13:17:36,MBG,3,3,1,4,4,2,3,3,3,2,140,0,45,Frau,3,10,ja,5,im Schnitt mehrfach pro Tag,NA,NA,NA,NA,NA,NA,NA,5,2.8,3,0.68,3,0.75
+29.02.2016 11:23:12,MKG,4,3,2,4,4,4,4,2,4,4,NA,1,32,Frau,3,10,ja,6,im Schnitt 1 Mal pro Tag,passt insgesamt,NA,3,NA,NA,NA,NA,4,3.5,4,0.7,4,0.75
+03.03.2016 15:33:23,NA,3,3,2,2,2,3,3,2,3,1,250,1,24,Frau,1,NA,nein,6,im Schnitt 1 Mal pro Quartal (oder weniger),keine Antwort,NA,6,NA,NA,NA,NA,1,2.4,2.5,0.6,3,1
+03.03.2016 15:33:29,FBR,3,3,3,4,3,3,2,2,3,2,294,2,28,Frau,3,27,ja,1,im Schnitt mehrfach pro Tag,passt insgesamt nicht,NA,4,NA,NA,NA,NA,5,2.8,3,0.4800000000000001,3,0.75
+03.03.2016 15:34:44,CZP,4,3,3,4,4,4,3,3,3,2,600,0,24,Frau,3,NA,nein,30,im Schnitt mehrfach pro Tag,passt insgesamt,NA,3,NA,NA,NA,NA,5,3.3,3,0.5599999999999999,3,1
+03.03.2016 15:34:46,NA,4,3,3,3,3,4,3,4,4,4,500,0,20,Frau,3,7,nein,4,im Schnitt mehrfach pro Tag,passt insgesamt,NA,3,NA,NA,NA,NA,5,3.5,3.5,0.5,3,1
+03.03.2016 15:34:53,ism,4,4,2,4,4,3,3,3,3,2,300,0,20,Frau,3,30,nein,5,im Schnitt 1 Mal pro Monat,keine Antwort,NA,3,NA,NA,NA,NA,2,3.2,3,0.64,3,1
+03.03.2016 15:35:02,Asm,4,3,3,4,3,3,4,3,4,3,350,10,23,Frau,3,15,nein,20,im Schnitt mehrfach pro Tag,passt insgesamt,NA,3,NA,NA,NA,NA,5,3.4,3,0.48,3,1
+03.03.2016 15:35:08,TPF,3,3,1,3,3,4,3,4,4,2,608,2,24,Frau,2,10,nein,30,im Schnitt mehrfach pro Tag,passt insgesamt,NA,5,NA,NA,NA,NA,5,3,3,0.6,3,0.75
+03.03.2016 15:35:15,Oam,2,2,3,3,3,2,1,3,1,2,NA,6,24,Mann,3,15,nein,6,im Schnitt 1 Mal pro Woche,passt insgesamt nicht,NA,4,NA,NA,NA,NA,3,2.2,2,0.64,2,1
+03.03.2016 15:35:28,AEM,3,3,1,4,4,3,3,3,3,2,500,10,21,Frau,3,10,nein,5,ich arbeite ncht,keine Antwort,NA,6,NA,NA,NA,NA,NA,2.9,3,0.56,3,0
+03.03.2016 15:35:32,NA,4,3,2,3,3,3,3,3,4,1,521,12,25,Frau,2,10,ja,12,im Schnitt mehrfach pro Tag,passt insgesamt,NA,5,NA,NA,NA,NA,5,2.9,3,0.56,3,0
+03.03.2016 15:35:34,JMM,3,3,1,3,3,3,3,4,3,3,280,12,23,Frau,2,10,nein,30,im Schnitt mehrfach pro Tag,passt insgesamt,NA,4,NA,NA,NA,NA,5,2.9,3,0.38000000000000006,3,0
+03.03.2016 15:35:57,MKW,4,4,1,3,2,4,2,4,4,2,250,12,22,Frau,2,10,nein,12,im Schnitt 1 Mal pro Quartal (oder weniger),passt insgesamt,NA,6,NA,NA,NA,NA,1,3,3.5,1,4,2
+03.03.2016 15:36:00,AWP,3,3,1,4,4,3,3,4,3,3,120,20,23,Frau,4,15,nein,22,im Schnitt 1 Mal pro Quartal (oder weniger),keine Antwort,NA,2,NA,NA,NA,NA,1,3.1,3,0.54,3,0.75
+03.03.2016 15:36:08,Wwm,4,4,3,3,4,4,3,3,4,2,606,1,21,Frau,3,1,nein,5,im Schnitt 1 Mal pro Tag,keine Antwort,NA,3,NA,NA,NA,NA,4,3.4,3.5,0.6,4,1
+03.03.2016 15:36:12,obs,3,4,2,4,4,4,2,3,3,2,510,3,22,Frau,3,5,ja,15,im Schnitt mehrfach pro Tag,keine Antwort,NA,5,NA,NA,NA,NA,5,3.1,3,0.72,4,1.75
+03.03.2016 15:36:14,NA,3,4,4,4,3,3,4,3,3,3,600,25,22,Mann,4,1,ja,40,im Schnitt mehrfach pro Tag,passt insgesamt,NA,2,NA,NA,NA,NA,5,3.4,3,0.48,3,1
+03.03.2016 15:36:15,NA,3,4,1,2,2,4,2,4,2,2,NA,NA,23,Mann,2,1,nein,48,im Schnitt mehrfach pro Tag,passt insgesamt nicht,NA,8,NA,NA,NA,NA,5,2.6,2,0.92,2,1.75
+03.03.2016 15:36:25,NA,4,4,2,3,3,4,4,4,3,2,500,40,22,Mann,3,5,nein,40,im Schnitt 1 Mal pro Tag,passt insgesamt,NA,6,NA,NA,NA,NA,4,3.3,3.5,0.7,4,1
+03.03.2016 15:36:26,MSG,4,4,3,3,3,3,3,3,4,2,719,8,24,Frau,3,10,nein,25,im Schnitt 1 Mal pro Woche,passt insgesamt,NA,2,NA,NA,NA,NA,3,3.2,3,0.4800000000000001,3,0.75
+03.03.2016 15:36:30,KBP,4,4,3,NA,4,3,3,3,3,2,250,10,28,Frau,3,15,nein,20,im Schnitt 1 Mal pro Monat,passt insgesamt,NA,4,NA,NA,NA,NA,2,3.2222222222222223,3,0.5185185185185186,3,1
+03.03.2016 15:36:34,CPS,4,4,2,3,3,3,2,2,3,1,100,3,21,Frau,2,15,nein,15,im Schnitt 1 Mal pro Tag,keine Antwort,NA,5,NA,NA,NA,NA,4,2.7,3,0.76,3,1
+03.03.2016 15:36:38,ala,4,3,3,3,2,4,NA,4,4,3,500,10,21,Frau,2,10,ja,60,im Schnitt mehrfach pro Tag,passt insgesamt,NA,3,NA,NA,NA,NA,5,3.3333333333333335,3,0.5925925925925926,3,1
+03.03.2016 15:36:39,MGI,3,3,3,3,3,3,3,4,4,1,750,NA,25,Frau,2,10,nein,30,im Schnitt mehrfach pro Tag,keine Antwort,NA,10,NA,NA,NA,NA,5,3,3,0.4,3,0
+03.03.2016 15:36:43,APW,2,2,1,4,3,2,3,3,2,2,NA,15,30,Frau,3,30,nein,24,im Schnitt mehrfach pro Tag,passt insgesamt nicht,NA,5,NA,NA,NA,NA,5,2.4,2,0.6799999999999999,2,1
+03.03.2016 15:36:48,NA,3,3,3,2,2,2,3,4,4,2,350,40,21,Mann,2,3,nein,50,im Schnitt 1 Mal pro Monat,passt insgesamt,NA,5,NA,NA,NA,NA,2,2.8,3,0.64,2,1
+03.03.2016 15:36:50,GFM,3,3,4,3,3,3,3,4,4,2,500,4,24,Frau,3,NA,nein,15,im Schnitt mehrfach pro Tag,passt insgesamt,NA,3,NA,NA,NA,NA,5,3.2,3,0.4800000000000001,3,0.75
+03.03.2016 15:36:52,NA,3,3,1,4,3,3,4,3,3,3,NA,1,42,Frau,3,10,nein,NA,im Schnitt 1 Mal pro Quartal (oder weniger),passt insgesamt,NA,3,NA,NA,NA,NA,1,3,3,0.4,3,0
+03.03.2016 15:36:58,TPM,4,3,2,3,3,3,3,3,4,1,250,NA,21,Frau,2,10,nein,10,im Schnitt mehrfach pro Tag,keine Antwort,NA,6,NA,NA,NA,NA,5,2.9,3,0.56,3,0
+03.03.2016 15:37:01,LBB,1,1,3,1,2,1,2,2,1,3,300,10,23,Frau,2,5,nein,10,im Schnitt mehrfach pro Tag,passt insgesamt,NA,3,NA,NA,NA,NA,5,1.7,1.5,0.7,1,1
+03.03.2016 15:37:03,PSA,4,4,2,4,2,4,2,3,3,1,200,10,22,Frau,2,NA,nein,17,im Schnitt 1 Mal pro Woche,keine Antwort,NA,7,NA,NA,NA,NA,3,2.9,3,0.92,4,2
+03.03.2016 15:37:10,MEF,3,3,2,4,4,2,4,2,3,3,397,8,22,Mann,4,5,nein,10,im Schnitt 1 Mal pro Woche,keine Antwort,NA,5,NA,NA,NA,NA,3,3,3,0.6,3,1.5
+03.03.2016 15:37:10,CBF,4,4,2,3,3,4,3,3,3,1,233,0,23,Frau,2,3,nein,12,im Schnitt mehrfach pro Tag,keine Antwort,NA,4,NA,NA,NA,NA,5,3,3,0.6,3,0.75
+03.03.2016 15:37:11,jda,3,2,1,3,1,1,2,3,4,1,100,0,22,Frau,1,60,nein,10,im Schnitt mehrfach pro Tag,passt insgesamt nicht,NA,7,NA,NA,NA,NA,5,2.1,2,0.92,1,2
+03.03.2016 15:37:13,pcg,4,4,1,4,4,4,4,3,4,3,NA,10,21,Frau,4,1,nein,5,NA,passt insgesamt,NA,2,NA,NA,NA,NA,NA,3.5,4,0.7,4,0.75
+03.03.2016 15:38:13,NA,3,3,4,2,2,2,4,4,4,2,480,106,24,Mann,2,15,ja,150,im Schnitt mehrfach pro Tag,passt insgesamt,NA,7,NA,NA,NA,NA,5,3,3,0.8,2,2
+03.03.2016 15:38:15,FWD,3,3,2,4,4,3,3,3,3,3,400,8,25,Mann,3,5,ja,18,im Schnitt mehrfach pro Tag,keine Antwort,NA,3,NA,NA,NA,NA,5,3.1,3,0.36000000000000004,3,0
+03.03.2016 15:38:40,NA,3,3,2,3,3,3,3,4,4,2,519,4,22,Frau,3,5,nein,10,im Schnitt 1 Mal pro Tag,passt insgesamt,NA,3,NA,NA,NA,NA,4,3,3,0.4,3,0
+03.03.2016 15:39:31,NA,3,4,4,4,3,4,3,4,3,2,700,100,25,Mann,3,NA,ja,150,im Schnitt mehrfach pro Tag,passt insgesamt,NA,3,NA,NA,NA,NA,5,3.4,3.5,0.6,4,1
+03.03.2016 15:42:25,FWD,4,3,3,4,4,4,4,4,4,3,230,0,20,Frau,4,5,ja,20,im Schnitt mehrfach pro Tag,passt insgesamt,NA,2,NA,NA,NA,NA,5,3.7,4,0.41999999999999993,4,0.75
+03.03.2016 20:10:44,NA,3,2,2,3,2,2,3,1,3,2,300,4,28,Mann,3,10,nein,2,im Schnitt 1 Mal pro Woche,passt insgesamt nicht,NA,5,NA,NA,NA,NA,3,2.3,2,0.5599999999999999,2,1
+04.03.2016 11:35:22,DDP,3,3,1,3,3,3,3,2,4,1,214,3,24,Frau,2,60,nein,10,im Schnitt mehrfach pro Tag,passt insgesamt nicht,NA,6,NA,NA,NA,NA,5,2.6,3,0.76,3,0.75
+05.03.2016 09:45:51,NA,1,3,1,3,1,2,2,2,3,2,64,2,28,Frau,2,12,nein,10,im Schnitt 1 Mal pro Woche,passt insgesamt nicht,NA,5,NA,NA,NA,NA,3,2,2,0.6,2,1.5
+05.03.2016 09:54:07,HDE,3,2,1,2,2,1,3,1,3,1,NA,0,25,Mann,3,5,ja,10,im Schnitt 1 Mal pro Woche,passt insgesamt,NA,7,NA,NA,NA,NA,3,1.9,2,0.72,1,1.75
+05.03.2016 09:55:14,NA,3,3,4,2,2,2,4,4,4,2,480,106,24,Mann,2,15,ja,150,im Schnitt mehrfach pro Tag,passt insgesamt,NA,7,NA,NA,NA,NA,5,3,3,0.8,2,2
+06.03.2016 12:28:29,JKF,3,3,1,3,3,3,2,2,4,2,3,5,34,Frau,3,10,nein,2,im Schnitt mehrfach pro Tag,passt insgesamt,NA,2,NA,NA,NA,NA,5,2.6,3,0.6799999999999999,3,1
+06.03.2016 14:38:53,HEL,3,3,1,3,3,3,3,3,3,1,NA,NA,40,Mann,1,NA,ja,NA,im Schnitt 1 Mal pro Tag,passt insgesamt nicht,NA,NA,NA,NA,NA,NA,4,2.6,3,0.6399999999999999,3,0
+06.03.2016 23:25:24,ABM,2,4,3,3,3,3,3,3,3,2,350,2,25,Frau,3,5,ja,20,im Schnitt mehrfach pro Tag,passt insgesamt,NA,3,NA,NA,NA,NA,5,2.9,3,0.36000000000000004,3,0
+07.03.2016 19:14:19,NA,4,4,2,4,4,3,4,4,4,2,300,4,22,Frau,4,5,ja,20,im Schnitt 1 Mal pro Woche,passt insgesamt,NA,2,NA,NA,NA,NA,3,3.5,4,0.7,4,0.75
+07.03.2016 19:14:35,NA,3,3,1,4,4,3,4,4,3,3,500,15,22,Mann,4,2,ja,12,im Schnitt mehrfach pro Tag,passt insgesamt,NA,2,NA,NA,NA,NA,5,3.2,3,0.64,3,1
+07.03.2016 19:14:37,NTD,4,2,3,4,4,4,4,4,4,2,900,0,22,Mann,3,5,ja,10,im Schnitt mehrfach pro Tag,passt insgesamt,NA,4,NA,NA,NA,NA,5,3.5,4,0.7,4,0.75
+07.03.2016 19:14:45,DBL,4,3,4,4,3,4,3,2,2,3,250,5,25,Mann,3,15,nein,5,im Schnitt mehrfach pro Tag,keine Antwort,NA,4,NA,NA,NA,NA,5,3.2,3,0.64,3,1
+07.03.2016 19:14:45,HWH,4,4,2,4,4,4,3,2,4,2,NA,2,23,Frau,4,5,ja,4,im Schnitt 1 Mal pro Woche,passt insgesamt,NA,2,NA,NA,NA,NA,3,3.3,4,0.8400000000000001,4,1.75
+07.03.2016 19:15:13,SMD,3,2,1,2,2,2,4,1,4,2,NA,0,24,Mann,3,10,ja,5,im Schnitt mehrfach pro Tag,passt insgesamt,NA,3,NA,NA,NA,NA,5,2.3,2,0.82,2,0.75
+07.03.2016 19:15:14,NA,2,4,1,4,3,3,3,2,4,3,350,1,22,Frau,3,10,nein,5,im Schnitt mehrfach pro Tag,passt insgesamt,NA,1,NA,NA,NA,NA,5,2.9,3,0.74,3,1.5
+07.03.2016 19:15:18,MKB,4,3,2,3,3,2,3,3,4,2,788,3,26,Frau,3,2,nein,15,im Schnitt mehrfach pro Tag,passt insgesamt,NA,2,NA,NA,NA,NA,5,2.9,3,0.54,3,0.75
+07.03.2016 19:15:22,VHD,4,4,3,4,4,4,3,4,4,3,600,8,25,Frau,4,10,ja,30,im Schnitt mehrfach pro Tag,passt insgesamt,NA,2,NA,NA,NA,NA,5,3.7,4,0.41999999999999993,4,0.75
+07.03.2016 19:15:23,NA,3,3,1,3,3,3,2,3,4,3,25,1,27,Frau,3,5,nein,1,im Schnitt mehrfach pro Tag,passt insgesamt nicht,NA,3,NA,NA,NA,NA,5,2.8,3,0.5200000000000001,3,0
+07.03.2016 19:15:27,MNA,3,3,3,3,3,3,2,3,3,2,1013,5,22,Frau,2,20,nein,10,im Schnitt 1 Mal pro Woche,passt insgesamt,NA,3,NA,NA,NA,NA,3,2.8,3,0.3200000000000001,3,0
+07.03.2016 19:15:48,JPE,3,3,3,3,2,4,3,4,4,2,500,70,24,Mann,3,10,ja,80,im Schnitt mehrfach pro Tag,passt insgesamt,NA,2,NA,NA,NA,NA,5,3.1,3,0.54,3,0.75
+07.03.2016 19:15:49,CAF,3,4,3,4,4,4,2,3,3,3,NA,10,24,Frau,4,20,ja,20,im Schnitt mehrfach pro Tag,passt insgesamt,NA,1,NA,NA,NA,NA,5,3.3,3,0.5599999999999999,3,1
+07.03.2016 19:15:49,LTA,4,3,1,4,3,3,3,3,3,2,647,2,22,Frau,3,5,nein,15,im Schnitt mehrfach pro Tag,passt insgesamt,NA,2,NA,NA,NA,NA,5,2.9,3,0.56,3,0
+07.03.2016 19:15:55,NA,4,4,2,4,3,4,3,3,4,2,NA,3,23,Frau,4,15,nein,10,im Schnitt mehrfach pro Tag,keine Antwort,NA,2,NA,NA,NA,NA,5,3.3,3.5,0.7,4,1
+07.03.2016 19:16:04,LTA,4,3,1,4,3,3,3,3,3,2,647,2,22,Frau,3,5,nein,15,im Schnitt mehrfach pro Tag,passt insgesamt,NA,2,NA,NA,NA,NA,5,2.9,3,0.56,3,0
+07.03.2016 19:16:40,CMH,4,3,2,4,4,3,4,4,4,4,NA,3,28,Mann,4,1,ja,25,im Schnitt mehrfach pro Tag,passt insgesamt,NA,2,NA,NA,NA,NA,5,3.6,4,0.5599999999999999,4,0.75
+07.03.2016 19:17:02,AED,3,3,1,2,2,3,2,3,2,1,100,NA,25,Frau,2,NA,nein,NA,im Schnitt mehrfach pro Tag,passt insgesamt nicht,NA,4,NA,NA,NA,NA,5,2.2,2,0.64,2,1
+07.03.2016 19:17:49,NA,4,4,2,3,3,4,3,4,4,2,0,15,23,Mann,2,15,nein,20,im Schnitt 1 Mal pro Tag,passt insgesamt nicht,NA,4,NA,NA,NA,NA,4,3.3,3.5,0.7,4,1
+07.03.2016 19:17:53,NA,3,3,1,3,4,3,3,3,3,2,228,6,23,Frau,4,15,nein,12,im Schnitt 1 Mal pro Monat,passt insgesamt,NA,NA,NA,NA,NA,NA,2,2.8,3,0.5200000000000001,3,0
+07.03.2016 19:18:32,mzz,3,3,1,3,3,3,3,4,3,2,NA,0,25,Frau,3,5,nein,5,im Schnitt 1 Mal pro Tag,passt insgesamt,NA,3,NA,NA,NA,NA,4,2.8,3,0.5200000000000001,3,0
+07.03.2016 20:30:21,HWH,4,4,2,4,4,4,3,2,4,2,NA,2,23,Frau,4,5,ja,4,im Schnitt 1 Mal pro Woche,passt insgesamt,NA,2,NA,NA,NA,NA,3,3.3,4,0.8400000000000001,4,1.75
+08.03.2016 07:35:21,NA,3,3,4,2,2,2,4,4,4,2,480,106,24,Mann,2,15,ja,150,im Schnitt mehrfach pro Tag,passt insgesamt,NA,NA,NA,NA,NA,NA,5,3,3,0.8,2,2
+08.03.2016 13:03:10,AKL,3,3,2,3,3,3,3,3,4,2,425,80,23,Mann,2,NA,ja,100,im Schnitt mehrfach pro Tag,NA,NA,5,NA,NA,NA,NA,5,2.9,3,0.36000000000000004,3,0
+08.03.2016 13:04:12,NA,3,3,1,3,4,3,3,3,3,1,NA,12,28,Mann,NA,20,ja,12,im Schnitt 1 Mal pro Woche,passt insgesamt,NA,NA,NA,NA,NA,NA,3,2.7,3,0.6799999999999999,3,0
+08.03.2016 13:05:16,FFU,4,3,2,3,3,3,3,3,4,3,650,15,20,Mann,2,NA,ja,30,im Schnitt mehrfach pro Tag,keine Antwort,NA,2,NA,NA,NA,NA,5,3.1,3,0.36000000000000004,3,0
+08.03.2016 13:06:55,RSR,4,4,2,4,4,4,4,4,4,2,NA,70,23,Mann,4,NA,ja,90,im Schnitt mehrfach pro Tag,passt insgesamt,NA,NA,NA,NA,NA,NA,5,3.6,4,0.6399999999999999,4,0
+08.03.2016 13:06:59,UBG,3,4,3,3,3,4,3,3,2,2,563,40,25,Mann,3,NA,ja,40,im Schnitt mehrfach pro Tag,passt insgesamt,NA,2,NA,NA,NA,NA,5,3,3,0.4,3,0
+08.03.2016 13:07:00,TAI,3,3,3,3,2,3,3,3,3,2,436,40,25,Mann,3,NA,ja,10,im Schnitt 1 Mal pro Quartal (oder weniger),passt insgesamt,NA,3,NA,NA,NA,NA,1,2.8,3,0.3200000000000001,3,0
+08.03.2016 13:07:01,CKH,3,3,2,2,2,3,2,2,4,1,400,0,24,Frau,2,5,nein,4,im Schnitt mehrfach pro Tag,passt insgesamt nicht,NA,4,NA,NA,NA,NA,5,2.4,2,0.6799999999999999,2,1
+08.03.2016 13:07:13,DWW,4,4,3,4,3,3,3,3,3,4,350,24,24,Mann,3,10,nein,10,im Schnitt 1 Mal pro Woche,passt insgesamt,NA,2,NA,NA,NA,NA,3,3.4,3,0.48,3,1
+08.03.2016 13:07:21,FBB,4,3,1,4,3,3,3,3,4,3,250,9,23,Mann,3,NA,ja,NA,im Schnitt 1 Mal pro Tag,passt insgesamt,NA,3,NA,NA,NA,NA,4,3.1,3,0.54,3,0.75
+08.03.2016 13:07:21,SPK,3,4,1,2,2,2,3,2,1,1,35,0,22,Frau,1,NA,nein,4,im Schnitt 1 Mal pro Woche,passt insgesamt,NA,6,NA,NA,NA,NA,3,2.1,2,0.74,2,1.5
+08.03.2016 13:07:48,Per,3,3,3,2,3,3,2,3,3,2,NA,NA,24,Frau,2,NA,ja,NA,im Schnitt mehrfach pro Tag,keine Antwort,NA,3,NA,NA,NA,NA,5,2.7,3,0.41999999999999993,3,0.75
+08.03.2016 13:08:44,wbt,2,2,2,3,3,3,3,2,2,2,NA,1,37,Frau,3,10,nein,5,NA,keine Antwort,NA,4,NA,NA,NA,NA,NA,2.4,2,0.48,2,1
+08.03.2016 21:57:52,HKG,4,4,2,3,3,3,3,4,4,2,350,30,30,Frau,3,10,ja,20,im Schnitt mehrfach pro Tag,passt insgesamt,NA,2,NA,NA,NA,NA,5,3.2,3,0.64,3,1
+09.03.2016 17:23:42,PDG,4,3,3,4,3,3,4,2,3,2,150,2,22,Mann,3,40,ja,2,im Schnitt mehrfach pro Tag,keine Antwort,NA,3,NA,NA,NA,NA,5,3.1,3,0.54,3,0.75
+09.03.2016 18:29:10,MSM,3,3,4,3,3,3,2,3,3,1,625,9,23,Frau,1,10,nein,48,im Schnitt 1 Mal pro Quartal (oder weniger),keine Antwort,NA,4,NA,NA,NA,NA,1,2.8,3,0.5200000000000001,3,0
+09.03.2016 20:32:20,NA,4,3,3,4,3,3,2,2,3,2,80,0,37,Frau,1,50,nein,3,im Schnitt mehrfach pro Tag,passt insgesamt nicht,NA,5,NA,NA,NA,NA,5,2.9,3,0.54,3,0.75
+09.03.2016 21:46:08,RNC,3,4,1,3,2,3,3,2,2,1,NA,1,25,Frau,2,45,nein,3,im Schnitt 1 Mal pro Tag,keine Antwort,NA,4,NA,NA,NA,NA,4,2.4,2.5,0.8,3,1
+10.03.2016 21:04:10,JMF,3,3,1,3,2,3,3,2,4,2,NA,1,29,Mann,2,5,ja,10,im Schnitt mehrfach pro Tag,keine Antwort,NA,4,NA,NA,NA,NA,5,2.6,3,0.6799999999999999,3,1
+10.03.2016 21:04:34,JGW,4,4,1,3,3,3,3,3,3,2,215,1,28,Frau,2,15,nein,10,im Schnitt mehrfach pro Tag,keine Antwort,NA,4,NA,NA,NA,NA,5,2.9,3,0.56,3,0
+10.03.2016 22:11:50,ALV,3,2,4,3,2,3,4,3,4,3,157,10,24,Frau,3,NA,ja,20,im Schnitt mehrfach pro Tag,passt insgesamt,NA,3,NA,NA,NA,NA,5,3.1,3,0.54,3,0.75
+11.03.2016 20:01:45,NA,1,3,1,4,4,3,4,3,4,4,700,2,25,Frau,4,5,ja,5,im Schnitt mehrfach pro Tag,passt insgesamt,NA,1,NA,NA,NA,NA,5,3.1,3.5,0.9,4,1
+11.03.2016 20:02:17,KNB,4,4,2,4,4,3,4,4,4,3,300,3,21,Frau,4,1,ja,15,im Schnitt mehrfach pro Tag,keine Antwort,NA,1,NA,NA,NA,NA,5,3.6,4,0.5599999999999999,4,0.75
+11.03.2016 20:02:41,RSL,3,4,2,4,3,4,3,3,4,4,250,0,23,Frau,3,3,ja,15,im Schnitt 1 Mal pro Woche,passt insgesamt,NA,2,NA,NA,NA,NA,3,3.4,3.5,0.6,4,1
+11.03.2016 20:02:42,JKL,4,4,4,4,4,4,3,4,4,4,600,6,21,Frau,3,5,ja,45,im Schnitt 1 Mal pro Tag,passt insgesamt,NA,1,NA,NA,NA,NA,4,3.9,4,0.18000000000000008,4,0
+11.03.2016 20:02:43,JWW,4,4,1,4,4,4,4,2,3,3,300,1,23,Frau,3,15,ja,3,im Schnitt 1 Mal pro Tag,passt insgesamt,NA,1,NA,NA,NA,NA,4,3.3,4,0.8400000000000001,4,1
+11.03.2016 20:02:57,GKF,4,4,4,3,3,3,3,4,4,1,300,5,21,Frau,1,60,nein,30,im Schnitt 1 Mal pro Quartal (oder weniger),passt insgesamt nicht,NA,5,NA,NA,NA,NA,1,3.3,3.5,0.7,4,1
+11.03.2016 20:03:10,DGM,3,2,3,2,3,2,3,2,2,2,400,10,35,Mann,1,20,ja,10,im Schnitt 1 Mal pro Woche,passt insgesamt nicht,NA,3,NA,NA,NA,NA,3,2.4,2,0.48,2,1
+11.03.2016 20:03:12,Jwa,3,3,2,3,3,3,3,3,4,3,91,2,24,Frau,3,10,ja,10,im Schnitt 1 Mal pro Woche,passt insgesamt,NA,3,NA,NA,NA,NA,3,3,3,0.2,3,0
+11.03.2016 20:03:32,NA,3,3,2,3,3,3,3,3,3,3,300,4,25,Frau,3,3,ja,10,im Schnitt 1 Mal pro Woche,passt insgesamt,NA,2,NA,NA,NA,NA,3,2.9,3,0.18000000000000008,3,0
+11.03.2016 20:03:49,NA,4,4,1,4,3,4,2,3,4,2,150,5,24,Frau,3,180,ja,10,im Schnitt mehrfach pro Tag,keine Antwort,NA,1,NA,NA,NA,NA,5,3.1,3.5,0.9,4,1.75
+11.03.2016 20:03:54,CLM,4,3,1,4,4,4,4,4,4,2,350,4,24,Frau,3,3,ja,12,im Schnitt 1 Mal pro Tag,passt insgesamt,NA,2,NA,NA,NA,NA,4,3.4,4,0.8400000000000001,4,0.75
+11.03.2016 20:03:57,WSW,3,3,1,3,3,2,3,3,3,1,90,2,34,Frau,3,30,nein,24,im Schnitt mehrfach pro Tag,passt insgesamt,NA,3,NA,NA,NA,NA,5,2.5,3,0.7,3,0.75
+11.03.2016 20:04:03,NA,4,3,1,3,2,3,3,4,4,2,178,5,33,Mann,2,15,nein,20,im Schnitt mehrfach pro Tag,passt insgesamt,NA,2,NA,NA,NA,NA,5,2.9,3,0.74,3,1.5
+11.03.2016 20:04:09,KEI,4,4,1,3,3,3,2,3,3,1,200,4,29,Frau,2,20,nein,12,im Schnitt 1 Mal pro Tag,passt insgesamt nicht,NA,3,NA,NA,NA,NA,4,2.7,3,0.82,3,0.75
+11.03.2016 20:04:28,RPB,3,4,1,3,3,3,2,3,3,2,NA,2,38,Frau,3,5,nein,2,im Schnitt 1 Mal pro Tag,passt insgesamt,NA,3,NA,NA,NA,NA,4,2.7,3,0.6199999999999999,3,0.75
+11.03.2016 20:04:29,EKM,4,4,1,4,3,4,3,3,3,2,450,6,23,NA,3,5,nein,24,im Schnitt 1 Mal pro Woche,keine Antwort,NA,2,NA,NA,NA,NA,3,3.1,3,0.72,3,1
+11.03.2016 20:04:29,HFF,4,3,2,4,4,3,3,3,3,3,35,1,33,Mann,4,30,ja,5,im Schnitt mehrfach pro Tag,passt insgesamt,NA,1,NA,NA,NA,NA,5,3.2,3,0.4800000000000001,3,0.75
+11.03.2016 20:04:47,SPB,3,3,3,3,3,2,4,3,3,2,200,5,29,Frau,4,15,nein,20,im Schnitt mehrfach pro Tag,passt insgesamt,NA,1,NA,NA,NA,NA,5,2.9,3,0.36000000000000004,3,0
+11.03.2016 20:04:58,gam,4,4,2,3,2,3,4,4,4,1,250,2,26,Frau,2,3,nein,30,im Schnitt mehrfach pro Tag,passt insgesamt nicht,NA,5,NA,NA,NA,NA,5,3.1,3.5,0.9,4,1.75
+11.03.2016 20:05:09,DRR,3,3,1,3,3,3,2,3,3,2,NA,3,37,Frau,2,35,nein,10,im Schnitt 1 Mal pro Woche,keine Antwort,NA,4,NA,NA,NA,NA,3,2.6,3,0.5599999999999999,3,0.75
+11.03.2016 20:05:30,Shr,4,3,4,3,3,3,4,4,3,3,370,20,25,Frau,3,10,ja,25,im Schnitt mehrfach pro Tag,passt insgesamt,NA,2,NA,NA,NA,NA,5,3.4,3,0.48,3,1
+11.03.2016 20:05:36,YUM,4,4,1,3,3,3,2,2,3,1,100,3,25,Frau,2,15,nein,2,im Schnitt 1 Mal pro Woche,keine Antwort,NA,4,NA,NA,NA,NA,3,2.6,3,0.88,3,1
+11.03.2016 20:06:01,WKM,3,3,3,3,3,3,3,3,3,2,200,3,23,Frau,2,NA,nein,10,im Schnitt mehrfach pro Tag,passt insgesamt,NA,5,NA,NA,NA,NA,5,2.9,3,0.18000000000000008,3,0
+12.03.2016 10:12:26,AAD,3,2,1,4,3,1,2,1,2,1,NA,0,19,Frau,1,20,nein,0,NA,passt insgesamt,NA,6,NA,NA,NA,NA,NA,2,2,0.8,1,1.75
+14.03.2016 20:38:48,Rwe,3,3,1,3,3,3,4,3,4,4,NA,3,36,Mann,3,15,nein,20,im Schnitt 1 Mal pro Woche,keine Antwort,NA,2,NA,NA,NA,NA,3,3.1,3,0.54,3,0.75
+15.03.2016 07:39:10,NA,3,3,4,2,2,2,4,4,4,2,480,106,24,Mann,2,15,ja,150,im Schnitt mehrfach pro Tag,passt insgesamt,NA,NA,NA,NA,NA,NA,5,3,3,0.8,2,2
+15.03.2016 17:37:25,RHF,3,3,3,3,3,4,3,2,4,1,NA,1,29,Frau,3,30,ja,10,im Schnitt mehrfach pro Tag,passt insgesamt nicht,NA,4,NA,NA,NA,NA,5,2.9,3,0.56,3,0
+17.03.2016 11:48:40,NA,3,3,1,3,3,2,3,3,3,2,555,10,22,Frau,2,15,nein,20,im Schnitt mehrfach pro Tag,passt insgesamt nicht,NA,4,NA,NA,NA,NA,5,2.6,3,0.5599999999999999,3,0.75
+17.03.2016 13:15:39,JAD,4,4,2,4,3,2,2,4,4,2,NA,12,33,Frau,2,30,nein,24,im Schnitt mehrfach pro Tag,passt insgesamt nicht,NA,4,NA,NA,NA,NA,5,3.1,3.5,0.9,4,2
+19.03.2016 13:33:17,NA,4,4,1,4,4,4,3,4,4,4,NA,5,32,Frau,4,5,ja,30,im Schnitt 1 Mal pro Woche,passt insgesamt,NA,1,NA,NA,NA,NA,3,3.6,4,0.6399999999999999,4,0
+19.03.2016 14:43:08,HMD,3,4,1,3,4,4,3,4,3,3,150,0,39,Mann,4,1,ja,12,im Schnitt 1 Mal pro Quartal (oder weniger),passt insgesamt,NA,2,NA,NA,NA,NA,1,3.2,3,0.64,3,1
+19.03.2016 14:43:13,SKS,2,2,1,2,2,2,3,2,3,2,NA,NA,31,Frau,3,10,ja,4,im Schnitt mehrfach pro Tag,passt insgesamt,NA,2,NA,NA,NA,NA,5,2.1,2,0.36000000000000004,2,0
+19.03.2016 15:01:13,RBL,4,4,1,4,4,4,3,3,3,3,NA,0,42,Mann,3,10,ja,5,im Schnitt 1 Mal pro Woche,passt insgesamt,NA,1,NA,NA,NA,NA,3,3.3,3.5,0.7,4,1
+19.03.2016 17:11:55,MKH,4,2,2,4,4,3,3,4,3,1,400,4,25,Frau,3,1,ja,15,im Schnitt 1 Mal pro Monat,passt insgesamt,NA,2,NA,NA,NA,NA,2,3,3,0.8,4,1.75
+20.03.2016 21:58:30,WAP,3,2,1,2,3,3,2,1,2,1,300,0,19,Mann,2,30,ja,1,NA,passt insgesamt,NA,4,NA,NA,NA,NA,NA,2,2,0.6,2,1.5
+21.03.2016 14:46:17,JNM,4,4,1,4,3,3,3,4,4,3,800,3,22,Frau,3,15,ja,18,im Schnitt 1 Mal pro Woche,passt insgesamt,NA,3,NA,NA,NA,NA,3,3.3,3.5,0.7,4,1
+21.03.2016 14:46:19,MSL,4,4,2,3,3,4,3,4,4,2,1200,5,20,Frau,NA,15,nein,30,NA,passt insgesamt,NA,3,NA,NA,NA,NA,NA,3.3,3.5,0.7,4,1
+21.03.2016 14:51:48,tpb,2,1,1,2,2,1,3,3,4,1,40,0,18,Frau,2,5,ja,6,NA,NA,NA,5,NA,NA,NA,NA,NA,2,2,0.8,1,1.75
+21.03.2016 14:52:43,NA,3,1,2,3,3,2,4,2,3,2,500,5,20,Mann,3,20,nein,15,im Schnitt 1 Mal pro Woche,passt insgesamt nicht,NA,4,NA,NA,NA,NA,3,2.5,2.5,0.7,2,1
+21.03.2016 14:53:19,MBU,3,3,4,3,3,3,3,4,4,3,500,10,18,NA,2,30,nein,30,im Schnitt 1 Mal pro Woche,passt insgesamt,NA,2,NA,NA,NA,NA,3,3.3,3,0.41999999999999993,3,0.75
+21.03.2016 14:53:30,WKM,3,3,1,3,2,2,2,1,3,1,200,0,19,Frau,1,5,nein,1,NA,keine Antwort,NA,4,NA,NA,NA,NA,NA,2.1,2,0.72,3,1.75
+21.03.2016 14:53:58,NA,2,1,2,3,3,1,2,1,4,1,300,4,27,Mann,3,30,ja,2,im Schnitt 1 Mal pro Quartal (oder weniger),passt insgesamt nicht,NA,5,NA,NA,NA,NA,1,2,2,0.8,1,1.75
+21.03.2016 14:54:29,NA,4,2,1,3,4,3,3,4,4,2,180,6,20,Mann,4,30,ja,20,im Schnitt 1 Mal pro Woche,passt insgesamt,NA,3,NA,NA,NA,NA,3,3,3,0.8,4,1.75
+21.03.2016 14:54:30,KKO,4,3,2,3,3,3,3,3,4,3,477,3,18,Frau,2,5,nein,37,im Schnitt 1 Mal pro Woche,keine Antwort,NA,2,NA,NA,NA,NA,3,3.1,3,0.36000000000000004,3,0
+21.03.2016 14:54:44,NA,3,2,1,3,3,3,2,2,2,1,450,0,19,Frau,2,30,ja,10,im Schnitt 1 Mal pro Woche,passt insgesamt,NA,4,NA,NA,NA,NA,3,2.2,2,0.64,2,1
+21.03.2016 14:54:46,NA,3,2,1,4,4,4,3,3,4,2,60,1,26,Frau,2,NA,nein,3,im Schnitt 1 Mal pro Monat,passt insgesamt nicht,NA,2,NA,NA,NA,NA,2,3,3,0.8,4,1.75
+21.03.2016 14:54:57,NA,4,3,1,3,4,3,3,3,3,3,1200,10,20,Mann,4,5,nein,20,im Schnitt mehrfach pro Tag,passt insgesamt,NA,2,NA,NA,NA,NA,5,3,3,0.4,3,0
+21.03.2016 14:55:19,JTO,3,3,3,2,2,3,2,3,3,2,356,2,19,Frau,2,60,nein,25,NA,passt insgesamt nicht,NA,4,NA,NA,NA,NA,NA,2.6,3,0.48,3,1
+21.03.2016 14:55:33,MSE,3,3,3,3,2,3,4,3,4,2,170,0,18,Frau,2,120,nein,10,im Schnitt 1 Mal pro Quartal (oder weniger),keine Antwort,NA,2,NA,NA,NA,NA,1,3,3,0.4,3,0
+21.03.2016 14:55:35,NA,3,4,3,4,3,4,3,3,3,2,1100,0,21,Mann,3,10,ja,7,NA,keine Antwort,NA,3,NA,NA,NA,NA,NA,3.2,3,0.4800000000000001,3,0.75
+21.03.2016 15:02:52,GPO,4,4,3,4,4,2,4,4,4,2,2222,6,18,Frau,3,2,ja,20,im Schnitt 1 Mal pro Woche,passt insgesamt,NA,3,NA,NA,NA,NA,3,3.5,4,0.7,4,0.75
+21.03.2016 15:21:09,TMM,3,4,3,4,4,3,4,3,4,4,800,10,20,Frau,3,10,ja,20,NA,passt insgesamt,NA,2,NA,NA,NA,NA,NA,3.6,4,0.48,4,1
+21.03.2016 15:21:39,NA,3,3,1,4,2,2,4,4,2,2,200,50,24,Mann,3,5,ja,40,Nö,passt insgesamt,NA,2,NA,NA,NA,NA,NA,2.7,2.5,0.9,2,1.75
+21.03.2016 15:21:44,HBM,3,2,3,2,2,2,2,3,3,2,341,3,19,Mann,2,30,nein,4,im Schnitt 1 Mal pro Woche,passt insgesamt,NA,4,NA,NA,NA,NA,3,2.4,2,0.48,2,1
+21.03.2016 15:21:50,NA,4,3,1,4,3,3,3,4,4,2,0,50,24,Mann,2,10,nein,50,im Schnitt 1 Mal pro Woche,passt insgesamt,NA,3,NA,NA,NA,NA,3,3.1,3,0.72,3,1
+21.03.2016 15:22:32,NA,4,4,3,3,4,3,3,4,3,4,618,50,20,Mann,2,10,nein,50,im Schnitt 1 Mal pro Quartal (oder weniger),passt insgesamt,NA,1,NA,NA,NA,NA,1,3.5,3.5,0.5,3,1
+21.03.2016 15:22:36,NA,4,3,2,4,4,3,4,4,4,3,326,40,22,Frau,3,5,ja,60,im Schnitt mehrfach pro Tag,passt insgesamt,NA,2,NA,NA,NA,NA,5,3.5,4,0.6,4,1
+21.03.2016 15:22:47,MHL,3,4,2,4,3,4,3,2,3,2,327,2,20,Mann,4,5,ja,2,im Schnitt 1 Mal pro Woche,passt insgesamt,NA,3,NA,NA,NA,NA,3,3,3,0.6,3,1.5
+21.03.2016 15:22:50,IPM,3,3,1,4,3,3,3,2,3,1,NA,0,20,Frau,2,10,nein,8,im Schnitt 1 Mal pro Tag,passt insgesamt nicht,NA,3,NA,NA,NA,NA,4,2.6,3,0.76,3,0.75
+21.03.2016 15:22:55,NA,3,3,4,3,3,3,3,4,4,3,876,30,20,Mann,3,5,nein,50,im Schnitt mehrfach pro Tag,passt insgesamt,NA,2,NA,NA,NA,NA,5,3.3,3,0.41999999999999993,3,0.75
+21.03.2016 15:23:09,NA,3,2,1,3,3,3,3,3,3,3,25,30,19,Frau,3,5,nein,30,im Schnitt mehrfach pro Tag,keine Antwort,NA,2,NA,NA,NA,NA,5,2.7,3,0.47999999999999987,3,0
+21.03.2016 15:23:34,UNF,4,3,1,3,3,3,4,4,4,3,150,40,19,Frau,2,7,nein,40,im Schnitt 1 Mal pro Monat,passt insgesamt nicht,NA,5,NA,NA,NA,NA,2,3.2,3,0.64,3,1
+21.03.2016 15:23:53,DGG,3,3,1,4,4,3,3,2,4,4,600,2,21,Mann,3,5,ja,12,im Schnitt mehrfach pro Tag,passt insgesamt,NA,1,NA,NA,NA,NA,5,3.1,3,0.72,3,1
+21.03.2016 15:24:04,GLM,3,3,1,2,2,3,1,4,3,1,NA,12,19,Frau,1,5,nein,35,NA,NA,NA,3,NA,NA,NA,NA,NA,2.3,2.5,0.9,3,1.75
+21.03.2016 15:25:00,PKM,3,2,2,2,2,2,2,2,2,2,257,0,19,Frau,2,NA,ja,NA,NA,passt insgesamt nicht,NA,3,NA,NA,NA,NA,NA,2.1,2,0.18000000000000008,2,0
+21.03.2016 15:25:39,partymaus21,4,3,1,4,3,3,3,3,4,3,450,12,21,Frau,3,7,nein,30,im Schnitt 1 Mal pro Woche,keine Antwort,NA,2,NA,NA,NA,NA,3,3.1,3,0.54,3,0.75
+21.03.2016 15:26:32,Cfl,4,4,2,3,4,3,3,2,3,1,350,NA,20,Frau,3,2,nein,2,im Schnitt 1 Mal pro Quartal (oder weniger),passt insgesamt,NA,2,NA,NA,NA,NA,1,2.9,3,0.74,3,1.5
+21.03.2016 15:26:45,UWM,2,3,2,2,2,1,3,2,4,2,140,1,21,Frau,1,10,nein,8,im Schnitt mehrfach pro Tag,passt insgesamt,NA,4,NA,NA,NA,NA,5,2.3,2,0.6199999999999999,2,0.75
+21.03.2016 15:27:03,tpp,4,4,2,3,4,4,3,4,4,4,618,50,20,Mann,3,NA,nein,NA,im Schnitt 1 Mal pro Quartal (oder weniger),passt insgesamt,NA,1,NA,NA,NA,NA,1,3.6,4,0.5599999999999999,4,0.75
+21.03.2016 15:27:50,Theresa_Thess,4,4,2,4,4,2,4,4,4,3,327,40,22,Frau,3,5,ja,50,im Schnitt mehrfach pro Tag,passt insgesamt,NA,2,NA,NA,NA,NA,5,3.5,4,0.7,4,0.75
+21.03.2016 15:31:18,hmm,4,4,3,4,4,4,4,4,3,3,520,3,18,Frau,4,3,ja,33,im Schnitt 1 Mal pro Woche,keine Antwort,NA,2,NA,NA,NA,NA,3,3.7,4,0.41999999999999993,4,0.75
+21.03.2016 15:32:38,GPM,4,4,3,4,3,4,2,4,4,2,320,10,21,Frau,3,10,nein,30,im Schnitt 1 Mal pro Woche,passt insgesamt,NA,2,NA,NA,NA,NA,3,3.4,4,0.72,4,1
+21.03.2016 18:37:49,HKB,3,2,1,3,3,2,2,1,3,4,NA,0,54,Mann,3,7,ja,0,im Schnitt mehrfach pro Tag,passt insgesamt,NA,3,NA,NA,NA,NA,5,2.4,2.5,0.8,3,1
+21.03.2016 22:25:11,GPO,4,4,3,4,4,2,4,4,4,2,2222,6,18,Frau,3,2,ja,20,im Schnitt 1 Mal pro Woche,passt insgesamt,NA,3,NA,NA,NA,NA,3,3.5,4,0.7,4,0.75
+21.03.2016 22:53:51,HMM,4,3,1,4,3,3,4,3,4,1,NA,5,34,Frau,2,30,nein,5,im Schnitt 1 Mal pro Woche,keine Antwort,NA,4,NA,NA,NA,NA,3,3,3,0.8,3,1
+23.03.2016 09:59:36,MIB,2,1,4,1,1,1,1,2,1,2,385,2,24,Frau,4,5,ja,30,im Schnitt 1 Mal pro Woche,passt insgesamt,NA,2,NA,NA,NA,NA,3,1.6,1,0.72,1,1
+29.03.2016 10:19:54,BKF,3,4,3,4,3,3,3,3,4,2,100,2,23,Frau,3,10,ja,25,im Schnitt 1 Mal pro Woche,passt insgesamt,NA,3,NA,NA,NA,NA,3,3.2,3,0.4800000000000001,3,0.75
+30.03.2016 14:06:32,LOL,3,4,1,4,4,3,4,4,4,4,875,50,20,Mann,4,3,nein,52,0,passt insgesamt,NA,2,NA,NA,NA,NA,NA,3.5,4,0.7,4,0.75
+30.03.2016 14:06:51,KLÖ,3,2,3,3,3,2,2,2,2,3,NA,2,20,Mann,3,2,ja,4,im Schnitt 1 Mal pro Woche,passt insgesamt nicht,NA,4,NA,NA,NA,NA,3,2.5,2.5,0.5,2,1
+30.03.2016 14:07:23,NA,4,3,1,3,3,3,3,4,4,3,300,15,19,Frau,3,10,nein,17,im Schnitt 1 Mal pro Woche,passt insgesamt nicht,NA,4,NA,NA,NA,NA,3,3.1,3,0.54,3,0.75
+30.03.2016 14:07:30,NA,4,4,1,3,3,3,3,4,3,2,200,40,20,Mann,3,5,nein,40,im Schnitt 1 Mal pro Woche,keine Antwort,NA,3,NA,NA,NA,NA,3,3,3,0.6,3,0.75
+30.03.2016 14:07:41,JCW,4,3,2,3,4,3,3,4,4,3,454,8,31,Mann,3,5,ja,36,im Schnitt 1 Mal pro Woche,passt insgesamt,NA,2,NA,NA,NA,NA,3,3.3,3,0.5599999999999999,3,1
+30.03.2016 14:08:14,RRS,4,3,2,4,4,3,2,3,4,3,300,3,19,Frau,3,10,ja,35,im Schnitt mehrfach pro Tag,passt insgesamt,NA,2,NA,NA,NA,NA,5,3.2,3,0.64,3,1
+30.03.2016 14:08:27,NA,4,4,1,3,3,3,3,3,3,2,250,48,21,Mann,2,5,nein,48,NA,passt insgesamt,NA,3,NA,NA,NA,NA,NA,2.9,3,0.56,3,0
+30.03.2016 14:09:17,TFK,3,4,3,4,3,3,4,3,3,1,332,0,19,Frau,3,10,ja,8,NA,keine Antwort,NA,4,NA,NA,NA,NA,NA,3.1,3,0.54,3,0.75
+30.03.2016 14:09:19,ABC,4,4,3,3,3,3,3,3,3,2,250,10,22,Mann,2,10,nein,40,0,passt insgesamt nicht,NA,2,NA,NA,NA,NA,NA,3.1,3,0.36000000000000004,3,0
+30.03.2016 14:09:34,HSK,3,3,1,3,4,3,3,2,4,2,120,2,19,Frau,2,20,nein,5,im Schnitt 1 Mal pro Woche,passt insgesamt,NA,2,NA,NA,NA,NA,3,2.8,3,0.68,3,0.75
+30.03.2016 14:09:48,asz,3,1,3,4,4,3,2,4,4,2,300,20,20,Mann,2,1,nein,20,im Schnitt 1 Mal pro Woche,passt insgesamt,NA,4,NA,NA,NA,NA,3,3,3,0.8,4,1.75
+30.03.2016 14:09:53,NA,4,4,2,3,3,4,3,4,4,3,471,1,20,Frau,3,2,ja,20,im Schnitt 1 Mal pro Woche,keine Antwort,NA,3,NA,NA,NA,NA,3,3.4,3.5,0.6,4,1
+30.03.2016 14:09:57,KFW,3,3,4,4,3,3,3,3,4,2,560,2,24,Frau,4,5,ja,20,im Schnitt 1 Mal pro Tag,passt insgesamt nicht,NA,4,NA,NA,NA,NA,4,3.2,3,0.4800000000000001,3,0.75
+30.03.2016 14:10:27,GYK,3,3,2,2,2,3,3,4,2,2,NA,3,20,Mann,2,1,nein,10,im Schnitt 1 Mal pro Woche,passt insgesamt nicht,NA,5,NA,NA,NA,NA,3,2.6,2.5,0.6,2,1
+30.03.2016 14:10:28,JSM,3,2,1,4,4,2,3,3,4,2,500,NA,19,Frau,2,5,ja,30,NA,passt insgesamt,NA,2,NA,NA,NA,NA,NA,2.8,3,0.8400000000000001,2,1.75
+30.03.2016 14:10:38,NAO,4,3,1,3,3,3,3,2,4,2,717,2,18,Frau,3,15,ja,24,im Schnitt 1 Mal pro Woche,keine Antwort,NA,2,NA,NA,NA,NA,3,2.8,3,0.68,3,0.75
+30.03.2016 14:10:53,NA,3,2,2,3,3,3,3,3,3,2,490,12,22,Mann,3,15,nein,20,habe keine Kunden,passt insgesamt,NA,4,NA,NA,NA,NA,NA,2.7,3,0.41999999999999993,3,0.75
+30.03.2016 14:11:01,JLB,3,3,1,3,2,3,3,4,4,1,485,0,21,Frau,2,2,nein,20,im Schnitt 1 Mal pro Monat,passt insgesamt nicht,NA,2,NA,NA,NA,NA,2,2.7,3,0.82,3,0.75
+30.03.2016 14:11:18,AWD,4,4,1,4,4,3,4,4,3,1,410,20,20,Frau,2,15,ja,30,im Schnitt mehrfach pro Tag,passt insgesamt,NA,2,NA,NA,NA,NA,5,3.2,4,0.96,4,1
+30.03.2016 14:11:41,RDE,1,2,2,3,4,3,3,3,4,2,300,2,19,Frau,2,10,ja,20,im Schnitt 1 Mal pro Woche,passt insgesamt,NA,4,NA,NA,NA,NA,3,2.7,3,0.76,3,1
+31.03.2016 12:35:59,NA,4,2,2,3,2,3,4,3,4,4,245,0,21,Mann,2,5,nein,5,im Schnitt 1 Mal pro Monat,passt insgesamt nicht,NA,4,NA,NA,NA,NA,2,3.1,3,0.72,4,1.75
+31.03.2016 12:36:14,NA,4,2,2,3,2,3,4,3,4,4,245,0,21,Mann,2,5,nein,5,im Schnitt 1 Mal pro Monat,passt insgesamt nicht,NA,4,NA,NA,NA,NA,2,3.1,3,0.72,4,1.75
+31.03.2016 12:36:32,NA,4,2,2,3,2,3,4,3,4,4,245,0,21,Mann,2,5,nein,5,im Schnitt 1 Mal pro Monat,passt insgesamt nicht,NA,4,NA,NA,NA,NA,2,3.1,3,0.72,4,1.75
+10.04.2016 20:14:58,NA,2,2,2,3,2,2,3,2,2,3,NA,0,19,Frau,2,40,nein,15,keinen,keine Antwort,NA,4,NA,NA,NA,NA,NA,2.3,2,0.41999999999999993,2,0.75
+23.04.2016 11:59:56,NA,3,2,1,2,2,3,2,2,3,1,59,0,34,Mann,2,NA,NA,NA,im Schnitt mehrfach pro Tag,passt insgesamt nicht,NA,5,NA,NA,NA,NA,5,2.1,2,0.54,2,0.75
+23.04.2016 12:01:05,RLK,3,4,1,3,3,3,2,2,3,1,321,0,24,Frau,3,10,nein,10,im Schnitt mehrfach pro Tag,passt insgesamt,NA,3,NA,NA,NA,NA,5,2.5,3,0.8,3,1
+23.04.2016 12:01:10,NA,4,4,2,3,3,4,4,3,3,2,NA,2,26,Mann,2,10,nein,8,im Schnitt 1 Mal pro Tag,passt insgesamt,NA,2,NA,NA,NA,NA,4,3.2,3,0.64,3,1
+23.04.2016 12:01:11,HBS,3,4,2,3,3,4,3,4,4,2,290,5,23,Mann,3,10,nein,20,im Schnitt 1 Mal pro Woche,keine Antwort,NA,2,NA,NA,NA,NA,3,3.2,3,0.64,3,1
+23.04.2016 12:01:23,MBK,1,2,2,2,2,2,2,1,2,2,1e3,24,23,Mann,2,1,ja,36,im Schnitt 1 Mal pro Tag,passt insgesamt,NA,2,NA,NA,NA,NA,4,1.8,2,0.31999999999999995,2,0
+23.04.2016 12:01:27,Fud,3,3,1,4,4,2,4,4,3,4,800,1,23,Frau,4,2,ja,2,im Schnitt mehrfach pro Tag,passt insgesamt,NA,1,NA,NA,NA,NA,5,3.2,3.5,0.8,4,1
+23.04.2016 12:01:39,NA,3,3,1,4,3,3,4,4,4,2,700,35,24,Mann,4,NA,ja,NA,im Schnitt 1 Mal pro Tag,passt insgesamt,NA,4,NA,NA,NA,NA,4,3.1,3,0.72,3,1
+23.04.2016 12:01:48,FKM,4,4,3,3,3,3,3,3,3,2,400,20,24,Mann,3,5,nein,20,im Schnitt mehrfach pro Tag,keine Antwort,NA,2,NA,NA,NA,NA,5,3.1,3,0.36000000000000004,3,0
+23.04.2016 12:01:51,NA,4,2,3,4,4,4,3,1,3,2,307,0,28,Mann,3,5,ja,2,nie,passt insgesamt nicht,NA,1,NA,NA,NA,NA,NA,3,3,0.8,4,1.75
+23.04.2016 12:01:59,NA,3,3,1,2,3,3,2,1,3,NA,125,0,37,Mann,2,120,nein,1,im Schnitt mehrfach pro Tag,passt insgesamt,NA,NA,NA,NA,NA,NA,5,2.3333333333333335,3,0.7407407407407407,3,1
+23.04.2016 12:02:00,NA,4,3,2,3,3,4,3,3,4,2,650,20,25,Mann,3,1,ja,25,im Schnitt mehrfach pro Tag,passt insgesamt,NA,2,NA,NA,NA,NA,5,3.1,3,0.54,3,0.75
+23.04.2016 12:02:10,NA,3,3,2,2,3,3,3,3,3,3,341,3,23,Mann,2,10,ja,15,im Schnitt mehrfach pro Tag,passt insgesamt nicht,NA,4,NA,NA,NA,NA,5,2.8,3,0.3200000000000001,3,0
+23.04.2016 12:02:11,Ueh,3,2,1,2,2,2,2,2,4,2,35,2,29,Mann,2,NA,NA,NA,im Schnitt 1 Mal pro Quartal (oder weniger),passt insgesamt,NA,3,NA,NA,NA,NA,1,2.2,2,0.5200000000000001,2,0
+23.04.2016 12:02:15,MLD,3,3,3,4,4,3,3,3,3,3,750,4,25,Mann,4,1,ja,16,im Schnitt mehrfach pro Tag,passt insgesamt,NA,3,NA,NA,NA,NA,5,3.2,3,0.3200000000000001,3,0
+23.04.2016 12:02:16,KTE,2,2,1,2,2,1,3,1,3,3,280,0,33,Mann,3,10,ja,0,im Schnitt 1 Mal pro Monat,passt insgesamt,NA,2,NA,NA,NA,NA,2,2,2,0.6,2,1.5
+23.04.2016 12:02:20,WDB,4,4,1,4,3,4,3,2,4,2,10,1,27,Frau,3,30,nein,2,im Schnitt mehrfach pro Tag,passt insgesamt,NA,1,NA,NA,NA,NA,5,3.1,3.5,0.9,4,1.75
+23.04.2016 12:02:21,WMW,3,3,1,4,3,3,3,3,3,3,NA,10,31,Frau,3,5,ja,25,im Schnitt 1 Mal pro Quartal (oder weniger),passt insgesamt,NA,2,NA,NA,NA,NA,1,2.9,3,0.38000000000000006,3,0
+23.04.2016 12:02:23,HGB,3,2,1,4,3,3,2,1,2,3,120,2,30,Mann,4,5,ja,5,im Schnitt mehrfach pro Tag,keine Antwort,NA,2,NA,NA,NA,NA,5,2.4,2.5,0.8,3,1
+23.04.2016 12:02:30,PBW,3,3,1,2,1,2,2,2,3,1,200,2,26,Mann,1,0,nein,5,im Schnitt 1 Mal pro Quartal (oder weniger),passt insgesamt,NA,5,NA,NA,NA,NA,1,2,2,0.6,2,1.5
+23.04.2016 12:02:31,WRB,3,3,1,2,2,2,2,2,3,1,NA,5,29,Mann,1,5,nein,8,im Schnitt mehrfach pro Tag,passt insgesamt nicht,NA,5,NA,NA,NA,NA,5,2.1,2,0.54,2,0.75
+23.04.2016 12:02:42,NA,3,3,2,3,3,3,3,4,4,2,340,5,24,Mann,2,15,ja,12,im Schnitt mehrfach pro Tag,passt insgesamt,NA,2,NA,NA,NA,NA,5,3,3,0.4,3,0
+23.04.2016 12:02:49,HBN,3,3,2,3,3,3,2,2,3,2,650,4,26,Mann,3,15,ja,6,im Schnitt mehrfach pro Tag,passt insgesamt,NA,4,NA,NA,NA,NA,5,2.6,3,0.48,3,1
+23.04.2016 12:02:52,WKL,3,3,2,4,3,2,3,2,3,3,150,1,28,Frau,3,5,nein,1,im Schnitt mehrfach pro Tag,passt insgesamt,NA,2,NA,NA,NA,NA,5,2.8,3,0.4800000000000001,3,0.75
+23.04.2016 12:02:54,NA,4,3,2,4,4,3,3,4,4,3,493,20,27,Mann,3,10,ja,40,im Schnitt mehrfach pro Tag,passt insgesamt,NA,2,NA,NA,NA,NA,5,3.4,3.5,0.6,4,1
+23.04.2016 12:03:05,NA,4,4,1,4,4,3,3,4,4,2,150,5,31,Frau,2,5,ja,20,im Schnitt 1 Mal pro Tag,passt insgesamt,NA,3,NA,NA,NA,NA,4,3.3,4,0.8400000000000001,4,1
+23.04.2016 12:03:08,JKN,4,3,3,4,4,3,4,3,3,3,895,2,28,Mann,3,5,ja,50,im Schnitt mehrfach pro Tag,passt insgesamt,NA,2,NA,NA,NA,NA,5,3.4,3,0.48,3,1
+23.04.2016 12:03:10,KKA,4,4,2,4,3,4,4,4,4,1,150,6,27,Frau,3,5,nein,24,im Schnitt mehrfach pro Tag,passt insgesamt,NA,2,NA,NA,NA,NA,5,3.4,4,0.8400000000000001,4,0.75
+23.04.2016 12:03:11,EWP,2,1,2,2,2,3,2,1,2,1,NA,0,31,Mann,1,120,nein,0,im Schnitt 1 Mal pro Quartal (oder weniger),passt insgesamt nicht,NA,2,NA,NA,NA,NA,1,1.8,2,0.48,2,0.75
+23.04.2016 12:03:15,ASW,4,3,2,4,4,3,3,1,4,2,150,0,26,Frau,3,20,nein,0,Nie,passt insgesamt,NA,3,NA,NA,NA,NA,NA,3,3,0.8,4,1.75
+23.04.2016 12:03:21,PGT,3,2,1,3,3,3,3,2,3,2,500,1,31,Mann,3,3,ja,5,im Schnitt mehrfach pro Tag,passt insgesamt,NA,3,NA,NA,NA,NA,5,2.5,3,0.6,3,1
+23.04.2016 12:03:22,KHD,3,3,2,2,3,3,3,3,3,2,50,1,27,Mann,2,10,nein,5,im Schnitt 1 Mal pro Woche,passt insgesamt nicht,NA,5,NA,NA,NA,NA,3,2.7,3,0.41999999999999993,3,0.75
+23.04.2016 12:03:31,GUD,4,3,2,3,3,3,3,3,3,2,120,10,24,Mann,2,NA,ja,NA,im Schnitt 1 Mal pro Monat,passt insgesamt,NA,5,NA,NA,NA,NA,2,2.9,3,0.36000000000000004,3,0
+23.04.2016 12:03:34,MRH,3,4,3,2,2,4,2,1,2,1,480,0,28,Mann,2,10,ja,10,im Schnitt mehrfach pro Tag,passt insgesamt nicht,NA,4,NA,NA,NA,NA,5,2.4,2,0.88,2,1
+23.04.2016 12:03:39,GSW,3,3,3,4,4,3,3,3,3,3,600,1,25,Frau,4,15,ja,20,im Schnitt 1 Mal pro Quartal (oder weniger),passt insgesamt,NA,2,NA,NA,NA,NA,1,3.2,3,0.3200000000000001,3,0
+23.04.2016 12:03:45,NA,3,3,3,3,4,3,4,2,2,3,NA,2,30,Mann,3,5,ja,5,im Schnitt mehrfach pro Tag,passt insgesamt,NA,3,NA,NA,NA,NA,5,3,3,0.4,3,0
+23.04.2016 12:03:55,NA,3,3,3,2,2,3,3,2,3,1,NA,2,26,Frau,2,30,nein,12,im Schnitt 1 Mal pro Woche,passt insgesamt nicht,NA,3,NA,NA,NA,NA,3,2.5,3,0.6,3,1
+23.04.2016 12:03:59,NA,4,4,3,3,3,4,3,4,4,2,300,1,28,Mann,3,15,nein,24,im Schnitt 1 Mal pro Woche,passt insgesamt,NA,2,NA,NA,NA,NA,3,3.4,3.5,0.6,4,1
+23.04.2016 12:04:06,UGD,3,3,2,4,3,2,4,2,3,3,130,1,28,Mann,3,10,ja,5,im Schnitt mehrfach pro Tag,keine Antwort,NA,2,NA,NA,NA,NA,5,2.9,3,0.54,3,0.75
+23.04.2016 12:04:07,TBU,3,2,2,3,3,3,3,4,4,2,500,2,23,Frau,2,15,nein,30,im Schnitt 1 Mal pro Woche,passt insgesamt nicht,NA,4,NA,NA,NA,NA,3,2.9,3,0.54,3,0.75
+23.04.2016 12:04:21,FDV,4,3,3,4,3,3,3,3,4,2,300,2,24,Mann,3,NA,ja,15,im Schnitt 1 Mal pro Woche,keine Antwort,NA,4,NA,NA,NA,NA,3,3.2,3,0.4800000000000001,3,0.75
+23.04.2016 12:04:24,HSN,3,3,1,2,2,2,1,2,4,2,500,2,25,Mann,2,15,nein,25,im Schnitt 1 Mal pro Tag,passt insgesamt,NA,4,NA,NA,NA,NA,4,2.2,2,0.68,2,0.75
+23.04.2016 12:04:44,RGH,4,4,1,3,3,3,2,3,3,2,400,1,27,Frau,3,10,nein,7,im Schnitt mehrfach pro Tag,passt insgesamt,NA,2,NA,NA,NA,NA,5,2.8,3,0.68,3,0.75
+23.04.2016 12:04:46,NA,3,3,2,4,2,3,3,2,4,1,NA,5,29,Mann,1,NA,ja,NA,im Schnitt 1 Mal pro Tag,passt insgesamt,NA,3,NA,NA,NA,NA,4,2.7,3,0.76,3,1
+23.04.2016 12:05:19,MPH,3,2,1,4,4,2,4,4,4,3,650,20,24,Mann,3,30,ja,25,im Schnitt mehrfach pro Tag,passt insgesamt,NA,3,NA,NA,NA,NA,5,3.1,3.5,0.9,4,1.75
+23.04.2016 12:05:39,Wbl,4,4,3,3,3,4,3,3,4,2,330,0,26,Mann,4,2,nein,14,im Schnitt mehrfach pro Tag,passt insgesamt nicht,NA,4,NA,NA,NA,NA,5,3.3,3,0.5599999999999999,3,1
+23.04.2016 12:05:44,NA,1,4,4,3,3,4,4,3,4,3,NA,NA,NA,Mann,3,NA,ja,NA,im Schnitt mehrfach pro Tag,passt insgesamt,NA,2,NA,NA,NA,NA,5,3.3,3.5,0.7,4,1
+23.04.2016 12:05:48,NA,3,3,1,2,2,2,3,4,3,2,388,10,25,Mann,2,NA,nein,10,im Schnitt 1 Mal pro Quartal (oder weniger),passt insgesamt,NA,5,NA,NA,NA,NA,1,2.5,2.5,0.7,2,1
+23.04.2016 12:06:20,NA,3,3,2,4,4,4,3,2,4,2,40,1,30,Mann,3,5,ja,1,im Schnitt mehrfach pro Tag,passt insgesamt,NA,3,NA,NA,NA,NA,5,3.1,3,0.72,4,1.75
+23.04.2016 12:06:28,RKD,4,4,1,3,3,4,3,4,4,3,250,10,35,Mann,3,5,nein,25,im Schnitt 1 Mal pro Tag,passt insgesamt,NA,2,NA,NA,NA,NA,4,3.3,3.5,0.7,4,1
+23.04.2016 12:06:41,SGW,4,4,1,3,3,4,3,3,3,2,200,5,23,Frau,3,15,nein,5,im Schnitt 1 Mal pro Tag,passt insgesamt,NA,4,NA,NA,NA,NA,4,3,3,0.6,3,0.75
+23.04.2016 12:06:50,Pso,3,3,1,2,2,1,2,3,3,1,NA,0,27,Frau,2,120,nein,20,im Schnitt 1 Mal pro Quartal (oder weniger),passt insgesamt nicht,NA,4,NA,NA,NA,NA,1,2.1,2,0.72,3,1.75
+03.05.2016 11:09:54,NA,3,3,2,3,2,2,3,3,3,3,NA,30,28,Mann,3,20,nein,40,im Schnitt 1 Mal pro Quartal (oder weniger),keine Antwort,NA,3,NA,NA,NA,NA,1,2.7,3,0.41999999999999993,3,0.75
+09.05.2016 22:10:00,RWM,3,3,3,3,2,3,3,3,2,2,436,10,27,Mann,2,10,nein,20,im Schnitt 1 Mal pro Quartal (oder weniger),passt insgesamt,NA,4,NA,NA,NA,NA,1,2.7,3,0.41999999999999993,3,0.75
+16.05.2016 11:36:04,NA,3,3,2,3,4,2,3,2,3,2,246,1,25,Mann,3,2,nein,4,"Telfonisch täglich, Face to Face 1xWoche",passt insgesamt,NA,3,NA,NA,NA,NA,NA,2.7,3,0.5599999999999999,3,1
+20.05.2016 11:07:32,KNB,4,3,1,4,4,4,3,4,4,2,400,2,21,Frau,4,5,ja,10,im Schnitt mehrfach pro Tag,passt insgesamt,NA,2,NA,NA,NA,NA,5,3.3,4,0.8400000000000001,4,1
+02.06.2016 15:28:01,HLS,3,3,1,4,4,2,2,4,2,2,80,0,37,Frau,2,1,nein,1,im Schnitt mehrfach pro Tag,passt insgesamt,NA,3,NA,NA,NA,NA,5,2.7,2.5,0.9,2,1.75
+17.06.2016 22:37:44,MHH,3,4,2,4,4,3,4,3,2,3,700,2,29,Mann,3,3,ja,10,im Schnitt 1 Mal pro Woche,passt insgesamt,NA,2,NA,NA,NA,NA,3,3.2,3,0.64,3,1
+24.06.2016 22:07:46,NA,4,2,1,3,2,3,3,3,2,2,50,2,35,Mann,2,10,ja,2,im Schnitt mehrfach pro Tag,passt insgesamt nicht,NA,5,NA,NA,NA,NA,5,2.5,2.5,0.7,2,1
+04.07.2016 11:32:23,NA,3,2,2,2,3,3,2,3,4,2,53,0,33,Frau,2,30,ja,6,im Schnitt 1 Mal pro Tag,passt insgesamt,NA,3,NA,NA,NA,NA,4,2.6,2.5,0.6,2,1
+10.07.2016 14:46:09,NA,3,2,2,3,3,3,2,2,2,2,20,0,53,Mann,3,10,ja,2,im Schnitt mehrfach pro Tag,passt insgesamt,NA,3,NA,NA,NA,NA,5,2.4,2,0.48,2,1
+25.07.2016 22:04:43,hsb,2,1,2,1,2,1,1,2,2,2,NA,2,31,Mann,2,3,ja,5,im Schnitt mehrfach pro Tag,passt insgesamt,NA,2,NA,NA,NA,NA,5,1.6,2,0.48,2,1
+26.08.2016 14:35:07,PLH,4,4,2,4,3,4,3,2,4,4,239,0,25,Frau,3,2,nein,1,im Schnitt mehrfach pro Tag,passt insgesamt,NA,3,NA,NA,NA,NA,5,3.4,4,0.72,4,1
+01.09.2016 09:28:25,CGC,2,3,2,2,3,3,3,3,3,2,620,0,49,Frau,2,10,nein,1,im Schnitt mehrfach pro Tag,passt insgesamt nicht,NA,3,NA,NA,NA,NA,5,2.6,3,0.48,3,1
+01.09.2016 15:38:30,RSW,3,3,1,2,2,3,2,3,3,2,218,2,24,Frau,2,2,nein,8,im Schnitt 1 Mal pro Quartal (oder weniger),passt insgesamt,NA,5,NA,NA,NA,NA,1,2.4,2.5,0.6,3,1
+02.09.2016 20:56:28,ABR,3,3,1,2,3,3,2,2,4,2,NA,0,27,Frau,2,180,nein,0,im Schnitt mehrfach pro Tag,passt insgesamt nicht,NA,5,NA,NA,NA,NA,5,2.5,2.5,0.7,2,1
+04.09.2016 11:01:15,NA,4,4,4,3,4,4,3,3,4,1,472,4,22,Frau,3,20,nein,15,im Schnitt mehrfach pro Tag,keine Antwort,NA,3,NA,NA,NA,NA,5,3.4,4,0.72,4,1
+04.09.2016 12:43:11,MHA42AC,4,3,2,4,4,4,3,4,4,3,210,5,24,Mann,4,10,ja,20,im Schnitt mehrfach pro Tag,passt insgesamt nicht,NA,3,NA,NA,NA,NA,5,3.5,4,0.6,4,1
+04.09.2016 12:52:55,UEG,4,3,1,3,3,3,3,2,4,2,74,0,34,Frau,2,10,ja,2,im Schnitt mehrfach pro Tag,passt insgesamt,NA,2,NA,NA,NA,NA,5,2.8,3,0.68,3,0.75
+04.09.2016 22:13:20,SANSKRIT,2,1,1,3,3,1,1,1,3,1,500,0,33,Frau,2,5,ja,3,im Schnitt mehrfach pro Tag,keine Antwort,NA,5,NA,NA,NA,NA,5,1.7,1,0.84,1,1.75
+05.09.2016 07:58:42,NA,2,3,1,4,3,2,4,3,2,1,365,2,27,Frau,3,10,nein,40,im Schnitt mehrfach pro Tag,passt insgesamt nicht,NA,4,NA,NA,NA,NA,5,2.5,2.5,0.9,2,1
+05.09.2016 11:22:24,NA,3,3,3,3,3,4,3,2,2,1,80,1,29,Mann,3,5,ja,5,im Schnitt 1 Mal pro Woche,passt insgesamt nicht,NA,3,NA,NA,NA,NA,3,2.7,3,0.6199999999999999,3,0.75
+05.09.2016 12:40:50,KBK42AC,4,4,2,4,4,4,3,4,4,3,160,1,26,Frau,3,10,ja,6,im Schnitt 1 Mal pro Woche,passt insgesamt,NA,1,NA,NA,NA,NA,3,3.6,4,0.5599999999999999,4,0.75
+06.09.2016 18:51:55,JCA,4,4,3,4,4,3,4,4,4,3,NA,10,37,Mann,4,1,ja,30,im Schnitt mehrfach pro Tag,passt insgesamt,NA,2,NA,NA,NA,NA,5,3.7,4,0.41999999999999993,4,0.75
+07.09.2016 19:16:41,WSK,4,2,1,4,4,2,4,4,4,3,NA,2,24,Frau,4,30,ja,15,im Schnitt mehrfach pro Tag,passt insgesamt,NA,1,NA,NA,NA,NA,5,3.2,4,0.96,4,1.75
+07.09.2016 20:54:21,PFS,4,4,3,4,4,3,4,4,3,3,900,24,26,Mann,3,1,ja,26,im Schnitt mehrfach pro Tag,passt insgesamt,NA,5,NA,NA,NA,NA,5,3.6,4,0.48,4,1
+08.09.2016 21:30:16,HPD,3,4,3,2,3,2,2,3,4,1,170,6,22,Frau,2,5,nein,15,im Schnitt mehrfach pro Tag,passt insgesamt,NA,5,NA,NA,NA,NA,5,2.7,3,0.76,3,1
+08.09.2016 21:38:54,NPM42AC,4,3,2,4,3,3,4,1,3,4,147,1,26,Mann,3,5,ja,4,im Schnitt 1 Mal pro Quartal (oder weniger),passt insgesamt,NA,2,NA,NA,NA,NA,1,3.1,3,0.72,3,1
+08.09.2016 23:00:20,HSWAAC42AC,4,3,1,4,3,3,2,2,3,3,207,0,25,Frau,3,20,nein,10,im Schnitt mehrfach pro Tag,passt insgesamt,NA,2,NA,NA,NA,NA,5,2.8,3,0.68,3,0.75
+09.09.2016 07:36:51,WGM,3,3,3,3,3,3,2,3,3,3,NA,3,27,Mann,3,2,nein,12,im Schnitt mehrfach pro Tag,passt insgesamt,NA,2,NA,NA,NA,NA,5,2.9,3,0.18000000000000008,3,0
+09.09.2016 08:33:31,OKH,4,4,2,4,4,2,3,2,3,1,310,0,30,Frau,3,20,nein,8,im Schnitt mehrfach pro Tag,passt insgesamt,NA,3,NA,NA,NA,NA,5,2.9,3,0.92,4,2
+09.09.2016 11:30:16,JHH,4,3,1,4,4,2,4,3,3,3,103,2,43,Frau,3,10,nein,1,im Schnitt 1 Mal pro Tag,passt insgesamt,NA,2,NA,NA,NA,NA,4,3.1,3,0.72,3,1
+09.09.2016 12:59:36,NA,2,2,1,3,2,2,3,2,2,2,300,8,24,Mann,3,15,ja,4,im Schnitt mehrfach pro Tag,passt insgesamt,NA,2,NA,NA,NA,NA,5,2.1,2,0.36000000000000004,2,0
+09.09.2016 18:09:27,NA,3,3,3,4,4,3,3,3,4,2,250,1,22,Frau,2,2,ja,20,im Schnitt mehrfach pro Tag,passt insgesamt,NA,3,NA,NA,NA,NA,5,3.2,3,0.4800000000000001,3,0.75
+09.09.2016 19:45:12,NA,3,2,2,3,2,3,2,2,3,3,500,5,23,Mann,2,30,ja,12,im Schnitt 1 Mal pro Monat,passt insgesamt nicht,NA,4,NA,NA,NA,NA,2,2.5,2.5,0.5,2,1
+10.09.2016 08:19:45,XZL,2,1,2,2,1,2,1,1,2,2,157,0,NA,Mann,1,60,nein,0,im Schnitt 1 Mal pro Monat,passt insgesamt nicht,NA,5,NA,NA,NA,NA,2,1.6,2,0.48,2,1
+11.09.2016 13:18:43,SWZ,3,3,1,4,3,2,3,2,3,2,50,1,32,Frau,3,30,nein,7,im Schnitt 1 Mal pro Tag,passt insgesamt,NA,3,NA,NA,NA,NA,4,2.6,3,0.6799999999999999,3,1
+11.09.2016 14:02:41,TGN,3,2,1,2,3,2,2,2,3,2,NA,3,26,Frau,2,15,ja,10,im Schnitt mehrfach pro Tag,passt insgesamt nicht,NA,2,NA,NA,NA,NA,5,2.2,2,0.4800000000000001,2,0.75
+11.09.2016 16:54:34,SSG,3,3,1,3,3,2,3,3,4,2,185,0,29,Frau,3,60,ja,5,im Schnitt mehrfach pro Tag,passt insgesamt,NA,2,NA,NA,NA,NA,5,2.7,3,0.6199999999999999,3,0.75
+11.09.2016 19:11:53,Mmk,2,2,1,3,1,2,2,2,2,1,NA,200,28,Frau,1,15,nein,5,im Schnitt mehrfach pro Tag,passt insgesamt nicht,NA,5,NA,NA,NA,NA,5,1.8,2,0.48,2,0.75
+11.09.2016 21:45:41,AKM,3,4,1,3,3,2,3,3,4,2,550,24,28,Mann,3,20,nein,30,im Schnitt 1 Mal pro Woche,keine Antwort,NA,3,NA,NA,NA,NA,3,2.8,3,0.68,3,0.75
+11.09.2016 22:24:28,ASS,2,3,2,2,2,1,3,2,2,1,130,2,21,Frau,2,15,nein,4,im Schnitt 1 Mal pro Tag,passt insgesamt,NA,5,NA,NA,NA,NA,4,2,2,0.4,2,0
+12.09.2016 13:44:16,WML,4,4,2,4,4,3,4,4,3,2,350,4,25,Frau,3,10,nein,10,im Schnitt mehrfach pro Tag,keine Antwort,NA,2,NA,NA,NA,NA,5,3.4,4,0.72,4,1
+12.09.2016 17:07:27,RRT,2,2,1,2,2,2,3,2,4,2,430,0,29,Frau,1,30,nein,0,im Schnitt mehrfach pro Tag,passt insgesamt nicht,NA,5,NA,NA,NA,NA,5,2.2,2,0.5200000000000001,2,0
+12.09.2016 19:50:59,NKH,4,3,1,3,3,3,3,3,3,3,150,6,29,Mann,3,10,ja,6,im Schnitt mehrfach pro Tag,passt insgesamt,NA,3,NA,NA,NA,NA,5,2.9,3,0.38000000000000006,3,0
+13.09.2016 00:24:27,NA,4,2,3,2,2,3,4,4,4,3,435,25,27,Mann,3,15,nein,10,im Schnitt 1 Mal pro Quartal (oder weniger),passt insgesamt,NA,3,NA,NA,NA,NA,1,3.1,3,0.72,4,1.75
+13.09.2016 10:02:16,DAS,3,2,1,3,1,2,3,3,2,3,192,5,29,Mann,3,25,nein,5,im Schnitt 1 Mal pro Quartal (oder weniger),keine Antwort,NA,2,NA,NA,NA,NA,1,2.3,2.5,0.7,3,1
+13.09.2016 11:59:56,MBA,3,3,1,3,2,3,3,2,4,2,298,10,22,Frau,3,15,ja,15,im Schnitt mehrfach pro Tag,passt insgesamt,NA,4,NA,NA,NA,NA,5,2.6,3,0.6799999999999999,3,1
+13.09.2016 12:24:02,MAE,4,3,2,4,4,2,4,4,4,3,446,2,26,Mann,3,5,ja,20,im Schnitt mehrfach pro Tag,passt insgesamt,NA,2,NA,NA,NA,NA,5,3.4,4,0.72,4,1
+13.09.2016 12:24:42,SBR,3,4,2,3,3,3,2,3,4,3,200,0,19,Frau,2,5,ja,15,im Schnitt 1 Mal pro Quartal (oder weniger),passt insgesamt nicht,NA,3,NA,NA,NA,NA,1,3,3,0.4,3,0
+13.09.2016 13:34:39,LKM,3,3,2,3,3,3,2,1,3,1,300,0,21,Frau,2,15,nein,12,im Schnitt 1 Mal pro Tag,passt insgesamt nicht,NA,4,NA,NA,NA,NA,4,2.4,3,0.72,3,1
+13.09.2016 15:30:59,EMM,4,4,1,4,3,4,3,3,3,2,460,5,24,Frau,3,NA,nein,15,im Schnitt mehrfach pro Tag,passt insgesamt,NA,3,NA,NA,NA,NA,5,3.1,3,0.72,3,1
+13.09.2016 19:35:53,NA,2,1,1,2,2,2,1,4,4,2,280,5,20,Mann,1,40,nein,20,im Schnitt 1 Mal pro Woche,passt insgesamt nicht,NA,5,NA,NA,NA,NA,3,2.1,2,0.76,2,0.75
+14.09.2016 10:47:17,NA,3,4,1,4,3,3,3,3,3,2,413,1,24,Frau,3,NA,NA,4,im Schnitt 1 Mal pro Woche,passt insgesamt,NA,3,NA,NA,NA,NA,3,2.9,3,0.56,3,0
+14.09.2016 12:10:09,NA,3,3,1,NA,3,2,3,2,3,1,240,3,23,Frau,1,30,nein,6,im Schnitt mehrfach pro Tag,passt insgesamt nicht,NA,5,NA,NA,NA,NA,5,2.3333333333333335,3,0.7407407407407407,3,1
+14.09.2016 13:42:47,SGH,4,3,1,4,4,3,4,3,4,3,25,1,22,Frau,4,5,ja,5,im Schnitt 1 Mal pro Quartal (oder weniger),passt insgesamt nicht,NA,2,NA,NA,NA,NA,1,3.3,3.5,0.7,4,1
+14.09.2016 17:08:35,SEM,3,3,1,2,1,1,1,4,3,1,300,30,24,Mann,1,60,nein,50,im Schnitt 1 Mal pro Monat,passt insgesamt nicht,NA,6,NA,NA,NA,NA,2,2,1.5,1,1,2
+15.09.2016 10:59:21,WPM,4,2,1,4,4,3,2,1,3,1,33,0,42,Frau,2,3,nein,0,gar nicht,passt insgesamt nicht,NA,4,NA,NA,NA,NA,NA,2.5,2.5,1.1,1,2.5
+15.09.2016 15:09:24,PAW,4,4,2,4,3,4,4,4,4,4,750,30,22,Mann,4,5,nein,30,im Schnitt mehrfach pro Tag,passt insgesamt,NA,2,NA,NA,NA,NA,5,3.7,4,0.47999999999999987,4,0
+15.09.2016 16:28:46,ASM,4,4,3,3,3,3,3,3,4,4,610,10,22,Frau,3,5,nein,30,im Schnitt mehrfach pro Tag,passt insgesamt,NA,2,NA,NA,NA,NA,5,3.4,3,0.48,3,1
+15.09.2016 16:33:51,ZRO,4,4,3,4,4,2,4,4,4,4,483,5,28,Mann,4,3,ja,20,im Schnitt mehrfach pro Tag,passt insgesamt,NA,1,NA,NA,NA,NA,5,3.7,4,0.47999999999999987,4,0
+15.09.2016 17:25:07,ASE,2,2,1,2,2,2,2,2,3,1,250,6,25,Frau,2,20,nein,12,im Schnitt mehrfach pro Tag,passt insgesamt nicht,NA,5,NA,NA,NA,NA,5,1.9,2,0.36000000000000004,2,0
+15.09.2016 17:43:10,JHB,2,1,1,2,2,1,2,2,3,2,200,0,26,Frau,2,10,nein,6,im Schnitt mehrfach pro Tag,passt insgesamt,NA,5,NA,NA,NA,NA,5,1.8,2,0.48,2,0.75
+16.09.2016 10:55:40,MHK,4,4,3,4,4,4,3,4,4,3,350,4,29,Frau,4,5,ja,12,im Schnitt mehrfach pro Tag,passt insgesamt,NA,1,NA,NA,NA,NA,5,3.7,4,0.41999999999999993,4,0.75
+16.09.2016 15:06:00,NA,4,4,3,4,4,4,3,3,4,2,400,5,19,Frau,3,2,nein,30,im Schnitt mehrfach pro Tag,passt insgesamt,NA,2,NA,NA,NA,NA,5,3.5,4,0.6,4,1
+16.09.2016 19:08:08,MLG42AC,4,4,4,3,4,4,3,3,4,2,477,4,22,Frau,2,15,nein,15,im Schnitt mehrfach pro Tag,passt insgesamt nicht,NA,3,NA,NA,NA,NA,5,3.5,4,0.6,4,1
+17.09.2016 19:14:33,DSB,2,2,1,2,2,2,2,1,3,2,350,0,25,Frau,1,NA,nein,1,im Schnitt mehrfach pro Tag,passt insgesamt nicht,NA,6,NA,NA,NA,NA,5,1.9,2,0.36000000000000004,2,0
+18.09.2016 18:57:27,RRD,4,4,3,3,4,4,3,3,4,2,80,5,22,Frau,3,20,ja,12,im Schnitt 1 Mal pro Monat,keine Antwort,NA,3,NA,NA,NA,NA,2,3.4,3.5,0.6,4,1
+18.09.2016 21:52:35,NA,3,3,1,4,4,3,3,2,4,3,350,4,23,Frau,3,5,ja,6,im Schnitt mehrfach pro Tag,passt insgesamt,NA,2,NA,NA,NA,NA,5,3,3,0.6,3,0.75
+19.09.2016 06:53:02,NA,4,1,1,4,NA,1,4,3,3,2,686,NA,23,Frau,3,2,nein,50,täglich zwischen 20-50,keine Antwort,NA,2,NA,NA,NA,NA,NA,2.5555555555555554,3,1.1604938271604939,1,3
+19.09.2016 14:32:00,otm,3,NA,2,3,2,4,2,2,4,2,150,3,23,Frau,2,15,ja,4,im Schnitt mehrfach pro Tag,passt insgesamt,NA,3,NA,NA,NA,NA,5,2.6666666666666665,2,0.7407407407407407,2,1
+19.09.2016 19:26:05,NA,3,4,1,3,4,4,4,3,3,3,1300,10,25,Frau,4,7,nein,15,im Schnitt mehrfach pro Tag,passt insgesamt,NA,2,NA,NA,NA,NA,5,3.2,3,0.64,3,1
+19.09.2016 21:24:02,572ezg,3,3,2,3,3,3,3,2,3,2,292,0,23,Frau,3,5,nein,12,im Schnitt mehrfach pro Tag,keine Antwort,NA,3,NA,NA,NA,NA,5,2.7,3,0.41999999999999993,3,0.75
+19.09.2016 22:24:22,TWM,3,4,2,4,4,4,4,3,3,3,1300,10,25,Frau,4,10,nein,13,im Schnitt mehrfach pro Tag,passt insgesamt,NA,2,NA,NA,NA,NA,5,3.4,3.5,0.6,4,1
+20.09.2016 16:19:58,KAO,3,3,1,4,4,3,3,3,4,4,261,10,28,Frau,4,10,ja,30,im Schnitt mehrfach pro Tag,passt insgesamt,NA,1,NA,NA,NA,NA,5,3.2,3,0.64,3,1
+20.09.2016 19:51:33,MGD,4,3,1,3,3,3,3,2,4,2,110,4,24,Frau,3,15,nein,20,im Schnitt mehrfach pro Tag,passt insgesamt,NA,4,NA,NA,NA,NA,5,2.8,3,0.68,3,0.75
+20.09.2016 23:03:44,JSH,4,4,2,4,4,2,4,4,4,3,535,6,30,Frau,3,15,nein,14,im Schnitt mehrfach pro Tag,passt insgesamt nicht,NA,1,NA,NA,NA,NA,5,3.5,4,0.7,4,0.75
+21.09.2016 00:58:08,NA,4,3,3,4,4,3,3,4,4,4,309,20,20,Mann,3,5,ja,30,im Schnitt 1 Mal pro Tag,keine Antwort,NA,2,NA,NA,NA,NA,4,3.6,4,0.48,4,1
+21.09.2016 10:50:54,KHD,2,1,2,3,2,1,3,2,3,2,NA,1,48,Mann,1,10,ja,0,im Schnitt 1 Mal pro Quartal (oder weniger),passt insgesamt nicht,NA,4,NA,NA,NA,NA,1,2.1,2,0.54,2,0.75
+21.09.2016 11:49:07,WHE,3,3,1,4,4,3,4,4,4,3,175,5,30,Frau,3,3,ja,10,im Schnitt 1 Mal pro Woche,passt insgesamt,NA,2,NA,NA,NA,NA,3,3.3,3.5,0.7,4,1
+21.09.2016 14:45:55,BBP,2,2,1,3,3,2,3,2,3,2,41,0,28,Frau,3,NA,ja,15,im Schnitt mehrfach pro Tag,passt insgesamt,NA,6,NA,NA,NA,NA,5,2.3,2,0.5599999999999999,2,1
+21.09.2016 16:06:51,HSL,4,4,1,3,2,4,3,4,4,1,236,25,27,Mann,1,10,nein,35,im Schnitt 1 Mal pro Quartal (oder weniger),passt insgesamt,NA,3,NA,NA,NA,NA,1,3,3.5,1,4,1.75
+21.09.2016 22:55:32,ACR,3,2,3,3,2,3,3,2,3,4,300,1,38,Mann,3,10,ja,5,im Schnitt 1 Mal pro Woche,passt insgesamt,NA,2,NA,NA,NA,NA,3,2.8,3,0.4800000000000001,3,0.75
+22.09.2016 12:38:39,KHL,4,3,2,3,3,3,3,4,3,2,300,2,24,Frau,3,5,ja,5,im Schnitt 1 Mal pro Woche,passt insgesamt,NA,2,NA,NA,NA,NA,3,3,3,0.4,3,0
+23.09.2016 13:29:10,UMR,3,3,1,3,2,3,2,2,2,2,302,4,21,Frau,2,5,nein,3,im Schnitt mehrfach pro Tag,keine Antwort,NA,5,NA,NA,NA,NA,5,2.3,2,0.5599999999999999,2,1
+23.09.2016 13:45:10,GRM,3,2,1,3,3,3,4,4,4,1,NA,10,21,Frau,2,30,nein,48,im Schnitt 1 Mal pro Woche,passt insgesamt nicht,NA,4,NA,NA,NA,NA,3,2.8,3,0.8800000000000001,3,1.5
+24.09.2016 15:15:41,HBO,4,3,1,3,4,3,2,4,4,3,NA,2,24,Frau,3,15,nein,15,im Schnitt 1 Mal pro Monat,passt insgesamt,NA,3,NA,NA,NA,NA,2,3.1,3,0.72,3,1
+25.09.2016 16:10:38,GKD,3,4,1,2,2,3,2,3,3,2,195,3,23,Frau,2,20,ja,30,im Schnitt 1 Mal pro Woche,passt insgesamt,NA,5,NA,NA,NA,NA,3,2.5,2.5,0.7,2,1
+25.09.2016 16:10:43,MPB,4,4,2,4,4,3,3,3,4,1,NA,1,43,Frau,3,10,nein,2,im Schnitt mehrfach pro Tag,passt insgesamt,NA,3,NA,NA,NA,NA,5,3.2,3.5,0.8,4,1
+25.09.2016 18:28:28,Rwm,3,3,4,4,3,3,2,2,4,1,200,1,23,Frau,3,5,ja,3,im Schnitt mehrfach pro Tag,passt insgesamt,NA,3,NA,NA,NA,NA,5,2.9,3,0.74,3,1.5
+26.09.2016 08:38:30,JKI,4,4,3,4,3,4,3,3,3,2,150,5,23,Frau,3,10,ja,30,im Schnitt 1 Mal pro Woche,passt insgesamt,NA,2,NA,NA,NA,NA,3,3.3,3,0.5599999999999999,3,1
+26.09.2016 09:28:41,HUM,3,4,1,4,3,3,3,4,3,3,700,40,23,Mann,3,30,nein,50,im Schnitt mehrfach pro Tag,passt insgesamt,NA,2,NA,NA,NA,NA,5,3.1,3,0.54,3,0.75
+27.09.2016 09:05:46,ABW,4,4,2,3,3,3,3,3,4,3,400,10,24,Frau,3,10,ja,24,im Schnitt mehrfach pro Tag,passt insgesamt,NA,3,NA,NA,NA,NA,5,3.2,3,0.4800000000000001,3,0.75
+27.09.2016 10:53:52,NA,3,3,1,4,3,3,3,4,4,4,200,0,25,Frau,4,5,ja,0,im Schnitt 1 Mal pro Quartal (oder weniger),passt insgesamt,NA,1,NA,NA,NA,NA,1,3.2,3,0.64,3,1
+27.09.2016 16:36:19,JHU,4,4,2,4,4,4,4,4,4,3,600,8,24,Frau,4,5,ja,10,im Schnitt mehrfach pro Tag,passt insgesamt,NA,2,NA,NA,NA,NA,5,3.7,4,0.47999999999999987,4,0
+27.09.2016 16:36:37,NA,4,3,3,4,4,4,4,4,4,3,680,25,23,Frau,4,5,ja,50,im Schnitt mehrfach pro Tag,passt insgesamt,NA,1,NA,NA,NA,NA,5,3.7,4,0.41999999999999993,4,0.75
+27.09.2016 16:37:38,NA,4,3,2,4,4,3,3,3,3,2,250,30,22,Frau,3,5,nein,50,im Schnitt 1 Mal pro Woche,passt insgesamt,NA,3,NA,NA,NA,NA,3,3.1,3,0.54,3,0.75
+27.09.2016 16:38:05,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NaN,NA,NaN,NA,NA
+27.09.2016 16:39:00,NA,4,4,2,4,4,4,3,4,4,2,NA,20,23,Frau,4,5,ja,40,im Schnitt 1 Mal pro Tag,passt insgesamt,NA,1,NA,NA,NA,NA,4,3.5,4,0.7,4,0.75
+27.09.2016 20:49:38,UPH,3,3,1,2,2,3,2,4,4,1,NA,0,31,Frau,2,20,nein,4,im Schnitt 1 Mal pro Quartal (oder weniger),passt insgesamt,NA,5,NA,NA,NA,NA,1,2.5,2.5,0.9,2,1
+28.09.2016 16:26:10,KKG,4,4,3,3,3,4,3,3,4,1,174,2,21,Frau,2,40,nein,20,im Schnitt 1 Mal pro Quartal (oder weniger),passt insgesamt nicht,NA,4,NA,NA,NA,NA,1,3.2,3,0.64,3,1
+28.09.2016 18:06:22,CHL,3,2,2,2,2,3,3,4,3,4,NA,3,29,Mann,3,2,ja,30,im Schnitt 1 Mal pro Tag,passt insgesamt,NA,2,NA,NA,NA,NA,4,2.8,3,0.64,2,1
+28.09.2016 18:06:57,Agw,4,4,1,4,3,4,3,4,4,4,450,48,25,Mann,4,20,ja,70,im Schnitt mehrfach pro Tag,passt insgesamt,NA,1,NA,NA,NA,NA,5,3.5,4,0.7,4,0.75
+28.09.2016 18:07:01,NA,3,3,3,4,4,3,4,3,3,2,NA,3,24,Mann,3,20,ja,5,im Schnitt mehrfach pro Tag,keine Antwort,NA,2,NA,NA,NA,NA,5,3.2,3,0.4800000000000001,3,0.75
+28.09.2016 18:07:57,NA,4,3,2,4,4,2,4,4,4,2,300,3,35,Frau,3,45,nein,5,im Schnitt 1 Mal pro Monat,passt insgesamt,NA,1,NA,NA,NA,NA,2,3.3,4,0.8400000000000001,4,1.75
+28.09.2016 18:08:34,KHD,4,4,3,3,2,4,3,3,3,1,75,10,28,Mann,3,30,ja,12,im Schnitt mehrfach pro Tag,passt insgesamt,NA,4,NA,NA,NA,NA,5,3,3,0.6,3,0.75
+28.09.2016 18:08:39,UTS,3,3,1,3,3,3,2,3,4,1,150,3,30,Frau,2,10,nein,5,im Schnitt 1 Mal pro Monat,passt insgesamt nicht,NA,5,NA,NA,NA,NA,2,2.6,3,0.76,3,0.75
+28.09.2016 18:08:47,KBW,4,4,1,3,4,4,3,3,3,1,200,0,26,Frau,1,10,ja,25,im Schnitt 1 Mal pro Monat,passt insgesamt nicht,NA,3,NA,NA,NA,NA,2,3,3,0.8,3,1
+28.09.2016 18:08:48,XED,3,4,1,3,3,3,3,2,3,2,175,0,27,Frau,3,30,nein,2,im Schnitt 1 Mal pro Quartal (oder weniger),passt insgesamt,NA,3,NA,NA,NA,NA,1,2.7,3,0.6199999999999999,3,0.75
+28.09.2016 18:08:52,NA,2,3,2,2,2,3,3,2,3,2,240,2,25,Frau,2,1,ja,5,im Schnitt mehrfach pro Tag,keine Antwort,NA,4,NA,NA,NA,NA,5,2.4,2,0.48,2,1
+28.09.2016 18:09:13,NA,NA,NA,2,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,2,0,2,0
+28.09.2016 18:09:21,HCW,4,4,2,3,3,3,2,3,3,2,450,12,27,Mann,2,5,nein,24,im Schnitt mehrfach pro Tag,passt insgesamt,NA,2,NA,NA,NA,NA,5,2.9,3,0.54,3,0.75
+28.09.2016 18:09:42,KDH,3,4,1,3,3,3,3,3,4,3,200,6,23,Frau,3,2,nein,6,im Schnitt mehrfach pro Tag,passt insgesamt,NA,2,NA,NA,NA,NA,5,3,3,0.4,3,0
+28.09.2016 18:10:10,NA,3,3,1,4,4,3,3,3,4,2,360,12,28,Mann,3,5,ja,10,im Schnitt 1 Mal pro Quartal (oder weniger),passt insgesamt,NA,4,NA,NA,NA,NA,1,3,3,0.6,3,0.75
+28.09.2016 18:10:47,NA,3,2,2,3,3,2,2,2,2,1,NA,15,27,Mann,2,5,nein,10,0,keine Antwort,NA,3,NA,NA,NA,NA,NA,2.2,2,0.4800000000000001,2,0.75
+28.09.2016 18:10:53,Tal,3,3,1,2,2,3,3,3,3,2,2,98,26,Mann,4,220,ja,65,im Schnitt 1 Mal pro Woche,passt insgesamt,NA,4,NA,NA,NA,NA,3,2.5,3,0.6,3,1
+28.09.2016 18:10:59,WSD,3,4,1,2,3,4,2,3,3,1,12,0,27,Frau,2,10,nein,5,im Schnitt mehrfach pro Tag,keine Antwort,NA,2,NA,NA,NA,NA,5,2.6,3,0.88,3,1
+28.09.2016 18:11:39,FDL,3,2,4,2,3,3,2,2,4,2,350,10,23,Mann,2,5,nein,30,im Schnitt 1 Mal pro Quartal (oder weniger),keine Antwort,NA,3,NA,NA,NA,NA,1,2.7,2.5,0.7,2,1
+28.09.2016 18:13:54,uph,4,4,2,4,4,4,3,3,4,1,NA,5,27,Frau,4,1,nein,8,im Schnitt mehrfach pro Tag,passt insgesamt,NA,1,NA,NA,NA,NA,5,3.3,4,0.8400000000000001,4,1
+28.09.2016 22:41:06,MHZ,3,3,3,3,2,3,3,2,2,3,NA,5,26,Mann,2,7,nein,20,im Schnitt mehrfach pro Tag,passt insgesamt,NA,4,NA,NA,NA,NA,5,2.7,3,0.41999999999999993,3,0.75
+30.09.2016 21:22:43,HBE42AC,4,1,4,3,3,3,3,3,3,1,350,1,23,Frau,2,60,nein,15,im Schnitt mehrfach pro Tag,passt insgesamt,NA,3,NA,NA,NA,NA,5,2.8,3,0.7200000000000001,3,0
+01.10.2016 12:28:57,HLP,3,2,1,2,3,2,2,3,4,1,NA,2,28,Frau,3,2,nein,24,im Schnitt mehrfach pro Tag,passt insgesamt,NA,5,NA,NA,NA,NA,5,2.3,2,0.76,2,1
+01.10.2016 14:00:01,ANW,3,2,1,3,2,3,3,2,4,1,NA,3,33,Mann,2,30,nein,5,im Schnitt 1 Mal pro Woche,passt insgesamt nicht,NA,3,NA,NA,NA,NA,3,2.4,2.5,0.8,3,1
+02.10.2016 15:42:39,MHC,3,3,1,3,3,3,2,3,3,1,200,1,33,Frau,2,10,nein,2,im Schnitt 1 Mal pro Tag,keine Antwort,NA,4,NA,NA,NA,NA,4,2.5,3,0.7,3,0.75
+04.10.2016 11:39:17,NA,4,4,3,4,4,4,4,4,4,3,650,10,24,Mann,4,5,ja,50,im Schnitt 1 Mal pro Tag,passt insgesamt,NA,2,NA,NA,NA,NA,4,3.8,4,0.3200000000000001,4,0
+04.10.2016 16:38:10,TYL,2,2,4,2,2,3,2,1,2,1,350,5,23,Frau,2,15,nein,20,im Schnitt 1 Mal pro Monat,passt insgesamt,NA,2,NA,NA,NA,NA,2,2.1,2,0.56,2,0
+04.10.2016 17:56:59,JBP,3,4,1,2,3,3,1,3,3,1,356,3,23,Frau,1,30,ja,30,im Schnitt mehrfach pro Tag,keine Antwort,NA,4,NA,NA,NA,NA,5,2.4,3,0.92,3,1.75
+04.10.2016 18:56:03,NA,4,4,1,3,3,3,3,2,4,3,3e3,1,24,Frau,3,10,nein,4,im Schnitt 1 Mal pro Monat,passt insgesamt,NA,1,NA,NA,NA,NA,2,3,3,0.6,3,0.75
+05.10.2016 16:12:00,RKB,4,4,2,4,4,4,3,4,4,2,300,12,24,Mann,4,2,ja,24,im Schnitt mehrfach pro Tag,passt insgesamt,NA,3,NA,NA,NA,NA,5,3.5,4,0.7,4,0.75
+05.10.2016 18:41:28,NA,3,2,1,2,3,2,4,4,4,1,200,0,25,Frau,1,30,nein,12,nie,passt insgesamt,NA,4,NA,NA,NA,NA,NA,2.6,2.5,1,2,1.75
+05.10.2016 19:39:16,NA,3,3,1,3,2,3,2,3,3,2,457,2,24,Frau,3,20,nein,18,im Schnitt mehrfach pro Tag,passt insgesamt nicht,NA,3,NA,NA,NA,NA,5,2.5,3,0.6,3,1
+06.10.2016 18:59:34,FNN,2,2,2,4,3,2,3,1,3,1,613,1,27,Mann,4,10,nein,1,im Schnitt mehrfach pro Tag,passt insgesamt,NA,3,NA,NA,NA,NA,5,2.3,2,0.76,2,1
+08.10.2016 11:35:33,NA,4,3,3,3,3,4,3,3,3,2,75,1,29,Frau,3,10,nein,4,im Schnitt 1 Mal pro Woche,passt insgesamt,NA,2,NA,NA,NA,NA,3,3.1,3,0.36000000000000004,3,0
+10.10.2016 22:42:33,JCU,3,3,1,3,3,3,3,3,4,1,108,3,30,Frau,3,10,nein,5,im Schnitt mehrfach pro Tag,passt insgesamt,NA,3,NA,NA,NA,NA,5,2.7,3,0.6799999999999999,3,0
+11.10.2016 20:09:32,FGW,4,4,1,4,4,3,3,4,4,2,508,24,26,Mann,3,10,nein,30,im Schnitt 1 Mal pro Monat,passt insgesamt,NA,2,NA,NA,NA,NA,2,3.3,4,0.8400000000000001,4,1
+11.10.2016 20:34:16,NA,4,3,2,4,4,3,3,3,3,3,700,0,25,Frau,3,15,ja,35,im Schnitt mehrfach pro Tag,passt insgesamt,NA,2,NA,NA,NA,NA,5,3.2,3,0.4800000000000001,3,0.75
+11.10.2016 22:16:54,HUR,4,4,2,4,3,3,2,3,3,2,365,3,25,Frau,3,30,ja,20,im Schnitt mehrfach pro Tag,passt insgesamt,NA,3,NA,NA,NA,NA,5,3,3,0.6,3,1.5
+11.10.2016 22:52:26,NA,4,4,2,4,4,4,4,4,4,3,165,4,27,Frau,4,5,nein,10,im Schnitt mehrfach pro Tag,passt insgesamt,NA,1,NA,NA,NA,NA,5,3.7,4,0.47999999999999987,4,0
+12.10.2016 16:31:10,GSW,4,4,2,4,4,4,4,4,4,2,520,24,25,Frau,4,20,nein,30,im Schnitt 1 Mal pro Quartal (oder weniger),passt insgesamt nicht,NA,2,NA,NA,NA,NA,1,3.6,4,0.6399999999999999,4,0
+13.10.2016 21:07:37,NA,4,4,2,4,4,3,4,2,3,2,200,3,22,Frau,3,20,ja,2,im Schnitt 1 Mal pro Quartal (oder weniger),passt insgesamt,NA,2,NA,NA,NA,NA,1,3.2,3.5,0.8,4,1.75
+16.10.2016 14:38:09,NA,3,2,2,3,3,1,4,3,4,4,NA,10,24,Frau,3,5,nein,10,im Schnitt 1 Mal pro Quartal (oder weniger),passt insgesamt,NA,3,NA,NA,NA,NA,1,2.9,3,0.74,3,1.5
+25.10.2016 22:40:42,BIC,3,4,1,3,3,3,3,2,3,1,NA,0,41,Frau,1,10,nein,4,im Schnitt 1 Mal pro Quartal (oder weniger),passt insgesamt nicht,NA,5,NA,NA,NA,NA,1,2.6,3,0.76,3,0.75
+27.10.2016 18:48:17,RwE,3,3,4,4,3,3,3,3,4,3,727,5,26,Frau,3,15,nein,7,im Schnitt mehrfach pro Tag,passt insgesamt,NA,4,NA,NA,NA,NA,5,3.3,3,0.41999999999999993,3,0.75
+31.10.2016 15:50:09,MBD,2,2,2,2,2,3,2,2,2,2,150,0,22,Frau,2,10,nein,1,im Schnitt 1 Mal pro Tag,passt insgesamt,NA,6,NA,NA,NA,NA,4,2.1,2,0.18000000000000008,2,0
+06.11.2016 18:22:58,EAB,4,3,1,3,3,4,2,3,4,1,NA,0,22,Frau,1,NA,nein,4,im Schnitt 1 Mal pro Woche,passt insgesamt,NA,3,NA,NA,NA,NA,3,2.8,3,0.8800000000000001,3,1.5
+10.11.2016 15:42:01,NA,3,3,2,4,3,2,4,2,4,3,500,0,26,Frau,3,NA,ja,5,im Schnitt 1 Mal pro Quartal (oder weniger),passt insgesamt,NA,3,NA,NA,NA,NA,1,3,3,0.6,3,1.5
+12.11.2016 14:38:15,TDF,3,3,4,4,4,NA,4,4,4,3,NA,15,24,Mann,3,5,ja,20,NA,passt insgesamt,NA,2,NA,NA,NA,NA,NA,3.6666666666666665,4,0.4444444444444445,4,1
+13.11.2016 20:33:05,NA,3,3,1,3,3,3,3,2,3,2,396,25,23,Frau,3,30,ja,50,im Schnitt mehrfach pro Tag,passt insgesamt,NA,2,NA,NA,NA,NA,5,2.6,3,0.5599999999999999,3,0.75
+22.11.2016 16:26:06,GCM,4,4,1,3,3,3,2,3,3,1,350,5,22,Frau,2,15,nein,6,im Schnitt mehrfach pro Tag,keine Antwort,NA,3,NA,NA,NA,NA,5,2.7,3,0.82,3,0.75
+22.11.2016 21:58:13,Brk,2,2,1,2,3,3,3,2,3,3,NA,0,34,Frau,2,3,keine Antwort,2,im Schnitt 1 Mal pro Tag,passt insgesamt,NA,4,NA,NA,NA,NA,4,2.4,2.5,0.6,3,1
+23.11.2016 12:00:04,BFM,2,2,2,3,2,2,2,1,4,2,650,1,35,Mann,1,45,nein,1,im Schnitt mehrfach pro Tag,passt insgesamt nicht,NA,4,NA,NA,NA,NA,5,2.2,2,0.5200000000000001,2,0
+24.11.2016 19:25:43,API,3,3,1,3,3,4,2,4,3,2,400,6,25,Frau,3,3,nein,20,im Schnitt mehrfach pro Tag,passt insgesamt,NA,3,NA,NA,NA,NA,5,2.8,3,0.68,3,0.75
+27.11.2016 16:39:23,NOP,4,3,2,3,3,3,3,3,4,1,NA,7,22,Frau,3,NA,nein,30,im Schnitt 1 Mal pro Woche,keine Antwort,NA,3,NA,NA,NA,NA,3,2.9,3,0.56,3,0
+07.12.2016 16:43:18,SVM,3,4,2,3,3,3,3,2,2,2,NA,1,26,Frau,4,10,nein,15,im Schnitt 1 Mal pro Tag,passt insgesamt,NA,3,NA,NA,NA,NA,4,2.7,3,0.5599999999999999,3,1
+07.12.2016 18:26:17,SFS,4,4,2,3,NA,4,4,4,4,4,500,15,23,Frau,4,3,ja,20,im Schnitt mehrfach pro Tag,keine Antwort,NA,2,NA,NA,NA,NA,5,3.6666666666666665,4,0.5185185185185186,4,0
+14.12.2016 13:44:22,NA,4,3,2,4,4,3,4,4,4,3,675,12,27,Frau,4,1,keine Antwort,25,keine Antwort,passt insgesamt,NA,2,NA,NA,NA,NA,NA,3.5,4,0.6,4,1
+15.12.2016 10:56:31,EGM,3,3,3,3,2,3,3,3,3,2,560,15,24,Mann,2,NA,keine Antwort,35,im Schnitt mehrfach pro Tag,passt insgesamt nicht,NA,3,NA,NA,NA,NA,5,2.8,3,0.3200000000000001,3,0
+18.12.2016 12:00:53,RHD,2,2,1,2,1,2,2,2,3,3,94,12,33,Mann,2,30,ja,5,im Schnitt 1 Mal pro Tag,passt insgesamt nicht,NA,5,NA,NA,NA,NA,4,2,2,0.4,2,0
+19.12.2016 14:23:11,ARM,4,4,3,3,3,3,3,4,4,2,650,1,20,Frau,3,10,keine Antwort,15,keine Antwort,passt insgesamt,NA,2,NA,NA,NA,NA,NA,3.3,3,0.5599999999999999,3,1
+20.12.2016 11:08:31,ESH,4,4,2,4,4,3,3,3,3,3,400,10,27,Frau,4,1,ja,15,im Schnitt 1 Mal pro Woche,passt insgesamt,NA,1,NA,NA,NA,NA,3,3.3,3,0.5599999999999999,3,1
+24.12.2016 17:01:08,SSO,4,4,2,4,4,3,4,4,4,4,508,100,32,Mann,4,3,ja,40,im Schnitt mehrfach pro Tag,passt insgesamt,NA,2,NA,NA,NA,NA,5,3.7,4,0.47999999999999987,4,0
+02.01.2017 15:44:31,KMU,4,4,2,4,3,3,4,4,2,2,2200,25,29,Frau,3,15,nein,30,im Schnitt 1 Mal pro Tag,passt insgesamt,NA,2,NA,NA,NA,NA,4,3.2,3.5,0.8,4,1.75
+06.01.2017 15:52:05,NA,3,4,1,3,4,3,3,2,3,1,591,9,24,Frau,3,10,keine Antwort,12,im Schnitt mehrfach pro Tag,passt insgesamt,NA,2,NA,NA,NA,NA,5,2.7,3,0.82,3,0.75
+08.01.2017 18:21:11,ROM,4,4,3,3,3,4,2,4,4,4,450,10,21,Mann,4,20,ja,25,im Schnitt mehrfach pro Tag,passt insgesamt,NA,2,NA,NA,NA,NA,5,3.5,4,0.6,4,1
+10.01.2017 10:26:00,HHE,4,4,2,3,3,4,3,4,4,1,NA,24,27,Mann,2,5,nein,20,im Schnitt mehrfach pro Tag,keine Antwort,NA,4,NA,NA,NA,NA,5,3.2,3.5,0.8,4,1
+11.01.2017 10:11:19,MBT,4,3,1,3,3,3,3,3,4,2,397,19,23,Frau,3,26,ja,40,im Schnitt mehrfach pro Tag,passt insgesamt,NA,3,NA,NA,NA,NA,5,2.9,3,0.56,3,0
+15.01.2017 21:48:07,wem,3,3,1,4,2,2,4,1,3,3,299,5,24,Frau,3,2,keine Antwort,7,im Schnitt mehrfach pro Tag,passt insgesamt nicht,NA,2,NA,NA,NA,NA,5,2.6,3,0.88,3,1
+17.01.2017 09:53:45,lmm,3,3,2,3,2,3,2,2,2,3,30,0,46,Frau,2,20,ja,0,im Schnitt 1 Mal pro Woche,passt insgesamt nicht,NA,3,NA,NA,NA,NA,3,2.5,2.5,0.5,2,1
+22.01.2017 17:03:36,JMD,3,2,1,3,3,3,3,3,3,2,150,6,27,Mann,3,10,ja,3,im Schnitt mehrfach pro Tag,passt insgesamt,NA,2,NA,NA,NA,NA,5,2.6,3,0.5599999999999999,3,0.75
+24.01.2017 15:39:43,NA,3,2,1,4,3,3,3,1,4,3,100,1,30,Frau,3,10,ja,0,im Schnitt 1 Mal pro Tag,passt insgesamt,NA,3,NA,NA,NA,NA,4,2.7,3,0.82,3,0.75
+26.01.2017 11:13:33,RBK,4,3,1,4,4,3,4,3,3,3,230,8,30,Frau,3,5,ja,10,im Schnitt mehrfach pro Tag,passt insgesamt,NA,1,NA,NA,NA,NA,5,3.2,3,0.64,3,1
+26.01.2017 19:16:01,RMG,4,4,1,4,4,3,3,2,2,2,NA,0,28,Mann,3,3,nein,6,im Schnitt 1 Mal pro Woche,passt insgesamt,NA,3,NA,NA,NA,NA,3,2.9,3,0.92,4,2
+29.01.2017 16:55:06,NA,3,2,3,3,2,2,2,2,2,2,290,6,34,Mann,2,45,nein,6,im Schnitt 1 Mal pro Woche,passt insgesamt,NA,4,NA,NA,NA,NA,3,2.3,2,0.41999999999999993,2,0.75
+30.01.2017 20:39:58,GAH,3,3,3,2,3,3,3,4,2,3,374,0,22,Mann,3,60,nein,2,im Schnitt mehrfach pro Tag,passt insgesamt,NA,2,NA,NA,NA,NA,5,2.9,3,0.36000000000000004,3,0
+05.02.2017 14:15:24,HBL,4,3,1,3,3,4,4,4,4,2,165,20,28,Mann,3,7,ja,35,keine Antwort,passt insgesamt,NA,3,NA,NA,NA,NA,NA,3.2,3.5,0.8,4,1
+06.02.2017 11:43:01,NA,3,2,2,3,3,2,3,2,3,2,300,2,25,Frau,3,30,ja,5,im Schnitt mehrfach pro Tag,passt insgesamt nicht,NA,2,NA,NA,NA,NA,5,2.5,2.5,0.5,2,1
+07.02.2017 19:48:51,NA,2,2,1,2,1,2,2,2,3,2,90,3,33,Mann,2,20,ja,3,im Schnitt 1 Mal pro Tag,passt insgesamt nicht,NA,4,NA,NA,NA,NA,4,1.9,2,0.36000000000000004,2,0
+01.03.2017 09:29:26,NA,2,1,1,3,2,2,2,2,2,2,115,2,30,Mann,1,15,nein,5,im Schnitt mehrfach pro Tag,passt insgesamt nicht,NA,3,NA,NA,NA,NA,5,1.9,2,0.36000000000000004,2,0
+02.03.2017 16:57:37,PLU,3,3,1,3,3,3,3,2,4,2,80,0,30,Mann,1,5,keine Antwort,3,im Schnitt 1 Mal pro Tag,passt insgesamt,NA,4,NA,NA,NA,NA,4,2.7,3,0.6199999999999999,3,0.75
+02.03.2017 17:04:18,AVS,1,1,1,2,1,1,2,1,1,1,NA,0,NA,Mann,2,NA,ja,0,im Schnitt mehrfach pro Tag,keine Antwort,NA,6,NA,NA,NA,NA,5,1.2,1,0.31999999999999995,1,0
+02.03.2017 18:54:28,ABH,2,2,1,2,2,2,1,3,2,1,129,0,27,Frau,1,3,ja,30,im Schnitt mehrfach pro Tag,passt insgesamt,NA,5,NA,NA,NA,NA,5,1.8,2,0.48,2,0.75
+03.03.2017 09:37:10,SHI,3,3,4,3,3,3,2,1,3,1,600,0,23,Frau,2,10,nein,10,im Schnitt 1 Mal pro Quartal (oder weniger),passt insgesamt,NA,5,NA,NA,NA,NA,1,2.6,3,0.76,3,0.75
+03.03.2017 13:36:35,ANW,4,3,3,3,3,3,3,3,4,2,419,3,24,Frau,3,15,ja,6,im Schnitt 1 Mal pro Woche,keine Antwort,NA,4,NA,NA,NA,NA,3,3.1,3,0.36000000000000004,3,0
+03.03.2017 13:54:54,ABH,4,3,2,4,4,3,3,2,4,4,1400,0,19,Frau,4,10,ja,4,im Schnitt 1 Mal pro Tag,passt insgesamt,NA,2,NA,NA,NA,NA,4,3.3,3.5,0.7,4,1
+03.03.2017 14:29:01,VMB,3,4,1,4,4,2,3,3,4,2,422,2,23,Frau,4,15,nein,3,im Schnitt 1 Mal pro Quartal (oder weniger),passt insgesamt,NA,2,NA,NA,NA,NA,1,3,3,0.8,4,1.75
+03.03.2017 20:01:45,TEM,3,2,1,3,2,3,2,3,3,1,52,0,27,Frau,2,NA,NA,NA,im Schnitt mehrfach pro Tag,passt insgesamt,NA,4,NA,NA,NA,NA,5,2.3,2.5,0.7,3,1
+03.03.2017 23:01:06,JBH,3,4,1,3,3,4,2,3,4,3,173,10,25,Mann,3,15,ja,18,im Schnitt mehrfach pro Tag,passt insgesamt,NA,3,NA,NA,NA,NA,5,3,3,0.6,3,0.75
+03.03.2017 23:20:40,UFK,4,4,3,3,3,3,3,3,4,1,745,4,23,Frau,3,5,nein,25,im Schnitt mehrfach pro Tag,passt insgesamt,NA,3,NA,NA,NA,NA,5,3.1,3,0.54,3,0.75
+04.03.2017 09:59:12,NA,4,3,1,3,3,4,3,2,2,2,NA,NA,NA,Frau,3,NA,nein,NA,im Schnitt 1 Mal pro Tag,NA,NA,3,NA,NA,NA,NA,4,2.7,3,0.76,3,1
+04.03.2017 10:00:06,NA,4,3,1,4,4,3,4,4,4,2,350,5,24,Frau,4,5,nein,8,im Schnitt mehrfach pro Tag,passt insgesamt nicht,NA,2,NA,NA,NA,NA,5,3.3,4,0.8400000000000001,4,1
+04.03.2017 10:00:07,NA,4,4,1,4,4,3,2,3,4,1,366,3,22,Frau,2,2,nein,35,im Schnitt mehrfach pro Tag,passt insgesamt,NA,6,NA,NA,NA,NA,5,3,3.5,1,4,1.75
+04.03.2017 15:59:20,NA,4,4,1,4,4,4,3,1,NA,2,NA,NA,25,Mann,1,NA,ja,NA,im Schnitt mehrfach pro Tag,passt insgesamt nicht,NA,3,NA,NA,NA,NA,5,3,4,1.1111111111111112,4,2
+04.03.2017 16:02:09,TMK,4,4,3,3,2,4,3,3,3,2,460,2,21,Frau,2,15,ja,6,im Schnitt mehrfach pro Tag,passt insgesamt,NA,3,NA,NA,NA,NA,5,3.1,3,0.54,3,0.75
+04.03.2017 16:07:15,NA,4,3,2,4,4,3,4,4,4,3,500,6,24,Frau,4,5,ja,10,im Schnitt 1 Mal pro Monat,passt insgesamt,NA,1,NA,NA,NA,NA,2,3.5,4,0.6,4,1
+04.03.2017 18:28:57,JWP,4,4,1,4,3,3,3,3,2,2,NA,NA,21,Mann,3,10,nein,NA,im Schnitt mehrfach pro Tag,passt insgesamt,NA,3,NA,NA,NA,NA,5,2.9,3,0.74,3,1.5
+05.03.2017 08:08:21,tob,4,4,1,4,4,4,3,4,4,1,570,10,22,Frau,4,5,keine Antwort,35,im Schnitt mehrfach pro Tag,passt insgesamt,NA,3,NA,NA,NA,NA,5,3.3,4,0.9800000000000001,4,0.75
+05.03.2017 10:07:22,RBD,3,4,3,3,3,4,3,3,4,2,400,2,22,Frau,3,30,nein,10,im Schnitt mehrfach pro Tag,passt insgesamt,NA,3,NA,NA,NA,NA,5,3.2,3,0.4800000000000001,3,0.75
+05.03.2017 14:16:32,MMD,3,4,2,3,3,3,3,3,3,2,300,4,22,Frau,2,20,nein,5,im Schnitt 1 Mal pro Quartal (oder weniger),passt insgesamt nicht,NA,4,NA,NA,NA,NA,1,2.9,3,0.36000000000000004,3,0
+05.03.2017 14:20:56,MLC,4,3,2,4,3,3,3,2,3,4,300,1,19,Frau,3,10,ja,8,im Schnitt 1 Mal pro Tag,passt insgesamt,NA,2,NA,NA,NA,NA,4,3.1,3,0.54,3,0.75
+05.03.2017 14:39:57,JHD,3,3,1,3,3,3,3,3,3,1,1248,6,19,Frau,2,2,nein,20,im Schnitt mehrfach pro Tag,passt insgesamt,NA,5,NA,NA,NA,NA,5,2.6,3,0.6399999999999999,3,0
+05.03.2017 15:21:09,NA,3,4,1,3,3,3,4,3,3,3,394,0,35,Mann,4,12,ja,3,im Schnitt mehrfach pro Tag,passt insgesamt,NA,2,NA,NA,NA,NA,5,3,3,0.4,3,0
+05.03.2017 17:40:56,TKM,4,1,2,4,3,3,3,3,3,2,400,3,23,Frau,4,NA,nein,10,keine Antwort,passt insgesamt,NA,2,NA,NA,NA,NA,NA,2.8,3,0.68,3,0.75
+05.03.2017 20:38:28,MFK,3,2,2,2,3,2,3,3,3,3,NA,738,21,Frau,2,5,nein,15,im Schnitt mehrfach pro Tag,passt insgesamt,NA,3,NA,NA,NA,NA,5,2.6,3,0.48,3,1
+05.03.2017 23:56:59,ASA,4,2,3,3,4,3,4,3,4,2,524,1,26,Mann,2,10,ja,20,im Schnitt mehrfach pro Tag,passt insgesamt,NA,4,NA,NA,NA,NA,5,3.2,3,0.64,3,1
+06.03.2017 08:51:23,GAB,4,4,1,NA,3,3,2,4,4,3,150,4,21,Frau,2,NA,nein,NA,im Schnitt 1 Mal pro Quartal (oder weniger),passt insgesamt,NA,5,NA,NA,NA,NA,1,3.111111111111111,3,0.7901234567901234,4,1
+06.03.2017 09:40:13,CBM,3,3,1,3,3,3,3,4,4,3,250,40,27,Mann,4,5,ja,30,im Schnitt 1 Mal pro Tag,passt insgesamt,NA,2,NA,NA,NA,NA,4,3,3,0.4,3,0
+06.03.2017 13:15:45,FOD,4,4,2,4,4,4,3,4,4,3,77,2,30,Frau,4,15,nein,30,im Schnitt 1 Mal pro Woche,passt insgesamt,NA,2,NA,NA,NA,NA,3,3.6,4,0.5599999999999999,4,0.75
+06.03.2017 16:08:51,MLI,3,2,1,3,3,3,3,3,3,2,299,1,28,Frau,3,5,nein,20,im Schnitt mehrfach pro Tag,passt insgesamt,NA,3,NA,NA,NA,NA,5,2.6,3,0.5599999999999999,3,0.75
+06.03.2017 16:21:18,weg,2,2,1,3,2,2,3,3,4,1,115,20,30,Mann,2,20,nein,30,im Schnitt mehrfach pro Tag,passt insgesamt nicht,NA,5,NA,NA,NA,NA,5,2.3,2,0.76,2,1
+06.03.2017 16:23:06,GFS,3,4,1,3,2,2,2,3,3,2,320,2,27,Frau,2,15,nein,15,im Schnitt mehrfach pro Tag,passt insgesamt nicht,NA,3,NA,NA,NA,NA,5,2.5,2.5,0.7,2,1
+06.03.2017 19:56:33,NA,3,3,1,4,2,2,3,4,4,3,455,3,22,Frau,2,20,nein,8,im Schnitt mehrfach pro Tag,keine Antwort,NA,4,NA,NA,NA,NA,5,2.9,3,0.74,3,1.5
+06.03.2017 20:02:45,LSA,3,4,3,3,3,4,2,2,3,2,230,0,24,Frau,3,20,nein,3,keine Antwort,keine Antwort,NA,3,NA,NA,NA,NA,NA,2.9,3,0.54,3,0.75
+06.03.2017 20:04:01,JHB,4,3,2,4,3,3,3,3,3,3,150,0,23,Frau,4,5,ja,20,im Schnitt 1 Mal pro Tag,passt insgesamt,NA,1,NA,NA,NA,NA,4,3.1,3,0.36000000000000004,3,0
+06.03.2017 20:16:52,JMW,4,4,4,4,3,3,3,3,3,3,157,0,39,Mann,3,3,ja,8,im Schnitt mehrfach pro Tag,passt insgesamt,NA,2,NA,NA,NA,NA,5,3.4,3,0.48,3,1
+06.03.2017 23:07:24,WPE,3,4,4,4,4,3,4,4,4,4,750,3,25,Mann,4,3,ja,50,im Schnitt mehrfach pro Tag,passt insgesamt,NA,1,NA,NA,NA,NA,5,3.8,4,0.3200000000000001,4,0
+06.03.2017 23:24:46,AMT,4,3,3,3,3,3,4,3,3,3,364,2,24,Frau,3,5,ja,3,im Schnitt 1 Mal pro Quartal (oder weniger),passt insgesamt,NA,2,NA,NA,NA,NA,1,3.2,3,0.3200000000000001,3,0
+07.03.2017 10:53:58,NA,3,3,1,4,3,3,3,4,4,2,400,5,19,Frau,1,15,ja,30,im Schnitt 1 Mal pro Tag,passt insgesamt,NA,3,NA,NA,NA,NA,4,3,3,0.6,3,0.75
+07.03.2017 12:07:23,NA,4,3,2,4,4,3,4,4,4,4,NA,30,24,Mann,4,20,nein,20,im Schnitt mehrfach pro Tag,passt insgesamt,NA,1,NA,NA,NA,NA,5,3.6,4,0.5599999999999999,4,0.75
+07.03.2017 12:27:55,NA,4,2,1,3,3,3,2,3,3,2,345,0,20,Frau,3,3,nein,6,im Schnitt 1 Mal pro Woche,keine Antwort,NA,6,NA,NA,NA,NA,3,2.6,3,0.6799999999999999,3,1
+07.03.2017 12:29:54,AAE,3,4,3,3,3,4,3,3,3,2,200,3,29,Frau,3,5,nein,10,im Schnitt 1 Mal pro Monat,passt insgesamt,NA,3,NA,NA,NA,NA,2,3.1,3,0.36000000000000004,3,0
+07.03.2017 14:44:12,RNB,3,3,1,3,3,3,2,3,4,1,191,7,24,Frau,3,5,nein,15,im Schnitt 1 Mal pro Woche,passt insgesamt,NA,5,NA,NA,NA,NA,3,2.6,3,0.76,3,0.75
+07.03.2017 14:45:41,SCE,4,4,3,4,4,4,3,4,4,2,437,15,24,Mann,3,2,ja,30,im Schnitt mehrfach pro Tag,passt insgesamt,NA,1,NA,NA,NA,NA,5,3.6,4,0.5599999999999999,4,0.75
+07.03.2017 14:48:26,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NaN,NA,NaN,NA,NA
+07.03.2017 17:27:40,JID,3,2,1,3,3,3,2,2,3,1,300,2,24,Frau,2,10,keine Antwort,10,im Schnitt 1 Mal pro Tag,keine Antwort,NA,3,NA,NA,NA,NA,4,2.3,2.5,0.7,3,1
+07.03.2017 17:39:23,UHD,4,4,2,4,4,3,4,3,3,2,584,1,27,Mann,4,15,ja,10,im Schnitt 1 Mal pro Tag,passt insgesamt,NA,2,NA,NA,NA,NA,4,3.3,3.5,0.7,4,1
+07.03.2017 18:01:08,HFP,3,3,1,2,2,4,2,3,3,1,190,5,25,Frau,1,30,nein,10,im Schnitt mehrfach pro Tag,passt insgesamt nicht,NA,5,NA,NA,NA,NA,5,2.4,2.5,0.8,3,1
+07.03.2017 18:12:39,HHN,3,3,1,4,4,3,3,2,4,1,200,2,21,Frau,2,10,nein,3,im Schnitt 1 Mal pro Quartal (oder weniger),passt insgesamt,NA,3,NA,NA,NA,NA,1,2.8,3,0.8800000000000001,3,1.5
+07.03.2017 21:09:21,DLM,4,3,1,2,3,3,2,3,4,1,NA,20,48,Frau,1,15,nein,5,im Schnitt 1 Mal pro Quartal (oder weniger),passt insgesamt,NA,5,NA,NA,NA,NA,1,2.6,3,0.88,3,1
+07.03.2017 22:22:49,RGA,3,3,1,2,3,3,3,3,4,2,NA,4,24,Mann,2,60,nein,6,im Schnitt 1 Mal pro Monat,passt insgesamt,NA,2,NA,NA,NA,NA,2,2.7,3,0.6199999999999999,3,0.75
+08.03.2017 11:21:43,NA,3,2,1,3,3,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,ja,20,im Schnitt mehrfach pro Tag,NA,NA,2,NA,NA,NA,NA,5,2.3333333333333335,2.5,0.6666666666666666,3,1
+08.03.2017 11:22:03,NA,4,3,2,4,3,2,3,2,3,2,500,1,21,Frau,4,NA,ja,20,im Schnitt mehrfach pro Tag,keine Antwort,NA,1,NA,NA,NA,NA,5,2.8,3,0.64,2,1
+08.03.2017 12:32:05,NA,3,3,1,3,3,3,2,4,3,2,500,25,24,Frau,3,15,ja,50,im Schnitt 1 Mal pro Monat,passt insgesamt,NA,2,NA,NA,NA,NA,2,2.7,3,0.6199999999999999,3,0.75
+08.03.2017 13:35:30,AMSA,4,2,1,4,3,2,4,2,4,3,NA,1,23,Frau,3,5,ja,5,keine Antwort,keine Antwort,NA,2,NA,NA,NA,NA,NA,2.9,3,0.92,4,2
+08.03.2017 14:06:54,NA,4,1,2,3,3,3,2,3,4,2,620,10,19,Frau,2,7,nein,12,im Schnitt mehrfach pro Tag,passt insgesamt nicht,NA,3,NA,NA,NA,NA,5,2.7,3,0.76,3,1
+08.03.2017 14:40:10,TLD,4,3,2,4,3,4,3,3,4,3,525,20,22,Mann,3,10,nein,NA,im Schnitt 1 Mal pro Woche,passt insgesamt,NA,3,NA,NA,NA,NA,3,3.3,3,0.5599999999999999,3,1
+08.03.2017 15:11:09,DCS,3,3,1,4,4,3,2,3,3,3,984,30,19,Frau,3,8,nein,33,keine Antwort,passt insgesamt nicht,NA,1,NA,NA,NA,NA,NA,2.9,3,0.56,3,0
+08.03.2017 15:57:13,MKF,4,3,1,3,2,3,2,2,3,2,444,0,20,Frau,2,3,keine Antwort,8,im Schnitt mehrfach pro Tag,passt insgesamt,NA,4,NA,NA,NA,NA,5,2.5,2.5,0.7,2,1
+09.03.2017 16:42:27,gbs,4,3,1,3,3,3,4,4,4,3,171,0,37,Frau,4,10,keine Antwort,6,keine Antwort,passt insgesamt,NA,3,NA,NA,NA,NA,NA,3.2,3,0.64,3,1
+09.03.2017 19:35:24,WBE,3,3,2,3,3,3,2,3,3,2,NA,2,34,Mann,2,10,keine Antwort,7,im Schnitt mehrfach pro Tag,passt insgesamt,NA,3,NA,NA,NA,NA,5,2.7,3,0.41999999999999993,3,0.75
+09.03.2017 19:36:21,WKU,3,4,1,4,3,3,2,3,4,1,274,1,28,Frau,2,15,nein,2,im Schnitt mehrfach pro Tag,passt insgesamt,NA,3,NA,NA,NA,NA,5,2.8,3,0.8800000000000001,3,1.5
+10.03.2017 09:41:23,MGB,4,4,3,3,3,4,3,3,4,2,10,0,51,Mann,1,2,ja,8,im Schnitt mehrfach pro Tag,passt insgesamt,NA,4,NA,NA,NA,NA,5,3.3,3,0.5599999999999999,3,1
+10.03.2017 11:11:47,USJ,3,3,1,3,3,3,1,4,4,2,110,5,22,Frau,1,15,ja,10,im Schnitt mehrfach pro Tag,keine Antwort,NA,4,NA,NA,NA,NA,5,2.7,3,0.82,3,0.75
+10.03.2017 11:32:11,DLH,2,2,1,3,2,2,3,4,3,1,136,9,26,Frau,3,7,nein,NA,im Schnitt mehrfach pro Tag,passt insgesamt nicht,NA,3,NA,NA,NA,NA,5,2.3,2,0.76,2,1
+10.03.2017 15:08:36,JQH,3,3,4,3,3,4,2,3,3,2,309,5,26,Mann,2,5,ja,6,im Schnitt 1 Mal pro Monat,passt insgesamt,NA,4,NA,NA,NA,NA,2,3,3,0.4,3,0
+10.03.2017 15:38:54,NA,4,3,1,3,3,4,3,4,4,3,NA,8,24,Frau,3,5,keine Antwort,20,im Schnitt mehrfach pro Tag,keine Antwort,NA,3,NA,NA,NA,NA,5,3.2,3,0.64,3,1
+11.03.2017 00:20:22,HSG,4,4,1,4,4,3,3,1,3,2,NA,0,21,Frau,3,3,keine Antwort,NA,im Schnitt mehrfach pro Tag,passt insgesamt,NA,3,NA,NA,NA,NA,5,2.9,3,0.9400000000000001,4,1.75
+11.03.2017 00:58:37,MGS,3,4,1,4,3,4,2,3,3,3,623,2,23,Frau,3,20,ja,15,im Schnitt mehrfach pro Tag,keine Antwort,NA,3,NA,NA,NA,NA,5,3,3,0.6,3,0.75
+11.03.2017 11:53:37,211120,3,3,3,3,2,3,1,3,2,2,271,2,22,Mann,2,60,nein,5,keine Antwort,passt insgesamt,NA,4,NA,NA,NA,NA,NA,2.5,3,0.6,3,1
+11.03.2017 13:16:18,NA,4,4,3,2,2,3,2,4,4,2,900,10,20,Frau,2,60,keine Antwort,30,keine Antwort,passt insgesamt,NA,3,NA,NA,NA,NA,NA,3,3,0.8,2,2
+11.03.2017 13:54:53,NA,4,4,1,3,3,4,3,4,4,1,492,12,25,Frau,3,60,ja,12,im Schnitt mehrfach pro Tag,passt insgesamt,NA,2,NA,NA,NA,NA,5,3.1,3.5,0.9,4,1
+12.03.2017 08:47:36,APD,4,4,1,3,3,4,2,2,4,1,100,0,28,Mann,2,1,nein,8,im Schnitt 1 Mal pro Tag,passt insgesamt,NA,4,NA,NA,NA,NA,4,2.8,3,1.04,4,2
+12.03.2017 12:52:43,GSO,4,2,4,3,3,2,3,3,4,3,NA,1,54,Frau,3,10,ja,20,im Schnitt mehrfach pro Tag,passt insgesamt,NA,3,NA,NA,NA,NA,5,3.1,3,0.54,3,0.75
+12.03.2017 13:19:48,FHL,4,3,1,3,3,4,3,2,4,2,540,0,29,Frau,3,15,ja,10,im Schnitt mehrfach pro Tag,passt insgesamt,NA,3,NA,NA,NA,NA,5,2.9,3,0.74,3,1.5
+12.03.2017 13:47:37,NA,3,2,1,2,2,2,4,4,3,3,250,45,21,Mann,3,2,nein,35,im Schnitt 1 Mal pro Woche,passt insgesamt,NA,3,NA,NA,NA,NA,3,2.6,2.5,0.8,2,1
+12.03.2017 15:31:20,DFS,3,4,2,4,4,3,3,3,4,3,489,0,20,Frau,3,5,ja,8,im Schnitt mehrfach pro Tag,passt insgesamt,NA,3,NA,NA,NA,NA,5,3.3,3,0.5599999999999999,3,1
+12.03.2017 15:49:43,MVR,3,4,2,4,4,4,4,3,2,3,400,0,23,Frau,3,1,nein,10,im Schnitt mehrfach pro Tag,passt insgesamt,NA,2,NA,NA,NA,NA,5,3.3,3.5,0.7,4,1
+12.03.2017 17:04:35,JSB,3,4,1,2,2,3,1,3,3,1,25,0,25,Frau,1,15,nein,10,im Schnitt mehrfach pro Tag,passt insgesamt,NA,5,NA,NA,NA,NA,5,2.3,2.5,0.9,3,1.75
+12.03.2017 17:15:02,HBS,3,2,1,3,3,2,3,2,3,3,NA,5,37,Frau,3,6,nein,5,im Schnitt mehrfach pro Tag,passt insgesamt nicht,NA,3,NA,NA,NA,NA,5,2.5,3,0.6,3,1
+12.03.2017 18:52:54,had,3,4,3,3,3,3,3,4,3,1,550,1,27,Mann,3,2,ja,18,im Schnitt mehrfach pro Tag,passt insgesamt,NA,4,NA,NA,NA,NA,5,3,3,0.4,3,0
+12.03.2017 20:00:01,NA,3,2,1,4,4,3,2,3,3,4,882,6,19,Frau,4,10,nein,20,keine Antwort,passt insgesamt,NA,3,NA,NA,NA,NA,NA,2.9,3,0.74,3,1.5
+12.03.2017 20:13:44,NA,3,4,1,4,4,4,2,2,4,1,232,1,NA,Frau,4,NA,nein,4,im Schnitt 1 Mal pro Woche,keine Antwort,NA,4,NA,NA,NA,NA,3,2.9,3.5,1.12,4,2
+12.03.2017 21:45:14,PMK,3,3,1,3,3,3,3,3,3,1,318,2,23,Frau,3,7,keine Antwort,33,im Schnitt 1 Mal pro Monat,passt insgesamt nicht,NA,4,NA,NA,NA,NA,2,2.6,3,0.6399999999999999,3,0
+13.03.2017 00:12:41,rbn,3,3,3,3,2,3,3,4,4,2,NA,2,23,Mann,3,2,nein,10,im Schnitt 1 Mal pro Monat,passt insgesamt nicht,NA,3,NA,NA,NA,NA,2,3,3,0.4,3,0
+13.03.2017 08:38:37,bms,4,3,2,4,3,3,4,4,4,3,439,4,24,Frau,4,5,ja,65,im Schnitt mehrfach pro Tag,passt insgesamt,NA,3,NA,NA,NA,NA,5,3.4,3.5,0.6,4,1
+13.03.2017 11:12:21,PKE,2,4,1,4,4,3,4,4,4,3,NA,0,21,Mann,2,10,ja,6,keine Antwort,passt insgesamt,NA,2,NA,NA,NA,NA,NA,3.3,4,0.8400000000000001,4,1
+13.03.2017 11:12:25,IBD,3,3,2,4,3,2,3,4,3,1,300,1,19,Frau,3,10,NA,6,keine Antwort,passt insgesamt,NA,5,NA,NA,NA,NA,NA,2.8,3,0.68,3,0.75
+13.03.2017 11:13:21,NA,4,4,2,4,4,3,3,4,4,2,1e3,60,19,Frau,3,5,nein,100,im Schnitt 1 Mal pro Woche,passt insgesamt,NA,1,NA,NA,NA,NA,3,3.4,4,0.72,4,1
+13.03.2017 11:14:06,NA,2,2,1,2,2,2,2,3,3,2,420,20,19,Frau,2,10,ja,30,keine Antwort,passt insgesamt,NA,3,NA,NA,NA,NA,NA,2.1,2,0.36000000000000004,2,0
+13.03.2017 11:14:47,GRE,3,3,2,3,3,2,4,4,2,3,989,10,21,Mann,2,15,nein,15,keine Antwort,passt insgesamt nicht,NA,5,NA,NA,NA,NA,NA,2.9,3,0.54,3,0.75
+13.03.2017 11:15:03,RNE,4,4,3,4,4,3,3,2,4,2,300,0,21,Frau,3,1,ja,1,im Schnitt 1 Mal pro Tag,passt insgesamt,NA,1,NA,NA,NA,NA,4,3.3,3.5,0.7,4,1
+13.03.2017 11:15:04,SHW,3,3,3,3,3,3,2,2,3,2,350,1,20,Frau,2,5,ja,10,keine Antwort,keine Antwort,NA,4,NA,NA,NA,NA,NA,2.7,3,0.41999999999999993,3,0.75
+13.03.2017 11:15:18,RDC,4,3,3,4,3,4,4,3,4,3,329,5,19,Frau,4,5,ja,15,im Schnitt mehrfach pro Tag,passt insgesamt,NA,2,NA,NA,NA,NA,5,3.5,3.5,0.5,3,1
+13.03.2017 11:15:26,MLE,4,4,2,3,4,2,3,4,4,2,200,1,20,Frau,2,5,nein,20,im Schnitt mehrfach pro Tag,passt insgesamt,NA,2,NA,NA,NA,NA,5,3.2,3.5,0.8,4,1.75
+13.03.2017 11:15:31,ASG,3,2,1,4,3,2,2,3,3,2,290,7,20,Mann,2,4,ja,30,keine Antwort,passt insgesamt,NA,2,NA,NA,NA,NA,NA,2.5,2.5,0.7,2,1
+13.03.2017 11:17:00,JHD,3,3,3,3,3,3,4,3,4,2,200,2,18,Frau,2,6,nein,20,im Schnitt 1 Mal pro Tag,passt insgesamt,NA,4,NA,NA,NA,NA,4,3.1,3,0.36000000000000004,3,0
+13.03.2017 11:50:24,NA,NA,4,1,4,4,3,3,3,3,3,537,2,22,Frau,3,20,ja,1,im Schnitt 1 Mal pro Quartal (oder weniger),passt insgesamt,NA,2,NA,NA,NA,NA,1,3.111111111111111,3,0.5925925925925926,3,1
+13.03.2017 11:53:57,HES,4,3,2,4,3,3,3,3,4,3,760,1,21,Frau,4,10,ja,2,im Schnitt 1 Mal pro Tag,passt insgesamt,NA,1,NA,NA,NA,NA,4,3.2,3,0.4800000000000001,3,0.75
+13.03.2017 13:25:22,NA,4,2,1,4,4,3,4,3,3,4,1170,3,29,Mann,4,NA,ja,5,im Schnitt mehrfach pro Tag,passt insgesamt,NA,2,NA,NA,NA,NA,5,3.2,3.5,0.8,4,1
+13.03.2017 13:26:23,NA,2,2,3,2,2,2,2,2,3,1,600,2,34,Mann,1,10,ja,0,im Schnitt 1 Mal pro Woche,passt insgesamt,NA,4,NA,NA,NA,NA,3,2.1,2,0.36000000000000004,2,0
+14.03.2017 08:17:04,AEK,3,4,1,3,3,4,4,3,4,1,NA,1,30,Frau,3,10,nein,8,im Schnitt mehrfach pro Tag,keine Antwort,NA,3,NA,NA,NA,NA,5,3,3,0.8,3,1
+14.03.2017 12:32:29,NA,4,3,1,4,4,3,4,3,4,2,470,4,22,Frau,4,10,ja,7,im Schnitt mehrfach pro Tag,passt insgesamt,NA,1,NA,NA,NA,NA,5,3.2,3.5,0.8,4,1
+14.03.2017 12:33:09,NA,4,4,1,4,4,3,4,3,4,3,800,3,20,Frau,4,5,ja,20,im Schnitt 1 Mal pro Tag,passt insgesamt,NA,2,NA,NA,NA,NA,4,3.4,4,0.72,4,1
+14.03.2017 12:34:51,NA,3,3,1,4,4,3,4,2,2,2,600,15,21,Frau,2,5,nein,10,im Schnitt mehrfach pro Tag,passt insgesamt nicht,NA,4,NA,NA,NA,NA,5,2.8,3,0.8400000000000001,2,1.75
+14.03.2017 12:42:59,KBD,3,3,1,3,3,3,4,4,3,3,170,4,27,Mann,4,30,ja,7,im Schnitt mehrfach pro Tag,passt insgesamt,NA,2,NA,NA,NA,NA,5,3,3,0.4,3,0
+14.03.2017 12:49:57,FSV,4,4,2,3,3,3,3,3,4,2,593,6,22,Frau,3,30,nein,10,im Schnitt 1 Mal pro Woche,passt insgesamt,NA,2,NA,NA,NA,NA,3,3.1,3,0.54,3,0.75
+14.03.2017 13:00:50,NA,3,3,1,2,2,2,2,3,2,1,177,0,20,Frau,2,5,keine Antwort,15,keine Antwort,passt insgesamt nicht,NA,4,NA,NA,NA,NA,NA,2.1,2,0.54,2,0.75
+14.03.2017 13:40:53,NA,4,4,1,3,3,4,3,3,3,3,NA,1,25,Frau,3,4,ja,5,im Schnitt mehrfach pro Tag,passt insgesamt,NA,3,NA,NA,NA,NA,5,3.1,3,0.54,3,0.75
+14.03.2017 14:19:45,RBA,3,2,2,3,2,2,3,3,3,3,250,20,39,Mann,2,15,ja,3,im Schnitt mehrfach pro Tag,passt insgesamt,NA,2,NA,NA,NA,NA,5,2.6,3,0.48,3,1
+14.03.2017 16:27:30,KHK,4,4,2,4,3,3,3,2,3,3,494,5,25,Mann,3,45,ja,7,keine Antwort,passt insgesamt,NA,3,NA,NA,NA,NA,NA,3.1,3,0.54,3,0.75
+14.03.2017 17:44:54,RGG,4,4,3,4,4,4,3,3,4,3,500,1,23,Mann,4,15,ja,24,im Schnitt mehrfach pro Tag,passt insgesamt,NA,2,NA,NA,NA,NA,5,3.6,4,0.48,4,1
+14.03.2017 21:54:04,DEE,2,3,1,4,3,4,3,4,4,3,200,0,31,Mann,3,5,ja,6,im Schnitt mehrfach pro Tag,passt insgesamt,NA,2,NA,NA,NA,NA,5,3.1,3,0.72,3,1
+15.03.2017 12:01:48,WRH,2,2,1,2,2,2,3,4,4,2,151,20,34,Mann,2,10,nein,30,im Schnitt mehrfach pro Tag,passt insgesamt,NA,4,NA,NA,NA,NA,5,2.4,2,0.76,2,0.75
+15.03.2017 14:18:24,STM,3,3,1,3,3,3,3,2,3,2,360,1,25,Frau,3,15,ja,3,im Schnitt mehrfach pro Tag,passt insgesamt,NA,2,NA,NA,NA,NA,5,2.6,3,0.5599999999999999,3,0.75
+15.03.2017 15:05:30,NA,2,2,2,4,2,1,4,2,2,1,32,0,23,Mann,2,20,ja,15,im Schnitt mehrfach pro Tag,passt insgesamt nicht,NA,4,NA,NA,NA,NA,5,2.2,2,0.7200000000000001,2,0
+15.03.2017 15:55:29,JDB,4,3,3,4,3,3,3,2,4,3,850,7,20,Mann,3,30,keine Antwort,5,keine Antwort,passt insgesamt,NA,1,NA,NA,NA,NA,NA,3.2,3,0.4800000000000001,3,0.75
+15.03.2017 19:06:00,NA,3,2,1,4,3,3,3,2,3,4,304,10,31,Mann,3,15,nein,15,im Schnitt mehrfach pro Tag,passt insgesamt,NA,5,NA,NA,NA,NA,5,2.8,3,0.68,3,0.75
+15.03.2017 19:06:27,NA,3,3,2,3,3,2,2,2,4,2,100,3,24,Frau,2,60,ja,2,im Schnitt mehrfach pro Tag,passt insgesamt nicht,NA,4,NA,NA,NA,NA,5,2.6,2.5,0.6,2,1
+15.03.2017 19:06:54,Mmm,3,3,1,3,3,3,3,3,3,2,570,3,27,Frau,3,5,ja,10,im Schnitt 1 Mal pro Tag,passt insgesamt,NA,4,NA,NA,NA,NA,4,2.7,3,0.47999999999999987,3,0
+15.03.2017 19:07:03,AHB,4,4,3,3,3,4,3,3,3,3,739,12,22,Frau,3,10,ja,12,keine Antwort,passt insgesamt,NA,2,NA,NA,NA,NA,NA,3.3,3,0.41999999999999993,3,0.75
+15.03.2017 19:07:44,BSB,4,4,3,3,3,3,3,3,3,1,180,3,33,Frau,2,10,nein,10,im Schnitt mehrfach pro Tag,passt insgesamt nicht,NA,2,NA,NA,NA,NA,5,3,3,0.4,3,0
+15.03.2017 19:08:17,HVB,3,3,2,4,3,2,3,1,3,2,250,0,22,Mann,2,15,ja,0,im Schnitt 1 Mal pro Woche,passt insgesamt,NA,6,NA,NA,NA,NA,3,2.6,3,0.6799999999999999,3,1
+15.03.2017 19:09:37,NA,3,3,2,3,4,3,3,3,3,2,250,3,33,Mann,3,5,nein,10,im Schnitt mehrfach pro Tag,passt insgesamt,NA,3,NA,NA,NA,NA,5,2.9,3,0.36000000000000004,3,0
+15.03.2017 19:09:45,TSD,3,3,3,4,3,3,2,2,3,2,350,0,23,Mann,3,5,ja,3,im Schnitt mehrfach pro Tag,keine Antwort,NA,6,NA,NA,NA,NA,5,2.8,3,0.4800000000000001,3,0.75
+15.03.2017 19:10:23,NA,4,4,2,4,4,4,3,4,4,2,350,15,27,Frau,3,25,ja,25,im Schnitt 1 Mal pro Quartal (oder weniger),keine Antwort,NA,1,NA,NA,NA,NA,1,3.5,4,0.7,4,0.75
+15.03.2017 19:10:54,NA,3,3,1,2,2,3,2,3,4,1,NA,0,34,Mann,2,NA,nein,6,im Schnitt mehrfach pro Tag,keine Antwort,NA,5,NA,NA,NA,NA,5,2.4,2.5,0.8,3,1
+15.03.2017 19:11:01,NA,4,4,2,4,4,4,3,4,4,3,800,12,27,Frau,4,10,nein,15,im Schnitt 1 Mal pro Monat,passt insgesamt,NA,1,NA,NA,NA,NA,2,3.6,4,0.5599999999999999,4,0.75
+15.03.2017 19:12:44,HKG,3,3,1,3,3,3,3,2,4,2,505,10,34,Frau,3,15,nein,3,im Schnitt 1 Mal pro Tag,passt insgesamt,NA,2,NA,NA,NA,NA,4,2.7,3,0.6199999999999999,3,0.75
+15.03.2017 19:19:58,HKT,4,4,1,4,3,4,3,4,4,1,350,2,26,Frau,3,5,nein,10,keine Antwort,passt insgesamt nicht,NA,3,NA,NA,NA,NA,NA,3.2,4,0.96,4,1
+15.03.2017 22:21:48,NA,3,4,1,3,3,2,4,4,4,1,300,10,25,Frau,3,10,nein,10,keine Antwort,passt insgesamt,NA,4,NA,NA,NA,NA,NA,2.9,3,0.9400000000000001,4,1.75
+15.03.2017 22:23:37,MDN,4,4,1,3,3,2,3,4,4,1,300,10,25,Frau,3,5,nein,15,keine Antwort,passt insgesamt,NA,4,NA,NA,NA,NA,NA,2.9,3,0.9400000000000001,4,1.75
+16.03.2017 10:27:39,NA,4,3,2,4,4,3,4,4,4,1,500,24,28,NA,2,2,ja,30,im Schnitt mehrfach pro Tag,keine Antwort,NA,6,NA,NA,NA,NA,5,3.3,4,0.8400000000000001,4,1
+16.03.2017 15:32:38,Tgc,4,3,3,3,2,3,2,3,3,2,200,10,19,Mann,3,5,keine Antwort,12,im Schnitt mehrfach pro Tag,passt insgesamt,NA,3,NA,NA,NA,NA,5,2.8,3,0.4800000000000001,3,0.75
+16.03.2017 23:17:04,UHS,4,4,2,4,4,4,3,4,4,3,80,0,38,Frau,3,10,nein,7,im Schnitt mehrfach pro Tag,passt insgesamt,NA,3,NA,NA,NA,NA,5,3.6,4,0.5599999999999999,4,0.75
+17.03.2017 21:40:25,JWB,3,2,1,2,2,2,2,1,2,1,36,3,34,Mann,1,30,keine Antwort,2,keine Antwort,passt insgesamt nicht,NA,3,NA,NA,NA,NA,NA,1.8,2,0.48,2,0.75
+17.03.2017 23:00:10,AIM,2,2,1,3,2,2,2,1,3,NA,60,10,30,Frau,2,10,nein,1,im Schnitt 1 Mal pro Monat,passt insgesamt nicht,NA,5,NA,NA,NA,NA,2,2,2,0.4444444444444444,2,0
+18.03.2017 15:15:00,WWM,3,2,1,2,2,2,2,2,3,2,287,5,25,Frau,2,60,nein,10,keine Antwort,passt insgesamt nicht,NA,4,NA,NA,NA,NA,NA,2.1,2,0.36000000000000004,2,0
+18.03.2017 15:35:26,BWS,3,3,1,3,3,3,3,2,3,2,309,0,26,Mann,2,3,ja,10,im Schnitt 1 Mal pro Tag,passt insgesamt,NA,3,NA,NA,NA,NA,4,2.6,3,0.5599999999999999,3,0.75
+18.03.2017 18:28:16,TOB,2,2,2,2,2,1,2,2,4,2,NA,2,28,Mann,1,NA,ja,5,im Schnitt mehrfach pro Tag,passt insgesamt nicht,NA,5,NA,NA,NA,NA,5,2.1,2,0.38000000000000006,2,0
+19.03.2017 18:46:28,HCH,3,2,2,2,2,2,2,2,3,2,300,0,23,Mann,2,10,nein,5,im Schnitt 1 Mal pro Quartal (oder weniger),passt insgesamt,NA,3,NA,NA,NA,NA,1,2.2,2,0.3200000000000001,2,0
+20.03.2017 05:57:15,JMM,2,2,1,2,1,2,3,1,3,1,20,2,25,Mann,2,20,nein,2,im Schnitt 1 Mal pro Quartal (oder weniger),passt insgesamt nicht,NA,5,NA,NA,NA,NA,1,1.8,2,0.64,1,1
+20.03.2017 15:44:04,TBE,4,2,2,4,4,3,3,4,4,2,400,2,25,Frau,4,20,nein,30,im Schnitt mehrfach pro Tag,passt insgesamt,NA,3,NA,NA,NA,NA,5,3.2,3.5,0.8,4,1.75
+20.03.2017 18:53:49,WSR,4,3,1,3,3,3,3,2,3,2,NA,1,28,Mann,3,5,nein,1,im Schnitt 1 Mal pro Quartal (oder weniger),passt insgesamt nicht,NA,3,NA,NA,NA,NA,1,2.7,3,0.6199999999999999,3,0.75
+21.03.2017 08:01:13,NA,3,2,1,2,3,2,3,4,3,1,640,20,23,Mann,2,10,nein,50,im Schnitt 1 Mal pro Woche,passt insgesamt nicht,NA,5,NA,NA,NA,NA,3,2.4,2.5,0.8,3,1
+21.03.2017 08:47:28,ADM,3,3,2,3,2,3,3,3,4,3,1100,0,18,Frau,3,5,nein,6,keine Antwort,passt insgesamt,NA,2,NA,NA,NA,NA,NA,2.9,3,0.36000000000000004,3,0
+21.03.2017 08:47:40,KSD,4,4,1,4,3,4,4,3,3,3,179,5,19,Frau,4,10,ja,10,keine Antwort,passt insgesamt,NA,2,NA,NA,NA,NA,NA,3.3,3.5,0.7,4,1
+21.03.2017 08:49:44,RJG,3,3,1,2,2,3,2,3,3,2,384,10,20,Mann,2,20,keine Antwort,20,keine Antwort,passt insgesamt,NA,3,NA,NA,NA,NA,NA,2.4,2.5,0.6,3,1
+21.03.2017 08:49:51,JDB,4,3,3,4,3,3,3,3,4,3,800,5,20,Mann,3,30,keine Antwort,5,im Schnitt 1 Mal pro Woche,passt insgesamt,NA,2,NA,NA,NA,NA,3,3.3,3,0.41999999999999993,3,0.75
+21.03.2017 08:50:33,EHA,3,3,1,3,3,3,4,4,4,2,500,10,20,Mann,2,20,keine Antwort,20,keine Antwort,passt insgesamt,NA,3,NA,NA,NA,NA,NA,3,3,0.6,3,0.75
+21.03.2017 08:50:34,NA,3,3,1,3,2,2,3,3,4,1,799,0,21,Frau,1,10,nein,3,keine Antwort,passt insgesamt nicht,NA,5,NA,NA,NA,NA,NA,2.5,3,0.8,3,1
+21.03.2017 08:50:52,BLK,4,3,2,3,1,4,3,3,3,2,200,2,18,Frau,3,400,nein,13,keine Antwort,passt insgesamt nicht,NA,3,NA,NA,NA,NA,NA,2.8,3,0.68,3,0.75
+21.03.2017 08:50:56,GPT,3,2,1,3,2,2,1,2,3,1,300,4,19,Frau,1,10,nein,5,keine Antwort,passt insgesamt,NA,3,NA,NA,NA,NA,NA,2,2,0.6,2,1.5
+21.03.2017 08:51:20,Kon,4,4,2,4,4,3,3,3,4,2,400,8,22,Mann,3,5,keine Antwort,20,im Schnitt 1 Mal pro Monat,passt insgesamt,NA,3,NA,NA,NA,NA,2,3.3,3.5,0.7,4,1
+21.03.2017 08:51:29,FCB,4,4,2,4,4,3,3,3,4,2,500,10,20,Mann,4,10,ja,15,keine Antwort,passt insgesamt,NA,5,NA,NA,NA,NA,NA,3.3,3.5,0.7,4,1
+21.03.2017 08:51:39,NA,4,2,1,4,4,3,3,1,4,4,1313,0,19,Frau,4,1,ja,10,keine Antwort,passt insgesamt,NA,1,NA,NA,NA,NA,NA,3,3.5,1,4,1.75
+21.03.2017 08:51:52,ILD,3,2,2,4,4,2,3,3,3,2,458,3,19,Frau,2,10,ja,15,keine Antwort,keine Antwort,NA,3,NA,NA,NA,NA,NA,2.8,3,0.64,2,1
+21.03.2017 08:53:21,NA,4,3,2,4,4,2,4,3,3,2,NA,7,25,Frau,3,10,keine Antwort,10,im Schnitt 1 Mal pro Woche,keine Antwort,NA,2,NA,NA,NA,NA,3,3.1,3,0.72,4,1.75
+21.03.2017 08:53:26,FRE,3,2,1,3,3,2,2,2,3,2,641,15,20,Frau,2,NA,ja,20,im Schnitt 1 Mal pro Woche,keine Antwort,NA,5,NA,NA,NA,NA,3,2.3,2,0.5599999999999999,2,1
+21.03.2017 08:53:59,MKS,4,2,1,4,4,2,3,1,4,3,1313,0,19,Frau,4,1,ja,9,keine Antwort,passt insgesamt,NA,1,NA,NA,NA,NA,NA,2.8,3,1.04,4,2
+21.03.2017 08:54:53,NA,3,4,1,2,3,3,4,4,3,2,400,10,19,Mann,2,10,ja,20,im Schnitt 1 Mal pro Monat,passt insgesamt,NA,2,NA,NA,NA,NA,2,2.9,3,0.74,3,1.5
+21.03.2017 13:51:20,NA,2,2,1,2,2,1,2,2,4,1,0,0,25,Frau,1,40,nein,5,im Schnitt mehrfach pro Tag,passt insgesamt,NA,5,NA,NA,NA,NA,5,1.9,2,0.54,2,0.75
+21.03.2017 13:52:01,gse,3,2,1,3,2,3,3,3,4,3,150,4,27,Mann,3,30,nein,32,keine Antwort,passt insgesamt nicht,NA,4,NA,NA,NA,NA,NA,2.7,3,0.6199999999999999,3,0.75
+23.03.2017 18:59:08,GKH,3,3,1,2,2,2,3,3,3,2,78,2,23,Frau,2,30,nein,5,im Schnitt 1 Mal pro Woche,passt insgesamt nicht,NA,5,NA,NA,NA,NA,3,2.4,2.5,0.6,3,1
+23.03.2017 22:08:37,AFA,3,2,1,3,3,2,3,2,3,2,350,4,28,Frau,3,5,nein,15,im Schnitt mehrfach pro Tag,passt insgesamt,NA,4,NA,NA,NA,NA,5,2.4,2.5,0.6,3,1
+23.03.2017 23:28:30,HRB,3,3,1,3,3,3,3,3,2,1,200,0,37,Frau,3,3,nein,2,im Schnitt mehrfach pro Tag,keine Antwort,NA,5,NA,NA,NA,NA,5,2.5,3,0.7,3,0.75
+25.03.2017 11:00:31,SBW,4,2,3,3,3,2,2,3,4,2,518,4,22,Mann,3,15,ja,12,keine Antwort,passt insgesamt,NA,3,NA,NA,NA,NA,NA,2.8,3,0.64,2,1
+25.03.2017 12:48:13,JGE,4,3,1,3,4,3,3,3,3,3,NA,0,22,Frau,3,6,nein,3,im Schnitt mehrfach pro Tag,passt insgesamt nicht,NA,2,NA,NA,NA,NA,5,3,3,0.4,3,0
+25.03.2017 13:04:48,PLO,3,4,4,3,3,3,3,4,3,1,614,6,22,Frau,2,NA,ja,24,im Schnitt mehrfach pro Tag,passt insgesamt,NA,3,NA,NA,NA,NA,5,3.1,3,0.54,3,0.75
+25.03.2017 17:23:34,LRD,3,3,4,2,2,2,2,3,3,1,NA,10,28,Mann,2,15,nein,24,keine Antwort,passt insgesamt nicht,NA,5,NA,NA,NA,NA,NA,2.5,2.5,0.7,2,1
+28.03.2017 09:41:29,NA,4,4,3,4,4,4,3,3,3,1,150,10,33,Mann,4,1,nein,20,im Schnitt mehrfach pro Tag,passt insgesamt,NA,1,NA,NA,NA,NA,5,3.3,3.5,0.7,4,1
+28.03.2017 12:55:18,NA,2,1,3,1,2,1,2,3,3,2,700,20,19,Mann,1,10,nein,50,keine Antwort,passt insgesamt nicht,NA,5,NA,NA,NA,NA,NA,2,2,0.6,2,1.5
+28.03.2017 18:28:08,DLH,4,3,1,2,2,3,2,2,4,2,269,0,23,Frau,2,15,keine Antwort,10,im Schnitt 1 Mal pro Tag,keine Antwort,NA,5,NA,NA,NA,NA,4,2.5,2,0.8,2,1
+28.03.2017 21:46:47,MGD,4,4,1,4,4,4,4,4,4,4,206,7,22,Frau,4,10,nein,7,im Schnitt mehrfach pro Tag,passt insgesamt,NA,1,NA,NA,NA,NA,5,3.7,4,0.5399999999999998,4,0
+29.03.2017 18:41:23,SKE,3,3,1,3,3,3,3,4,3,2,396,50,19,Frau,3,10,nein,100,keine Antwort,passt insgesamt,NA,4,NA,NA,NA,NA,NA,2.8,3,0.5200000000000001,3,0
+30.03.2017 12:43:54,ABW,2,2,3,3,2,2,2,3,2,1,271,0,42,Frau,2,30,nein,15,im Schnitt mehrfach pro Tag,passt insgesamt nicht,NA,4,NA,NA,NA,NA,5,2.2,2,0.4800000000000001,2,0.75
+30.03.2017 15:37:59,NA,4,4,1,3,3,3,4,4,4,1,NA,5,26,Frau,2,NA,nein,NA,im Schnitt 1 Mal pro Tag,passt insgesamt nicht,NA,4,NA,NA,NA,NA,4,3.1,3.5,0.9,4,1
+03.04.2017 13:17:04,FWH,4,3,1,4,4,3,3,4,4,4,870,10,26,Mann,4,5,ja,25,im Schnitt 1 Mal pro Quartal (oder weniger),passt insgesamt,NA,2,NA,NA,NA,NA,1,3.4,4,0.72,4,1
+03.04.2017 16:26:14,NA,3,4,2,3,3,3,3,2,3,2,NA,0,26,Frau,2,10,keine Antwort,2,keine Antwort,keine Antwort,NA,2,NA,NA,NA,NA,NA,2.8,3,0.4800000000000001,3,0.75
+03.04.2017 18:23:50,gtm,3,2,3,3,3,2,NA,3,3,2,NA,NA,23,Frau,3,15,nein,6,keine Antwort,keine Antwort,NA,4,NA,NA,NA,NA,NA,2.6666666666666665,3,0.4444444444444445,3,1
+04.04.2017 11:29:59,NA,4,3,1,4,4,3,3,3,3,4,96055,55,23,Mann,4,5,ja,50,im Schnitt mehrfach pro Tag,passt insgesamt,NA,1,NA,NA,NA,NA,5,3.2,3,0.64,3,1
+04.04.2017 11:31:28,DAH,3,2,2,3,3,3,1,3,4,2,250,5,20,Frau,2,12,ja,25,im Schnitt mehrfach pro Tag,passt insgesamt,NA,3,NA,NA,NA,NA,5,2.6,3,0.6799999999999999,3,1
+04.04.2017 11:31:34,OBL,3,2,1,3,3,2,3,2,3,3,NA,0,19,Frau,3,10,ja,3,im Schnitt 1 Mal pro Woche,passt insgesamt,NA,2,NA,NA,NA,NA,3,2.5,3,0.6,3,1
+04.04.2017 11:31:49,NA,4,2,1,4,3,3,3,4,4,2,200,2,20,Frau,3,15,ja,15,im Schnitt mehrfach pro Tag,passt insgesamt nicht,NA,2,NA,NA,NA,NA,5,3,3,0.8,4,1.75
+04.04.2017 11:31:50,MBW,3,3,2,2,3,3,2,3,3,3,350,30,19,Frau,2,10,nein,30,im Schnitt 1 Mal pro Woche,passt insgesamt,NA,4,NA,NA,NA,NA,3,2.7,3,0.41999999999999993,3,0.75
+04.04.2017 11:31:42,MSB,3,4,1,4,3,2,4,NA,3,2,600,5,20,Frau,3,10,nein,10,im Schnitt mehrfach pro Tag,passt insgesamt,NA,1,NA,NA,NA,NA,5,2.888888888888889,3,0.8148148148148149,3,2
+04.04.2017 11:32:07,NA,3,1,1,3,4,2,1,3,3,4,400,10,20,Mann,3,5,ja,5,im Schnitt 1 Mal pro Quartal (oder weniger),passt insgesamt,NA,2,NA,NA,NA,NA,1,2.5,3,1,3,1.75
+04.04.2017 11:32:12,NA,4,4,2,4,4,4,3,4,4,3,447,5,20,Frau,4,5,ja,40,im Schnitt 1 Mal pro Tag,passt insgesamt,NA,2,NA,NA,NA,NA,4,3.6,4,0.5599999999999999,4,0.75
+04.04.2017 11:32:18,MKB,3,3,1,3,3,3,3,2,4,1,900,0,20,Frau,3,5,keine Antwort,20,im Schnitt mehrfach pro Tag,passt insgesamt,NA,4,NA,NA,NA,NA,5,2.6,3,0.76,3,0.75
+04.04.2017 11:32:24,NA,3,3,1,NA,NA,NA,3,4,3,1,NA,15,20,Frau,2,NA,nein,20,im Schnitt mehrfach pro Tag,keine Antwort,NA,5,NA,NA,NA,NA,5,2.5714285714285716,3,0.8979591836734693,3,1
+04.04.2017 11:32:51,TAG,4,4,3,3,3,3,3,3,3,2,900,6,22,Mann,3,0,ja,60,im Schnitt mehrfach pro Tag,passt insgesamt,NA,2,NA,NA,NA,NA,5,3.1,3,0.36000000000000004,3,0
+04.04.2017 11:32:58,NA,4,3,3,4,4,3,3,1,3,2,110,0,20,Mann,3,10,ja,0,im Schnitt 1 Mal pro Monat,passt insgesamt,NA,3,NA,NA,NA,NA,2,3,3,0.6,3,0.75
+04.04.2017 11:33:26,NA,3,3,3,3,4,2,2,4,4,1,700,13,20,Frau,3,5,keine Antwort,20,keine Antwort,passt insgesamt,NA,4,NA,NA,NA,NA,NA,2.9,3,0.74,3,1.5
+04.04.2017 11:33:27,RKK,4,4,3,4,4,1,4,4,4,4,400,0,21,Frau,4,20,ja,60,keine Antwort,passt insgesamt,NA,1,NA,NA,NA,NA,NA,3.6,4,0.6399999999999999,4,0
+04.04.2017 11:34:36,SJR,4,4,1,1,2,3,2,3,3,2,NA,NA,NA,Frau,1,NA,nein,NA,keine Antwort,passt insgesamt nicht,NA,6,NA,NA,NA,NA,NA,2.5,2.5,0.9,2,1
+04.04.2017 20:57:01,RFH,1,3,1,4,4,1,4,3,1,3,NA,0,23,Frau,4,5,nein,10,im Schnitt mehrfach pro Tag,passt insgesamt nicht,NA,1,NA,NA,NA,NA,5,2.5,3,1.2,1,2.75
+04.04.2017 20:58:47,NA,4,3,1,4,4,1,4,4,4,3,1329,35,34,Mann,3,20,nein,35,im Schnitt 1 Mal pro Woche,passt insgesamt,NA,2,NA,NA,NA,NA,3,3.2,4,0.96,4,1
+04.04.2017 20:59:28,BPB,4,3,1,3,3,2,3,3,4,1,93,3,33,Frau,3,15,nein,5,keine Antwort,passt insgesamt,NA,3,NA,NA,NA,NA,NA,2.7,3,0.82,3,0.75
+04.04.2017 21:00:06,MBH,3,3,1,3,2,4,3,2,2,2,NA,0,28,Mann,3,35,nein,30,im Schnitt mehrfach pro Tag,passt insgesamt,NA,3,NA,NA,NA,NA,5,2.5,2.5,0.7,2,1
+04.04.2017 21:00:37,LKG,4,4,2,4,4,4,3,4,4,4,350,2,28,Frau,4,10,ja,52,im Schnitt mehrfach pro Tag,passt insgesamt,NA,1,NA,NA,NA,NA,5,3.7,4,0.47999999999999987,4,0
+04.04.2017 21:01:29,OGL,3,3,2,3,3,3,2,2,4,2,NA,0,29,Frau,2,15,nein,3,im Schnitt mehrfach pro Tag,passt insgesamt,NA,3,NA,NA,NA,NA,5,2.7,3,0.5599999999999999,3,1
+04.04.2017 21:02:21,DBB,3,3,1,4,4,2,3,2,3,2,NA,2,43,Frau,3,5,keine Antwort,3,NA,passt insgesamt,NA,2,NA,NA,NA,NA,NA,2.7,3,0.76,3,1
+04.04.2017 21:02:27,MSA,4,4,3,4,4,4,4,4,4,3,500,5,24,Frau,4,5,nein,15,keine Antwort,passt insgesamt,NA,NA,NA,NA,NA,NA,NA,3.8,4,0.3200000000000001,4,0
+04.04.2017 21:16:51,NA,4,4,2,4,4,3,4,4,4,3,500,30,26,Frau,3,60,nein,50,im Schnitt mehrfach pro Tag,passt insgesamt,NA,1,NA,NA,NA,NA,5,3.6,4,0.5599999999999999,4,0.75
+04.04.2017 22:16:15,EHN,4,3,1,4,4,4,4,4,4,2,438,24,26,Frau,3,NA,nein,15,im Schnitt 1 Mal pro Woche,passt insgesamt,NA,NA,NA,NA,NA,NA,3,3.4,4,0.8400000000000001,4,0.75
+05.04.2017 20:07:00,PBL,4,4,3,4,4,3,3,3,3,2,104,1,30,Frau,3,5,ja,25,im Schnitt mehrfach pro Tag,passt insgesamt,NA,2,NA,NA,NA,NA,5,3.3,3,0.5599999999999999,3,1
+07.04.2017 11:25:27,PBG,3,3,1,4,4,3,3,3,3,3,420,0,23,Frau,3,5,ja,25,im Schnitt mehrfach pro Tag,passt insgesamt,NA,2,NA,NA,NA,NA,5,3,3,0.4,3,0
+07.04.2017 11:25:52,GSL,2,2,1,3,2,3,3,2,4,2,NA,4,44,Mann,2,20,nein,3,im Schnitt 1 Mal pro Woche,passt insgesamt nicht,NA,5,NA,NA,NA,NA,3,2.4,2,0.6799999999999999,2,1
+07.04.2017 11:26:42,NA,4,3,3,4,4,3,3,3,4,3,550,2,21,Frau,3,3,ja,12,im Schnitt mehrfach pro Tag,passt insgesamt,NA,2,NA,NA,NA,NA,5,3.4,3,0.48,3,1
+07.04.2017 11:26:46,BWH,4,3,1,2,2,2,2,2,4,1,300,2,21,Frau,2,30,nein,7,im Schnitt mehrfach pro Tag,passt insgesamt nicht,NA,4,NA,NA,NA,NA,5,2.3,2,0.82,2,0.75
+07.04.2017 11:26:51,NA,3,2,1,3,3,1,2,2,3,2,225,0,23,Frau,2,30,nein,0,im Schnitt mehrfach pro Tag,passt insgesamt,NA,3,NA,NA,NA,NA,5,2.2,2,0.64,2,1
+07.04.2017 11:26:52,NA,3,3,1,3,3,3,3,3,3,2,100,3,25,Frau,2,10,nein,6,im Schnitt mehrfach pro Tag,passt insgesamt nicht,NA,4,NA,NA,NA,NA,5,2.7,3,0.47999999999999987,3,0
+07.04.2017 11:27:06,RKH,3,3,1,3,2,3,2,1,3,1,NA,6,27,Frau,2,60,ja,2,im Schnitt mehrfach pro Tag,passt insgesamt nicht,NA,5,NA,NA,NA,NA,5,2.2,2.5,0.8,3,1.75
+07.04.2017 11:27:16,BNS,4,4,1,2,2,4,2,2,4,3,832,7,24,Frau,3,10,nein,9,im Schnitt mehrfach pro Tag,passt insgesamt nicht,NA,4,NA,NA,NA,NA,5,2.8,2.5,1,2,2
+07.04.2017 11:27:17,GMT,3,4,2,4,4,3,3,1,3,1,320,9,21,Frau,3,10,ja,15,im Schnitt mehrfach pro Tag,passt insgesamt,NA,1,NA,NA,NA,NA,5,2.8,3,0.8800000000000001,3,1.5
+07.04.2017 11:27:24,MPH,3,3,2,3,2,3,3,2,3,1,160,0,23,Frau,2,NA,nein,NA,im Schnitt mehrfach pro Tag,passt insgesamt,NA,5,NA,NA,NA,NA,5,2.5,3,0.6,3,1
+07.04.2017 11:27:24,HIA,3,3,1,2,2,3,2,2,3,1,NA,2,22,Frau,2,60,nein,2,im Schnitt mehrfach pro Tag,passt insgesamt nicht,NA,5,NA,NA,NA,NA,5,2.2,2,0.64,2,1
+07.04.2017 11:27:26,MSH,4,4,2,4,4,3,3,2,4,2,950,1,20,Frau,4,NA,ja,10,im Schnitt 1 Mal pro Woche,passt insgesamt,NA,2,NA,NA,NA,NA,3,3.2,3.5,0.8,4,1.75
+07.04.2017 11:27:28,NA,2,2,2,2,2,2,2,3,4,1,NA,0,26,Mann,1,15,ja,6,im Schnitt mehrfach pro Tag,passt insgesamt nicht,NA,5,NA,NA,NA,NA,5,2.2,2,0.5200000000000001,2,0
+07.04.2017 11:27:37,AGE,3,4,1,3,3,3,2,1,3,2,250,3,23,Mann,3,5,ja,4,im Schnitt mehrfach pro Tag,keine Antwort,NA,4,NA,NA,NA,NA,5,2.5,3,0.8,3,1
+07.04.2017 11:27:41,NA,4,4,2,4,4,3,4,4,3,2,800,5,19,Frau,2,10,ja,40,im Schnitt 1 Mal pro Tag,keine Antwort,NA,1,NA,NA,NA,NA,4,3.4,4,0.72,4,1
+07.04.2017 11:27:43,NA,4,4,3,4,3,3,3,4,4,2,540,100,23,Mann,3,7,ja,80,im Schnitt 1 Mal pro Tag,passt insgesamt,NA,2,NA,NA,NA,NA,4,3.4,3.5,0.6,4,1
+07.04.2017 11:27:46,Harald Fredigunge,4,4,3,3,4,4,4,2,3,1,150,0,25,Mann,1,1,nein,20,keine Antwort,passt insgesamt,NA,3,NA,NA,NA,NA,NA,3.2,3.5,0.8,4,1
+07.04.2017 11:28:17,NA,3,4,1,4,4,2,3,2,4,2,NA,0,22,Frau,4,10,nein,2,im Schnitt mehrfach pro Tag,passt insgesamt,NA,1,NA,NA,NA,NA,5,2.9,3,0.92,4,2
+07.04.2017 11:28:34,THC,3,3,1,3,4,3,3,4,4,1,263,0,26,Frau,3,3,nein,10,im Schnitt mehrfach pro Tag,passt insgesamt,NA,5,NA,NA,NA,NA,5,2.9,3,0.76,3,0.75
+07.04.2017 11:28:35,NA,4,4,2,4,3,3,3,4,4,2,554,10,23,Frau,3,NA,keine Antwort,15,im Schnitt 1 Mal pro Tag,keine Antwort,NA,2,NA,NA,NA,NA,4,3.3,3.5,0.7,4,1
+07.04.2017 11:28:38,AEH,3,3,1,3,3,3,3,3,2,2,240,15,20,Frau,2,30,ja,12,im Schnitt mehrfach pro Tag,passt insgesamt nicht,NA,3,NA,NA,NA,NA,5,2.6,3,0.5599999999999999,3,0.75
+07.04.2017 11:28:40,DLR,3,3,2,2,3,3,3,3,3,2,300,15,23,Frau,2,10,nein,15,im Schnitt mehrfach pro Tag,passt insgesamt nicht,NA,3,NA,NA,NA,NA,5,2.7,3,0.41999999999999993,3,0.75
+07.04.2017 11:28:42,PAS,4,3,1,3,2,3,3,4,3,1,387,15,24,Frau,1,NA,nein,30,im Schnitt mehrfach pro Tag,passt insgesamt,NA,6,NA,NA,NA,NA,5,2.7,3,0.82,3,0.75
+07.04.2017 11:28:44,NA,4,2,1,4,3,3,3,3,4,4,560,2,23,Mann,3,2,ja,20,im Schnitt mehrfach pro Tag,passt insgesamt,NA,2,NA,NA,NA,NA,5,3.1,3,0.72,3,1
+07.04.2017 11:28:45,NA,2,3,2,3,2,3,2,3,2,3,400,10,22,Frau,2,20,ja,27,im Schnitt mehrfach pro Tag,passt insgesamt,NA,3,NA,NA,NA,NA,5,2.5,2.5,0.5,2,1
+07.04.2017 11:28:45,VRR,4,3,1,4,4,2,4,4,3,2,320,4,27,Frau,3,2,keine Antwort,12,im Schnitt mehrfach pro Tag,passt insgesamt nicht,NA,3,NA,NA,NA,NA,5,3.1,3.5,0.9,4,1.75
+07.04.2017 11:28:48,NA,4,2,1,2,3,2,4,3,3,3,187,5,25,Mann,2,NA,keine Antwort,15,im Schnitt mehrfach pro Tag,passt insgesamt nicht,NA,2,NA,NA,NA,NA,5,2.7,3,0.76,3,1
+07.04.2017 11:28:51,UWH,3,3,1,4,4,3,3,3,4,2,120,0,25,Frau,3,10,ja,5,im Schnitt mehrfach pro Tag,passt insgesamt,NA,4,NA,NA,NA,NA,5,3,3,0.6,3,0.75
+07.04.2017 11:28:57,NA,3,3,2,3,3,3,3,2,4,3,NA,2,21,Frau,3,10,nein,3,im Schnitt 1 Mal pro Monat,keine Antwort,NA,2,NA,NA,NA,NA,2,2.9,3,0.36000000000000004,3,0
+07.04.2017 11:29:04,KOH,4,4,2,4,4,2,3,2,3,2,880,4,22,Frau,4,15,nein,5,im Schnitt mehrfach pro Tag,passt insgesamt,NA,2,NA,NA,NA,NA,5,3,3,0.8,2,2
+07.04.2017 11:29:05,NA,3,3,1,2,3,2,2,4,3,1,700,4,21,Frau,2,NA,nein,30,keine Antwort,keine Antwort,NA,3,NA,NA,NA,NA,NA,2.4,2.5,0.8,3,1
+07.04.2017 11:29:09,NA,3,3,1,3,3,1,3,1,2,1,NA,0,25,NA,2,10,ja,1,keine Antwort,passt insgesamt nicht,NA,4,NA,NA,NA,NA,NA,2.1,2.5,0.9,3,2
+07.04.2017 11:29:32,BZS,4,3,3,4,4,2,3,4,4,2,NA,2,23,Frau,3,10,nein,12,im Schnitt mehrfach pro Tag,passt insgesamt nicht,NA,3,NA,NA,NA,NA,5,3.3,3.5,0.7,4,1
+07.04.2017 11:29:45,HGP,4,3,2,3,2,3,3,4,3,2,200,40,24,Mann,2,2,keine Antwort,50,im Schnitt 1 Mal pro Woche,keine Antwort,NA,4,NA,NA,NA,NA,3,2.9,3,0.54,3,0.75
+07.04.2017 11:30:23,NA,3,3,2,3,2,3,1,4,4,1,NA,0,22,Frau,1,10,nein,25,im Schnitt 1 Mal pro Monat,keine Antwort,NA,5,NA,NA,NA,NA,2,2.6,3,0.88,3,1
+07.04.2017 11:30:34,AWH,3,3,1,3,2,3,2,2,4,2,NA,0,23,Frau,2,NA,ja,6,im Schnitt mehrfach pro Tag,passt insgesamt nicht,NA,5,NA,NA,NA,NA,5,2.5,2.5,0.7,2,1
+07.04.2017 11:30:37,NA,4,4,2,4,3,3,4,3,4,2,436,5,22,Frau,4,NA,ja,5,im Schnitt mehrfach pro Tag,keine Antwort,NA,1,NA,NA,NA,NA,5,3.3,3.5,0.7,4,1
+07.04.2017 11:30:38,WUK,3,3,1,3,3,3,3,3,4,3,249,1,22,Frau,4,10,nein,6,im Schnitt mehrfach pro Tag,passt insgesamt,NA,4,NA,NA,NA,NA,5,2.9,3,0.38000000000000006,3,0
+07.04.2017 11:30:40,ASH,4,3,2,2,2,3,3,4,1,1,NA,30,22,Frau,2,10,nein,100,im Schnitt 1 Mal pro Tag,passt insgesamt nicht,NA,5,NA,NA,NA,NA,4,2.5,2.5,0.9,2,1
+07.04.2017 11:31:05,UAW,4,3,3,4,4,4,3,3,4,3,312,6,22,Frau,3,1,nein,16,im Schnitt mehrfach pro Tag,passt insgesamt,NA,2,NA,NA,NA,NA,5,3.5,3.5,0.5,3,1
+07.04.2017 11:31:11,Haramburg,4,3,1,4,3,3,4,4,4,2,NA,6,20,Mann,4,10,keine Antwort,85,im Schnitt 1 Mal pro Quartal (oder weniger),passt insgesamt,NA,1,NA,NA,NA,NA,1,3.2,3.5,0.8,4,1
+07.04.2017 11:32:36,RNH,4,4,1,3,4,4,3,2,3,1,293,2,26,Frau,NA,0,nein,10,im Schnitt mehrfach pro Tag,passt insgesamt nicht,NA,4,NA,NA,NA,NA,5,2.9,3,0.9400000000000001,4,1.75
+07.04.2017 11:32:41,MRH,3,2,1,3,3,2,3,4,4,1,550,10,19,Frau,3,15,nein,45,im Schnitt 1 Mal pro Tag,passt insgesamt nicht,NA,5,NA,NA,NA,NA,4,2.6,3,0.88,3,1
+07.04.2017 11:34:50,HBH,4,3,3,4,4,4,3,4,4,3,NA,10,23,Mann,4,10,ja,30,im Schnitt mehrfach pro Tag,passt insgesamt,NA,1,NA,NA,NA,NA,5,3.6,4,0.48,4,1
+08.04.2017 10:50:27,NA,3,4,3,3,4,3,4,4,4,3,397,NA,19,Frau,3,5,nein,NA,keine Antwort,passt insgesamt,NA,2,NA,NA,NA,NA,NA,3.5,3.5,0.5,3,1
+09.04.2017 11:35:55,cch,3,1,1,3,2,2,4,3,2,1,NA,2,32,Mann,3,60,nein,20,im Schnitt mehrfach pro Tag,passt insgesamt,NA,4,NA,NA,NA,NA,5,2.2,2,0.8400000000000001,1,1.75
+11.04.2017 19:10:55,RKA,2,2,2,1,2,3,2,1,4,2,177,2,37,Frau,1,10,nein,5,im Schnitt 1 Mal pro Woche,passt insgesamt nicht,NA,4,NA,NA,NA,NA,3,2.1,2,0.56,2,0
+12.04.2017 17:24:36,RMS,4,4,2,3,3,4,4,3,4,1,560,0,26,Frau,3,30,ja,5,keine Antwort,passt insgesamt,NA,3,NA,NA,NA,NA,NA,3.2,3.5,0.8,4,1
+14.04.2017 11:27:32,NA,4,4,2,3,3,3,2,4,4,1,315,10,23,Mann,3,15,nein,8,im Schnitt 1 Mal pro Monat,passt insgesamt,NA,3,NA,NA,NA,NA,2,3,3,0.8,4,1.75
+14.04.2017 13:30:51,GMO,4,4,2,4,3,2,2,2,4,1,400,0,26,Frau,3,NA,nein,12,keine Antwort,passt insgesamt nicht,NA,3,NA,NA,NA,NA,NA,2.8,2.5,1,2,2
+15.04.2017 14:57:41,AIM,3,2,1,2,2,3,3,2,3,1,NA,5,39,Frau,1,NA,nein,10,im Schnitt mehrfach pro Tag,passt insgesamt,NA,6,NA,NA,NA,NA,5,2.2,2,0.64,2,1
+16.04.2017 17:17:48,AAI,2,3,1,3,3,1,4,1,3,4,NA,0,37,Frau,3,5,ja,0,im Schnitt mehrfach pro Tag,passt insgesamt,NA,2,NA,NA,NA,NA,5,2.5,3,1,3,1.75
+16.04.2017 19:22:36,MKM,3,4,1,4,4,4,4,3,2,2,242,15,33,Mann,3,15,ja,50,im Schnitt mehrfach pro Tag,passt insgesamt,NA,2,NA,NA,NA,NA,5,3.1,3.5,0.9,4,1.75
+17.04.2017 15:18:53,UIM,4,3,1,3,3,2,2,1,3,2,250,3,26,Mann,2,30,ja,4,im Schnitt 1 Mal pro Tag,passt insgesamt nicht,NA,3,NA,NA,NA,NA,4,2.4,2.5,0.8,3,1
+18.04.2017 16:01:27,BMM,4,4,2,2,2,3,2,3,3,1,337,7,23,Frau,1,15,ja,35,keine Antwort,passt insgesamt,NA,5,NA,NA,NA,NA,NA,2.6,2.5,0.8,2,1
+22.04.2017 15:52:46,137,3,3,2,4,3,3,3,2,2,2,200,10,28,Mann,3,10,nein,5,im Schnitt 1 Mal pro Tag,passt insgesamt nicht,NA,4,NA,NA,NA,NA,4,2.7,3,0.5599999999999999,3,1
+23.04.2017 15:25:05,FWS,4,4,3,4,4,3,4,4,4,3,534,5,29,Frau,4,10,ja,20,im Schnitt mehrfach pro Tag,passt insgesamt,NA,2,NA,NA,NA,NA,5,3.7,4,0.41999999999999993,4,0.75
+27.04.2017 18:37:14,Hef,3,NA,2,3,3,3,3,1,3,3,100,0,47,Mann,2,5,ja,2,im Schnitt 1 Mal pro Tag,keine Antwort,NA,3,NA,NA,NA,NA,4,2.6666666666666665,3,0.5185185185185186,3,0
+05.05.2017 14:42:54,NA,4,4,1,3,3,3,3,4,4,3,150,24,28,Frau,4,60,nein,24,im Schnitt 1 Mal pro Monat,passt insgesamt,NA,4,NA,NA,NA,NA,2,3.2,3,0.64,3,1
+06.05.2017 12:45:51,LMD,4,2,1,2,2,3,3,4,4,2,150,50,23,Frau,3,5,ja,50,im Schnitt 1 Mal pro Tag,passt insgesamt,NA,3,NA,NA,NA,NA,4,2.7,2.5,0.9,2,1.75
+17.05.2017 18:22:14,SBM,3,3,2,3,1,2,4,1,2,3,380,0,21,Mann,2,15,nein,2,im Schnitt 1 Mal pro Woche,passt insgesamt,NA,5,NA,NA,NA,NA,3,2.4,2.5,0.8,3,1
+17.05.2017 23:03:03,IBB,4,3,1,3,3,2,2,3,4,NA,NA,12,36,Frau,2,15,nein,20,keine Antwort,keine Antwort,NA,3,NA,NA,NA,NA,NA,2.7777777777777777,3,0.7407407407407408,3,1
+20.05.2017 17:04:57,NA,3,4,NA,3,3,3,3,3,3,2,1e3,2,28,Frau,2,3,ja,12,keine Antwort,passt insgesamt,NA,3,NA,NA,NA,NA,NA,3,3,0.2222222222222222,3,0
+21.05.2017 17:30:17,AET,3,4,2,4,4,3,3,3,3,3,739,18,20,Frau,3,1,nein,24,keine Antwort,passt insgesamt,NA,2,NA,NA,NA,NA,NA,3.2,3,0.4800000000000001,3,0.75
+21.05.2017 19:23:48,JUH,3,3,4,3,2,3,3,2,4,1,NA,9,22,Mann,2,6,nein,8,im Schnitt 1 Mal pro Tag,keine Antwort,NA,4,NA,NA,NA,NA,4,2.8,3,0.68,3,0.75
+22.05.2017 12:43:44,NA,4,4,2,3,3,4,3,3,3,2,500,3,20,Mann,3,12,ja,12,im Schnitt 1 Mal pro Monat,keine Antwort,NA,2,NA,NA,NA,NA,2,3.1,3,0.54,3,0.75
+22.05.2017 15:09:02,NA,4,3,2,4,4,3,3,3,4,3,573,14,21,Mann,3,3,keine Antwort,12,im Schnitt 1 Mal pro Quartal (oder weniger),passt insgesamt,NA,2,NA,NA,NA,NA,1,3.3,3,0.5599999999999999,3,1
+22.05.2017 15:08:59,NA,4,3,3,4,4,3,3,4,4,3,800,40,20,Mann,2,10,ja,30,im Schnitt 1 Mal pro Quartal (oder weniger),passt insgesamt,NA,2,NA,NA,NA,NA,1,3.5,3.5,0.5,3,1
+22.05.2017 15:10:39,NA,4,4,2,3,3,4,3,3,4,2,270,4,21,Frau,2,30,ja,12,im Schnitt 1 Mal pro Woche,passt insgesamt,NA,3,NA,NA,NA,NA,3,3.2,3,0.64,3,1
+22.05.2017 15:11:00,NA,4,1,4,3,3,3,4,4,3,2,600,20,21,Mann,3,20,keine Antwort,36,keine Antwort,passt insgesamt,NA,2,NA,NA,NA,NA,NA,3.1,3,0.72,3,1
+22.05.2017 15:12:07,NA,4,4,1,4,4,4,3,3,4,2,834,5,21,Frau,3,5,ja,9,im Schnitt mehrfach pro Tag,passt insgesamt,NA,2,NA,NA,NA,NA,5,3.3,4,0.8400000000000001,4,1
+26.05.2017 23:22:10,WHL,2,3,1,4,3,2,3,3,4,2,NA,1,32,Frau,3,30,nein,4,im Schnitt 1 Mal pro Quartal (oder weniger),passt insgesamt,NA,5,NA,NA,NA,NA,1,2.7,3,0.76,3,1
+01.06.2017 21:32:45,wkw,3,2,1,3,2,2,2,2,3,3,150,0,35,Frau,2,15,ja,6,im Schnitt 1 Mal pro Tag,keine Antwort,NA,3,Psychologie & Wirtschafft,NA,NA,NA,4,2.3,2,0.5599999999999999,2,1
+04.06.2017 13:51:11,JAW,3,4,1,4,4,2,3,3,4,3,NA,5,27,Frau,3,5,ja,12,im Schnitt mehrfach pro Tag,passt insgesamt,NA,2,Psychologie & Wirtschafft,Nein,7,9,5,3.1,3,0.72,3,1
+05.06.2017 10:26:41,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NaN,NA,NaN,NA,NA
+05.06.2017 10:26:50,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NaN,NA,NaN,NA,NA
+05.06.2017 14:27:18,PSV,3,3,2,3,4,3,3,4,4,2,800,10,20,Frau,3,5,ja,25,keine Antwort,passt insgesamt,NA,4,Psychologie & Wirtschafft,Nein,85,7,NA,3.1,3,0.54,3,0.75
+07.06.2017 14:17:54,EBE,4,4,1,4,4,4,3,4,4,3,418,50,24,Frau,3,5,keine Antwort,50,im Schnitt mehrfach pro Tag,passt insgesamt,NA,2,Psychologie & Wirtschafft,Ja,5,10,5,3.5,4,0.7,4,0.75
+07.06.2017 20:56:12,LBW,3,2,1,3,2,2,3,4,3,2,NA,5,30,Frau,2,30,nein,20,im Schnitt mehrfach pro Tag,keine Antwort,NA,3,Psychologie & Wirtschafft,Nein,6,7,5,2.5,2.5,0.7,2,1
+11.06.2017 16:41:21,HJKB,4,4,2,4,4,4,3,4,4,3,500,20,22,Mann,3,30,nein,40,im Schnitt mehrfach pro Tag,passt insgesamt,NA,1,Psychologie & Wirtschafft,Ja,7,8,5,3.6,4,0.5599999999999999,4,0.75
+12.06.2017 09:35:33,RBB,4,3,2,4,3,4,4,4,3,2,500,8,20,Frau,2,5,nein,20,keine Antwort,passt insgesamt,NA,3,Wirtschaft & Management,Nein,65,7,NA,3.3,3.5,0.7,4,1
+12.06.2017 14:55:49,Fhk,4,4,2,4,4,4,3,1,4,2,810,5,30,Mann,4,5,ja,10,im Schnitt mehrfach pro Tag,passt insgesamt,NA,2,Psychologie & Wirtschafft,Ja,8,10,5,3.2,4,0.96,4,1.75
+19.06.2017 15:24:39,MMS,2,2,2,2,3,2,2,1,4,1,300,0,20,Frau,1,1,ja,6,im Schnitt 1 Mal pro Quartal (oder weniger),passt insgesamt nicht,NA,4,Psychologie & Wirtschafft,Nein,7,10,1,2.1,2,0.56,2,0
+20.06.2017 10:52:22,NA,3,3,2,4,4,3,4,3,4,1,850,0,30,Frau,3,20,keine Antwort,5,keine Antwort,passt insgesamt,NA,2,Psychologie & Wirtschafft,Gelegentlich (z. B. auf Partys),8,8,NA,3.1,3,0.72,3,1
+21.06.2017 11:29:46,JSK,4,3,2,4,3,4,3,3,3,2,330,NA,24,Frau,4,30,keine Antwort,20,keine Antwort,passt insgesamt,NA,2,Wirtschaft & Management,Nein,6,8,NA,3.1,3,0.54,3,0.75
+21.06.2017 13:57:37,FHW,4,3,1,4,4,2,4,4,4,2,850,0,27,Frau,4,3,keine Antwort,23,im Schnitt mehrfach pro Tag,passt insgesamt,NA,2,Psychologie & Wirtschafft,Nein,5,7,5,3.2,4,0.96,4,1.75
+23.06.2017 13:36:38,AAM,3,3,1,2,2,3,3,1,3,1,223,0,19,Frau,2,5,nein,0,im Schnitt mehrfach pro Tag,passt insgesamt nicht,NA,4,Psychologie & Wirtschafft,Nein,7,8,5,2.2,2.5,0.8,3,1.75
