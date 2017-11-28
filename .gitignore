@@ -6,5 +6,4 @@ R/.DS_Store
 .Rbuildignore
 .Rproj.user/**
 *.Rproj
-data-raw/**
 .Rproj.user

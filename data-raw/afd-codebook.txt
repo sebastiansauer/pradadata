@@ -1,0 +1,22 @@
+Party platform ("Parteiprogramm") of the AfD party ("Alternative for Germany") as of 2016-05-01
+
+Description
+
+Party platform ("Parteiprogramm") of the AfD party ("Alternative for Germany") as of 2016-05-01
+
+Usage
+
+afd
+Format
+
+A data frame containing 96 rows and 2 variables
+
+page
+int. Page number
+
+content
+Chr. Text of the page
+
+Source
+
+https://www.alternativefuer.de/wp-content/uploads/sites/7/2016/05/2016-06-27_afd-grundsatzprogramm_web-version.pdf, by AfD Deutschland
