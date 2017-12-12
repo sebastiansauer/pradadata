@@ -1,6 +1,10 @@
 #' Dictionary of German politicians and their party affiliation
 #'
-#' This list was curated by Sebastian Sauer in August 2017. Only
+#' @docType data
+#' @keywords datasets
+#' @usage data(polits_twitter)
+#'
+#' @description This list was curated by Sebastian Sauer in August 2017. Only
 #' politicians with active Twitter accounts were considered. Not all
 #' politicians and not all parties where included to this list. However,
 #' it was tried to include some of the most promiment politicians

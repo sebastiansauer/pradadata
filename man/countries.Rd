@@ -30,7 +30,7 @@
 This dataset is made available under the Open Database License: \url{http://opendatacommons.org/licenses/odbl/1.0/};  Any rights in individual contents of the database are licensed under the Database Contents License:   \url{http://opendatacommons.org/licenses/dbcl/1.0/}
 }
 \usage{
-countries
+data(countries)
 }
 \description{
 Table with names of world countries plus some more information

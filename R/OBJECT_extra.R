@@ -14,7 +14,9 @@
 #' For example, one item approaches to extraversion are included.
 #'
 #'
+#' @docType data
 #'
+#' @usage data(extra)
 #'
 #' @format A data frame containing 826 rows and 33 columns
 #' \describe{

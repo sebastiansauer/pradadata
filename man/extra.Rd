@@ -46,7 +46,7 @@ Please cite this dataset as: 'Sauer, S. (2016, November 19).
     Extraversion Dataset. http://doi.org/10.17605/OSF.IO/4KGZH'
 }
 \usage{
-extra
+data(extra)
 }
 \description{
 This dataset provides results from a survey on extraversion.

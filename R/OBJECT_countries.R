@@ -2,6 +2,10 @@
 #'
 #' Table with names of world countries plus some more information
 #'
+#' @docType data
+#'
+#' @usage data(countries)
+#'
 #' @format data frame with 248 countries and 19 variables
 #' \describe{
 #'   \item{name}{common name in english}

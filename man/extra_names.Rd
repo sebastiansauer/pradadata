@@ -6,14 +6,14 @@
 \title{Item labels -- for dataset \code{extra} in package \code{prada}}
 \format{A data frame containing 28 rows and 1 column
 \describe{
-  \item{value}{Chr. item labels}
+  \item{extra_names}{Chr. item labels}
  }}
 \source{
 Please cite this dataset as: 'Sauer, S. (2016, November 19).
     Extraversion Dataset. http://doi.org/10.17605/OSF.IO/4KGZH'
 }
 \usage{
-extra_names
+data(extra_names)
 }
 \description{
 Item labels -- for dataset \code{extra} in package \code{prada}

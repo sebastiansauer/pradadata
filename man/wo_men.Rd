@@ -20,7 +20,7 @@ The data were published here: \url{https://osf.io/ja9dw}.
    Dataset “Height and shoe size.” http://doi.org/10.17605/OSF.IO/JA9DW'
 }
 \usage{
-wo_men
+data(wo_men)
 }
 \description{
 This dataset provides data of height, sex, and shoe size from some students.

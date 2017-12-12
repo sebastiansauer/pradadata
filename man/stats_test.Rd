@@ -22,7 +22,7 @@ The data were published here: \url{https://osf.io/sjhuy/}.
     Dataset “predictors of performance in stats test.” http://doi.org/10.17605/OSF.IO/SJHUY'
 }
 \usage{
-stats_test
+data(stats_test)
 }
 \description{
 This dataset provides results from a text exam in inferential statistics.

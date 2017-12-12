@@ -3,6 +3,10 @@
 #'SentimentWortschatz, or SentiWS for short, is a publicly available German-language resource for sentiment analysis, opinion mining etc. It lists positive and negative polarity bearing words weighted within the interval of [-1; 1] plus their part of speech tag, and if applicable, their inflections. The current version of SentiWS contains 1,650 positive and 1,818 negative words, which sum up to 15,649 positive and 15,632 negative word forms incl. their inflections, respectively. It not only contains adjectives and adverbs explicitly expressing a sentiment, but also nouns and verbs implicitly containing one.
 #'
 #'
+#' @docType data
+#'
+#' @usage data(sentiws)
+#'
 #' @format A data frame containing 3468 rows and 4 variables
 #' \describe{
 #'   \item{neg_pos}{Chr. Whether the polarity is negative or positive}

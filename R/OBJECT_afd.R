@@ -1,6 +1,8 @@
 #' Party platform ("Parteiprogramm") of the AfD party ("Alternative for Germany") as of 2016-05-01
 #'
+#' @docType data
 #'
+#' @usage data(afd)
 #'
 #' @format A data frame containing 96 rows and 2 variables
 #' \describe{

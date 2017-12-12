@@ -8,7 +8,9 @@
 #' Students were to tick their response in an online form. In addition some
 #' question were asked as to preparation time, upfront self-evalution and interest
 #'
+#' @docType data
 #'
+#' @usage data(stats_test)
 #'
 #' @format A data frame containing 2263 rows and 7 columns
 #' \describe{

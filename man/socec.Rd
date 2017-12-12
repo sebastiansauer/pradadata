@@ -6,16 +6,16 @@
 \title{Dataframe containing socio economic data of the German electoral districts at the time of the 2017 federal elections (Bundestagswahl)}
 \format{A data frame containing 316 rows and 51 columns
 \describe{
-  \item{V1}{state}
-  \item{V2}{Wahlkreis-Nr.}
-  \item{V3}{Wahlkreis-Name}
-  \item{V4}{Gemeinden am 31.12.2015 (Anzahl)}
-  \item{V5}{Flaeche am 31.12.2015 (km^2)}
-  \item{V6}{Bevoelkerung am 31.12.2015 - Insgesamt (in 1000)}
-  \item{V7}{Bevoelkerung am 31.12.2015 - Deutsche (in 1000)}
-  \item{V8}{Bevoelkerung am 31.12.2015 - Auslaender in Prozent}
-  \item{v9}{Bevoelkerungsdichte am 31.12.2015 (Einwohner je km²)}
-  \item{v10}{Zu- (+) bzw. Abnahme (-) der Bevoelkerung 2015 - Geburtensaldo (je 1000 Einwohner)}
+  \item{V01}{state}
+  \item{V02}{Wahlkreis-Nr.}
+  \item{V03}{Wahlkreis-Name}
+  \item{V04}{Gemeinden am 31.12.2015 (Anzahl)}
+  \item{V05}{Flaeche am 31.12.2015 (km^2)}
+  \item{V06}{Bevoelkerung am 31.12.2015 - Insgesamt (in 1000)}
+  \item{V07}{Bevoelkerung am 31.12.2015 - Deutsche (in 1000)}
+  \item{V08}{Bevoelkerung am 31.12.2015 - Auslaender in Prozent}
+  \item{V09}{Bevoelkerungsdichte am 31.12.2015 (Einwohner je km²)}
+  \item{V10}{Zu- (+) bzw. Abnahme (-) der Bevoelkerung 2015 - Geburtensaldo (je 1000 Einwohner)}
   \item{V11}{Zu- (+) bzw. Abnahme (-) der Bevoelkerung 2015 - Wanderungssaldo (je 1000 Einwohner)}
   \item{V12}{Alter von ... bis ... Jahren am 31.12.2015 - unter 18 in Prozent}
   \item{V13}{Alter von ... bis ... Jahren am 31.12.2015 - 18-24 in Prozent}
@@ -59,19 +59,12 @@
   \item{V51}{Arbeitslosenquote Maerz 2017 - 55 bis unter 65 Jahre}
 }}
 \source{
-This dataset is published by the Bundeswahlleiter 2017, (c) Der Bundeswahlleiter, Wiesbaden 2017, https://www.bundeswahlleiter.de/info/impressum.html
+This dataset is published by the Bundeswahlleiter 2017, (c) Der Bundeswahlleiter, Wiesbaden 2017, \url{https://www.bundeswahlleiter.de/info/impressum.html}, Data is made available for unrestricted use provided the source is credited.
 }
 \usage{
-socec
+data(socec)
 }
 \description{
-This dataset is published by the Bundeswahlleiter 2017
-(c) Der Bundeswahlleiter, Wiesbaden 2017
-https://www.bundeswahlleiter.de/info/impressum.html
-}
-\details{
-Data is made available for unrestricted use provided the source is credited.
-
 Data presented here has been altered in the sense that it has been rendered more machine-friendly (one header row only, no special characters, no blanks in header line, etc.). Beside that, the data itself has not been changed in any way.
 }
 \keyword{datasets}

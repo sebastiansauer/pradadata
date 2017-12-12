@@ -13,7 +13,7 @@
 \url{https://www.alternativefuer.de/wp-content/uploads/sites/7/2016/05/2016-06-27_afd-grundsatzprogramm_web-version.pdf}, by AfD Deutschland
 }
 \usage{
-afd
+data(afd)
 }
 \description{
 Party platform ("Parteiprogramm") of the AfD party ("Alternative for Germany") as of 2016-05-01

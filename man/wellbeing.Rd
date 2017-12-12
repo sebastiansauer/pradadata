@@ -10,10 +10,13 @@ Version of June 2016}
   \item{Country}{OECD country}
   \item{Region}{Region}
   \item{region_type}{part of country or whole country}
+  \item{Code}{ISO code of administrative unit in row}
   \item{Education}{Education}
   \item{Jobs}{Jobs}
   \item{Income}{Income}
   \item{Safety}{Safety}
+  \item{Health}{Health}
+  \item{Environment}{Environment}
   \item{Civic_engagement}{Civic engagement}
   \item{Accessiblity_to_services}{Accessibility of services}
   \item{Housing}{Housing}
@@ -43,6 +46,6 @@ data(wellbeing)
 Agregated and detailed indicators for all OECD regions are reported.
 }
 \details{
-Please see the userguide for details on the indicators
+Please see the OECD userguide for details on the indicators
 }
 \keyword{datasets}

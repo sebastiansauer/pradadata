@@ -15,7 +15,7 @@
 Fahrni, Angela, and Manfred Klenner. "Old wine or warm beer: Target-specific sentiment analysis of adjectives." Proc. of the Symposium on Affective Language in Human and Machine, AISB. 2008. Clematide, Simon, and Manfred Klenner. "Evaluation and extension of a polarity lexicon for German." Proceedings of the First Workshop on Computational Approaches to Subjectivity and Sentiment Analysis. 2010.
 }
 \usage{
-germanlex
+data(germanlex)
 }
 \description{
 Polarity lexicon: Nouns, Adjectives, Verbs, Adverbs

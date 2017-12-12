@@ -28,7 +28,7 @@ Data for Principal Component Analysis and Common Factor
 Analysis. Retrieved from https://osf.io/zg89r/', CC-BY 4.0
 }
 \usage{
-Werte
+data("Werte")
 }
 \description{
 This is a random selection of 1000 cases with 15 variables

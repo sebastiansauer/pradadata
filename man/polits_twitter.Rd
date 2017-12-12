@@ -13,7 +13,7 @@
 \url{https://twitter.com/dw_politics/lists/german-politicians?lang=en} by Deutsche Welle \url{http://www.dw.com/}
 }
 \usage{
-polits_twitter
+data(polits_twitter)
 }
 \description{
 This list was curated by Sebastian Sauer in August 2017. Only

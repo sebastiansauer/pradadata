@@ -2,6 +2,11 @@
 #'
 #' @description Polarity lexicon: Nouns, Adjectives, Verbs, Adverbs
 #'
+#'
+#' @docType data
+#'
+#' @usage data(germanlex)
+#'
 #' @details Authors: Manfred Klenner, Simon Clematide, Michael Wiegand, Ronny Peters, #' Institute of Computational Linguistics, University of Zurich, Switzerland#'
 #' Version: 1.1. 2010/08/01
 #' Contact: \email{klenner@@cl.uzh.ch}

@@ -20,7 +20,7 @@
 Please cite this dataset as: 'Sauer, S., & Wolff, A. (2016, August 16). The effect of status symbols on success in online dating: an experimental study. Retrieved from osf.io/4hkjm'
 }
 \usage{
-dating
+data(dating)
 }
 \description{
 Data from an online dating/mating app experiment with IV "car as status symbol"

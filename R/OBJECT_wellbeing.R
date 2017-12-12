@@ -3,7 +3,7 @@
 #'
 #' Agregated and detailed indicators for all OECD regions are reported.
 #'
-#' Please see the userguide for details on the indicators
+#' Please see the OECD userguide for details on the indicators
 #'
 #' @docType data
 #' @usage data(wellbeing)
@@ -14,10 +14,13 @@
 #'   \item{Country}{OECD country}
 #'   \item{Region}{Region}
 #'   \item{region_type}{part of country or whole country}
+#'   \item{Code}{ISO code of administrative unit in row}
 #'   \item{Education}{Education}
 #'   \item{Jobs}{Jobs}
 #'   \item{Income}{Income}
 #'   \item{Safety}{Safety}
+#'   \item{Health}{Health}
+#'   \item{Environment}{Environment}
 #'   \item{Civic_engagement}{Civic engagement}
 #'   \item{Accessiblity_to_services}{Accessibility of services}
 #'   \item{Housing}{Housing}

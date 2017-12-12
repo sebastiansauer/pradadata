@@ -1,0 +1,15 @@
+# compress all data files (Rdata)
+
+save(socec, file = "data/socec.RData", compress = "xz")
+save(afd, file = "data/afd.RData", compress = "bzip2")
+save(countries, file = "data/countries.RData", compress = "xz")
+save(dating, file = "data/dating.RData", compress = "xz")
+save(elec_results, file = "data/elec_results.RData", compress = "xz")
+save(extra, file = "data/extra.RData", compress = "bzip2")
+save(germanlex, file = "data/germanlex.RData", compress = "bzip2")
+save(sentiws, file = "data/sentiws.RData", compress = "xz")
+save(socec, file = "data/socec.RData", compress = "xz")
+save(stats_test, file = "data/stats_test.RData", compress = "xz")
+save(wahlkreise_shp, file = "data/wahlkreise_shp.RData", compress = "xz")
+save(wellbeing, file = "data/wellbeing.RData", compress = "bzip2")
+

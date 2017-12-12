@@ -10,16 +10,12 @@
   \item{party_long}{The long (spelled-out) name of the party}
 }}
 \source{
-This dataset is based on data published by the Bundeswahlleiter 2017, (c) Der Bundeswahlleiter, Wiesbaden 2017, \url{https://www.bundeswahlleiter.de/info/impressum.html}
+This dataset is based on data published by the Bundeswahlleiter 2017, (c) Der Bundeswahlleiter, Wiesbaden 2017, \url{https://www.bundeswahlleiter.de/info/impressum.html}, Data is made available for unrestricted use provided the source is credited.
 }
 \usage{
-parties_de
+data(parties_de)
 }
 \description{
-This dataset stems from data published by the Bundeswahlleiter 2017
-(c) Der Bundeswahlleiter, Wiesbaden 2017, \url{https://www.bundeswahlleiter.de/info/impressum.html}
-}
-\details{
 Data is made available for unrestricted use provided the source is credited.
 }
 \keyword{datasets}

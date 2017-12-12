@@ -1,6 +1,11 @@
 #' Results from an experiment on status symbols an dating success
 #'
-#' Data from an online dating/mating app experiment with IV "car as status symbol"
+#' @docType data
+#' @keywords datasets
+#'
+#' @usage data(dating)
+#'
+#' @description Data from an online dating/mating app experiment with IV "car as status symbol"
 #' (yes vs. no) and DV1 "matching" (number) and DV2 "message sent" (number).
 #' The principal research question was whether a luxury sports car (BMW Z4)
 #' on the individual profile portrait photo at an online dating app

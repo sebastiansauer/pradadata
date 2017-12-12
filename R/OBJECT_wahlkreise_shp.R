@@ -8,7 +8,9 @@
 #'
 #' The data have not been changed in any way.
 #'
+#' @docType data
 #'
+#' @usage data(wahlkreise_shp)
 #'
 #' @format A data frame containing 299 rows and 5 columns
 #' \describe{

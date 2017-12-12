@@ -5,7 +5,9 @@
 #' The data were collected by students of the FOM
 #' in Germany in spring 2017 using face-to-face interviews.
 #'
+#' @docType data
 #'
+#' @usage data("Werte")
 #'
 #'
 #' @format A data frame containing 1000 rows and 15 columns

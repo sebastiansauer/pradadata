@@ -1,12 +1,14 @@
 #' Item labels -- for dataset \code{extra} in package \code{prada}
 #'
-
+#' @docType data
+#'
+#' @usage data(extra_names)
 #'
 #'
 #'
 #' @format A data frame containing 28 rows and 1 column
 #' \describe{
-#'   \item{value}{Chr. item labels}
+#'   \item{extra_names}{Chr. item labels}
 #'  }
 #' @details This dataset was published here: \url{https://osf.io/4kgzh}.
 #'     See survey here \url{https://goo.gl/forms/B5bparAu8uR7T1c03}.

@@ -3,7 +3,9 @@
 #' This dataset provides data of height, sex, and shoe size from some students.
 #' It was collected for paedagogical purposes.
 #'
+#' @docType data
 #'
+#' @usage data(wo_men)
 #'
 #' @format A data frame containing 101 rows and 5 columns
 #' \describe{

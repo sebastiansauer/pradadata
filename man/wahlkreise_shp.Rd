@@ -15,7 +15,7 @@
 
   @source This dataset is published by the Bundeswahlleiter 2017, (c) Der Bundeswahlleiter, Wiesbaden 2017, https://www.bundeswahlleiter.de/info/impressum.html}
 \usage{
-wahlkreise_shp
+data(wahlkreise_shp)
 }
 \description{
 This dataset is published by the Bundeswahlleiter 2017
