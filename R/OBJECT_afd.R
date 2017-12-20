@@ -1,5 +1,7 @@
 #' Party platform ("Parteiprogramm") of the AfD party ("Alternative for Germany") as of 2016-05-01
 #'
+#' This is a dataframe where each row is a page in the AfD party platform.
+#'
 #' @docType data
 #'
 #' @usage data(afd)
@@ -9,6 +11,6 @@
 #'   \item{page}{int. Page number}
 #'   \item{content}{Chr. Text of the page}
 #' }
-#' @source \url{https://www.alternativefuer.de/wp-content/uploads/sites/7/2016/05/2016-06-27_afd-grundsatzprogramm_web-version.pdf}, by AfD Deutschland
+#' @source AfD Deutschland upload time stamp 2016-06-27
 
 "afd"

@@ -10,12 +10,12 @@
   \item{content}{Chr. Text of the page}
 }}
 \source{
-\url{https://www.alternativefuer.de/wp-content/uploads/sites/7/2016/05/2016-06-27_afd-grundsatzprogramm_web-version.pdf}, by AfD Deutschland
+AfD Deutschland upload time stamp 2016-06-27
 }
 \usage{
 data(afd)
 }
 \description{
-Party platform ("Parteiprogramm") of the AfD party ("Alternative for Germany") as of 2016-05-01
+This is a dataframe where each row is a page in the AfD party platform.
 }
 \keyword{datasets}
