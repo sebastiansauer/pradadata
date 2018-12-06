@@ -47,3 +47,11 @@ R
 ## Licence
 
 [![Package-License](http://img.shields.io/badge/license-GPL--3-brightgreen.svg?style=flat)](http://www.gnu.org/licenses/gpl-3.0.html)
+
+
+## DOI
+
+[![DOI](https://zenodo.org/badge/109450408.svg)](https://zenodo.org/badge/latestdoi/109450408)
+
+
+
