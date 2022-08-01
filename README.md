@@ -9,32 +9,44 @@ data sets for practical data analysis
 ## Contents
 Data sets featuring data from
 
-- German elections 2017
-- OECD wellbeing 2016
-- survey on extraversion 2015-2016
-- Schwartz cultural values 1988-2000
-- sociol economic data of all German 2017 electoral districts
-- geomap of German electoral districts 2017
-- toy data set on sex, height, and shoe size
-- online dating platform experiment 2015
-- German sentiment lexicon (germanlex)
-- German sentiment lexicon (sentiws)
-- predictors and score of statistics test
-- names of world countries
-- party platform of the AfD party ("Alternative fuer Deutschland")
+- `elec_results`: German elections 2017, [csv](https://raw.githubusercontent.com/sebastiansauer/pradadata/master/data-raw/elec_results.csv)
+- `wellbeing`: OECD wellbeing 2016, [csv](https://raw.githubusercontent.com/sebastiansauer/pradadata/master/data-raw/wellbeing.csv)
+- `extra`: survey on extraversion 2015-2016, [csv](https://raw.githubusercontent.com/sebastiansauer/pradadata/master/data-raw/extra.csv)
+- `cult_values`: Schwartz cultural values 1988-2000, [csv](https://raw.githubusercontent.com/sebastiansauer/pradadata/master/data-raw/cult_values.csv)
+- `socec`: sociol economic data of all German 2017 electoral districts, [csv](https://raw.githubusercontent.com/sebastiansauer/pradadata/master/data-raw/socec.csv)
+- `wahlkreise_shp`: geomap of German electoral districts 2017, [shape-file]()
+- `wo_men`: toy data set on sex, height, and shoe size, and their differences between women and men, [csv]https://raw.githubusercontent.com/sebastiansauer/pradadata/master/data-raw/wo_men.csv()
+- `dating`: online dating platform experiment 2015, [csv](https://raw.githubusercontent.com/sebastiansauer/pradadata/master/data-raw/dating.csv)
+- `germanlex`: German sentiment lexicon, [csv](https://raw.githubusercontent.com/sebastiansauer/pradadata/master/data-raw/germanlex.csv) 
+- `sentiws`: German sentiment lexicon, [csv](https://raw.githubusercontent.com/sebastiansauer/pradadata/master/data-raw/sentiws.csv)
+- `stats_test`: predictors and score of statistics test, [csv](https://github.com/sebastiansauer/pradadata/blob/master/data-raw/stats_test.csv)
+- `countries`: names of world countries, [csv](https://raw.githubusercontent.com/sebastiansauer/pradadata/master/data-raw/countries.csv)
+- `afd`: party platform of the AfD party ("Alternative fuer Deutschland"), [csv](https://raw.githubusercontent.com/sebastiansauer/pradadata/master/data-raw/afd.csv)
 
 
-Notes that some (most) of these data sets were not published by the author of this pacakge. The original authors and the respective licences can be found in the desription of each data set.
+Notes that some (most) of these data sets were not published by the author of this package. The original authors and the respective licences can be found in the desription of each data set.
 
 
 ## Installation
 `devtools::install_github("sebastiansauer/pradadata")`
 
+The package `devtools` need to be installed.
 
 ## Getting started
 
-In R (or RStudio) type
+In R (or RStudio) type (after having installed the package)
 `library("pradadata")`
+
+
+
+## Access the data without package
+
+Use the following template to access the datasets as csv files:
+
+`https://raw.githubusercontent.com/sebastiansauer/pradadata/master/data-raw/<NAME-OF-DATASET>.csv`.
+
+
+
 
 
 ## Get help
