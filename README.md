@@ -9,13 +9,15 @@ data sets for practical data analysis
 ## Contents
 Data sets featuring data from
 
+- `ames_de_train`: Ames housing train set, shortened version, [csv](https://raw.githubusercontent.com/sebastiansauer/pradadata/master/data-raw/ames_de_train.csv)
+- `ames_de_test`: Ames housind test set, shortened version, [csv](https://raw.githubusercontent.com/sebastiansauer/pradadata/master/data-raw/ames_de_test.csv)
 - `elec_results`: German elections 2017, [csv](https://raw.githubusercontent.com/sebastiansauer/pradadata/master/data-raw/elec_results.csv)
 - `wellbeing`: OECD wellbeing 2016, [csv](https://raw.githubusercontent.com/sebastiansauer/pradadata/master/data-raw/wellbeing.csv)
 - `extra`: survey on extraversion 2015-2016, [csv](https://raw.githubusercontent.com/sebastiansauer/pradadata/master/data-raw/extra.csv)
 - `cult_values`: Schwartz cultural values 1988-2000, [csv](https://raw.githubusercontent.com/sebastiansauer/pradadata/master/data-raw/cult_values.csv)
 - `socec`: sociol economic data of all German 2017 electoral districts, [csv](https://raw.githubusercontent.com/sebastiansauer/pradadata/master/data-raw/socec.csv)
 - `wahlkreise_shp`: geomap of German electoral districts 2017, [shape-file]()
-- `wo_men`: toy data set on sex, height, and shoe size, and their differences between women and men, [csv]https://raw.githubusercontent.com/sebastiansauer/pradadata/master/data-raw/wo_men.csv()
+- `wo_men`: toy data set on sex, height, and shoe size, and their differences between women and men, [csv](https://raw.githubusercontent.com/sebastiansauer/pradadata/master/data-raw/wo_men.csv)
 - `dating`: online dating platform experiment 2015, [csv](https://raw.githubusercontent.com/sebastiansauer/pradadata/master/data-raw/dating.csv)
 - `germanlex`: German sentiment lexicon, [csv](https://raw.githubusercontent.com/sebastiansauer/pradadata/master/data-raw/germanlex.csv) 
 - `sentiws`: German sentiment lexicon, [csv](https://raw.githubusercontent.com/sebastiansauer/pradadata/master/data-raw/sentiws.csv)
