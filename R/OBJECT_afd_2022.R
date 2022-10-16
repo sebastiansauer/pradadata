@@ -1,6 +1,8 @@
 #' Party platform ("Grundsatzprogramm") of the AfD party ("Alternative for Germany") as of 2018
 #'
-#' This is a dataframe where each row is a page in the AfD party platform 
+#' This is a dataframe where each row is a page in the AfD party platform. 
+#' The document is labelled to having been published in 2018, but I accessed it in 2022, so 
+#' that's why it is called afd_2022.
 #'
 #' @docType data
 #'
