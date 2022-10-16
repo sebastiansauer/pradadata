@@ -4,13 +4,15 @@
 \name{sentiws}
 \alias{sentiws}
 \title{Sentiment dictionary "SentiWS"}
-\format{A data frame containing 3468 rows and 4 variables
+\format{
+A data frame containing 3468 rows and 4 variables
 \describe{
   \item{neg_pos}{Chr. Whether the polarity is negative or positive}
   \item{word}{Chr. Name of the word}
   \item{value}{Num. Sentiment value}
   \item{inflections}{Chr. Inflections}
-}}
+}
+}
 \source{
 R. Remus, U. Quasthoff & G. Heyer: SentiWS - a Publicly Available German-language Resource for Sentiment Analysis. In: Proceedings of the 7th International Language Ressources and Evaluation (LREC'10), pp. 1168-1171, 2010, see \url{http://wortschatz.uni-leipzig.de/en/download/}
 }

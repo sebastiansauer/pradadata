@@ -4,7 +4,8 @@
 \name{wahlkreise_shp}
 \alias{wahlkreise_shp}
 \title{Dataframe containing the geomapping data of the electoral districts (Wahlkreise) for the 2017 German Bundestags elections.}
-\format{A data frame containing 299 rows and 5 columns
+\format{
+A data frame containing 299 rows and 5 columns
 \describe{
   \item{WKR_NR}{Int. Official number of the Wahlkreis}
   \item{LAND_NR}{Factor. Number of the federal state (Bundesland)}
@@ -13,7 +14,8 @@
   \item{geometry}{sfc MULTIPOLYGON. List column with geo data}
   }
 
-  @source This dataset is published by the Bundeswahlleiter 2017, (c) Der Bundeswahlleiter, Wiesbaden 2017, https://www.bundeswahlleiter.de/info/impressum.html}
+  @source This dataset is published by the Bundeswahlleiter 2017, (c) Der Bundeswahlleiter, Wiesbaden 2017, https://www.bundeswahlleiter.de/info/impressum.html
+}
 \usage{
 data(wahlkreise_shp)
 }

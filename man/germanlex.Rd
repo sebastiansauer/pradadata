@@ -4,13 +4,15 @@
 \name{germanlex}
 \alias{germanlex}
 \title{German sentiment lexicon}
-\format{A data frame containing 8856 rows and 4 columns
+\format{
+A data frame containing 8856 rows and 4 columns
 \describe{
   \item{word}{Chr. German word}
   \item{qualifier}{Chr. Either "NEG" for negative, "POD" for positive, "NEU" for neutral, "SHI" for shifter (derbs that enhance the sentiment eg., horribly wrong, really good), or "INT" for intensifier, where INT<1 is a reduction factor, and INT>1 is a gain factor}
   \item{polarity_strength}{num. Strength of polarity}
   \item{pos}{Position in Sentence, "type of word" in grammatical phrase}
-}}
+}
+}
 \source{
 Fahrni, Angela, and Manfred Klenner. "Old wine or warm beer: Target-specific sentiment analysis of adjectives." Proc. of the Symposium on Affective Language in Human and Machine, AISB. 2008. Clematide, Simon, and Manfred Klenner. "Evaluation and extension of a polarity lexicon for German." Proceedings of the First Workshop on Computational Approaches to Subjectivity and Sentiment Analysis. 2010.
 }

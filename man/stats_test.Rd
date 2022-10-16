@@ -4,7 +4,8 @@
 \name{stats_test}
 \alias{stats_test}
 \title{Results from an exam in inferential statistics.}
-\format{A data frame containing 2263 rows and 7 columns
+\format{
+A data frame containing 2263 rows and 7 columns
 \describe{
   \item{row_number}{Integer. Row number}
   \item{date_time}{Chr. Date and Time in German format}
@@ -13,7 +14,8 @@
   \item{self_eval}{Int. Subjective upfront rating of expected success, ranging fom 1 (low) to 10 (high)}
   \item{interest}{Int. Subjective upfront rating of interest in statistics, ranging fom 1 (low) to 6 (high)}
   \item{score}{Int. score (number of correct answers out of 40), ranging fom 0 (all false) to 40 (all correct)}
- }}
+ }
+}
 \source{
 The data were published here: \url{https://osf.io/sjhuy/}.
     The survey is online here \url{https://goo.gl/forms/TCWUFe0ZIrUQEetv1}. Note that items have changed over time.

@@ -4,11 +4,13 @@
 \name{socec_dict}
 \alias{socec_dict}
 \title{Dataframe containing the mapping of the socio economic indicator names and their IDs (a dictionnary)}
-\format{A data frame containing 52 rows and 2 columns
+\format{
+A data frame containing 52 rows and 2 columns
 \describe{
   \item{ID}{chr. ID of the indicator \(short name\)}
   \item{socec_indicator}{Spelled out name of the indicator}
-}}
+}
+}
 \source{
 This dataset is published by the Bundeswahlleiter 2017, (c) Der Bundeswahlleiter, Wiesbaden 2017, \url{https://www.bundeswahlleiter.de/info/impressum.html}. Data is made available for unrestricted use provided the source is credited.
 }

@@ -3,8 +3,4 @@
 \docType{package}
 \name{pradadata}
 \alias{pradadata}
-\alias{pradadata-package}
 \title{pradadata: Data sets for practical data analysis}
-\description{
-pradadata: Data sets for practical data analysis
-}

@@ -4,7 +4,8 @@
 \name{dating}
 \alias{dating}
 \title{Results from an experiment on status symbols an dating success}
-\format{A data frame containing 5063 rows and 7 columns
+\format{
+A data frame containing 5063 rows and 7 columns
 \describe{
   \item{strawperson}{Chr. DThere were 6 straw persons. ie., persons with a profile on the dating portal}
   \item{sex}{Chr. Sex of strawperson}
@@ -15,7 +16,8 @@
   \item{comm_type}{Type of communication by individuals: either matching or contact message}
   \item{whr}{Numeric. Waist hip ratio of strawperson}
   \item{beauty}{Subjective beauty rating of strawperson by rating committee}
- }}
+ }
+}
 \source{
 Please cite this dataset as: 'Sauer, S., & Wolff, A. (2016, August 16). The effect of status symbols on success in online dating: an experimental study. Retrieved from osf.io/4hkjm'
 }

@@ -4,7 +4,8 @@
 \name{Werte}
 \alias{Werte}
 \title{Results from a survey on value orientation}
-\format{A data frame containing 1000 rows and 15 columns
+\format{
+A data frame containing 1000 rows and 15 columns
 \describe{
   \item{Spass}{Fun}
   \item{Freude}{Joy}
@@ -21,7 +22,8 @@
   \item{Zuhoeren}{Listening}
   \item{Umweltbewusstsein}{Environment awareness}
   \item{Interesse}{Intereset}
- }}
+ }
+}
 \source{
 Please cite this dataset as: 'Gansser, O. (2017, June 8).
 Data for Principal Component Analysis and Common Factor

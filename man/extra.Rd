@@ -4,7 +4,8 @@
 \name{extra}
 \alias{extra}
 \title{Results from a survey on extraversion}
-\format{A data frame containing 826 rows and 33 columns
+\format{
+A data frame containing 826 rows and 33 columns
 \describe{
   \item{timestamp}{Chr. Date and Time in German format}
   \item{code}{Chr. Pseudonymous code of each participant}
@@ -40,7 +41,8 @@
   \item{extra_aad}{Num. Absolute average deviation from the mean of 10 items}
   \item{extra_mode}{Num. Mode of 10 items}
   \item{extra_iqr}{Num. IQR of 10 items}
- }}
+ }
+}
 \source{
 Please cite this dataset as: 'Sauer, S. (2016, November 19).
     Extraversion Dataset. http://doi.org/10.17605/OSF.IO/4KGZH'

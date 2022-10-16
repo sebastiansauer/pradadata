@@ -4,7 +4,8 @@
 \name{countries}
 \alias{countries}
 \title{World country names}
-\format{data frame with 248 countries and 19 variables
+\format{
+data frame with 248 countries and 19 variables
 \describe{
   \item{name}{common name in english}
   \item{tld}{country code top-level domain}
@@ -25,7 +26,8 @@
   \item{landlocked}{landlocked status}
   \item{borders}{land borders}
   \item{area}{land area in km2}
-}}
+}
+}
 \source{
 This dataset is made available under the Open Database License: \url{http://opendatacommons.org/licenses/odbl/1.0/};  Any rights in individual contents of the database are licensed under the Database Contents License:   \url{http://opendatacommons.org/licenses/dbcl/1.0/}
 }

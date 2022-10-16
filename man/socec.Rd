@@ -4,7 +4,8 @@
 \name{socec}
 \alias{socec}
 \title{Dataframe containing socio economic data of the German electoral districts at the time of the 2017 federal elections (Bundestagswahl)}
-\format{A data frame containing 316 rows and 51 columns
+\format{
+A data frame containing 316 rows and 51 columns
 \describe{
   \item{V01}{state}
   \item{V02}{Wahlkreis-Nr.}
@@ -57,7 +58,8 @@
   \item{V49}{Arbeitslosenquote Maerz 2017 - Frauen}
   \item{V50}{Arbeitslosenquote Maerz 2017 - 15 bis unter 20 Jahre}
   \item{V51}{Arbeitslosenquote Maerz 2017 - 55 bis unter 65 Jahre}
-}}
+}
+}
 \source{
 This dataset is published by the Bundeswahlleiter 2017, (c) Der Bundeswahlleiter, Wiesbaden 2017, \url{https://www.bundeswahlleiter.de/info/impressum.html}, Data is made available for unrestricted use provided the source is credited.
 }

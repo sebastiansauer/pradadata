@@ -24,8 +24,8 @@ Data sets featuring data from
 - `sentiws`: German sentiment lexicon, [csv](https://raw.githubusercontent.com/sebastiansauer/pradadata/master/data-raw/sentiws.csv)
 - `stats_test`: predictors and score of statistics test, [csv](https://github.com/sebastiansauer/pradadata/blob/master/data-raw/stats_test.csv)
 - `countries`: names of world countries, [csv](https://raw.githubusercontent.com/sebastiansauer/pradadata/master/data-raw/countries.csv)
-- `afd`: party platform of the AfD party ("Alternative fuer Deutschland"), [csv](https://raw.githubusercontent.com/sebastiansauer/pradadata/master/data-raw/afd.csv)
-
+- `afd`: party platform of the AfD party as of 2016 ("Alternative fuer Deutschland"), [csv](https://raw.githubusercontent.com/sebastiansauer/pradadata/master/data-raw/afd.csv)
+- `afd_2022`: party platform of the AfD party as of 2022 ("Alternative fuer Deutschland"), [csv](https://raw.githubusercontent.com/sebastiansauer/pradadata/master/data-raw/afd_2022.csv)
 
 Notes that some (most) of these data sets were not published by the author of this package. The original authors and the respective licences can be found in the desription of each data set.
 

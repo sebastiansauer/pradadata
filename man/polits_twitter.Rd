@@ -4,11 +4,13 @@
 \name{polits_twitter}
 \alias{polits_twitter}
 \title{Dictionary of German politicians and their party affiliation}
-\format{A data frame containing 200 rows and 2 variables
+\format{
+A data frame containing 200 rows and 2 variables
 \describe{
   \item{party}{Chr. Short form of the affiliated party}
   \item{screenName}{Chr. Twitter account name of this politician}
-}}
+}
+}
 \source{
 \url{https://twitter.com/dw_politics/lists/german-politicians?lang=en} by Deutsche Welle \url{http://www.dw.com/}
 }

@@ -4,7 +4,9 @@
 \name{elec_results}
 \alias{elec_results}
 \title{Dataframe containing the results of the 2017 federal elections (Bundestagswahl)}
-\format{A data frame containing 332 rows and 191 columns}
+\format{
+A data frame containing 332 rows and 191 columns
+}
 \source{
 This dataset is based on data published by the Bundeswahlleiter 2017, (c) Der Bundeswahlleiter, Wiesbaden 2017, \url{https://www.bundeswahlleiter.de/info/impressum.html}, Data is made available for unrestricted use provided the source is credited.
 }

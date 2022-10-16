@@ -5,7 +5,8 @@
 \alias{wellbeing}
 \title{Data from the OECD Regional Wellbeing study (RWB_03112017172414431)
 Version of June 2016}
-\format{A data frame with 429 rows and 28 variables
+\format{
+A data frame with 429 rows and 28 variables
 \describe{
   \item{Country}{OECD country}
   \item{Region}{Region}
@@ -35,7 +36,8 @@ Version of June 2016}
   \item{Rooms}{Number of rooms per person}
   \item{Support}{Perceived social network support}
   \item{Satisfaction}{Self assessment of life satisfaction}
-}}
+}
+}
 \source{
 \url{https://www.oecdregionalwellbeing.org/}
 }

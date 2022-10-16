@@ -4,7 +4,8 @@
 \name{cult_values}
 \alias{cult_values}
 \title{Schwartz Cultural Value Orientation Scores for 80 countries}
-\format{a data frame with 83 rows and 10 variables:
+\format{
+a data frame with 83 rows and 10 variables:
 \describe{
   \item{country short}{country name, short form}
   \item{country_long}{country name, long form}
@@ -15,11 +16,14 @@
   \item{aff_auton}{affective autonomy; Pleasure}
   \item{intel_auton}{intellectual autonomy; Broadmindedness Curiosity}
   \item{egalitar}{egalitarianism; Social Justice Equality}
-}}
+}
+}
 \source{
 \href{http://latest-schwartz.wikidot.com/}{wikidot}, DOI: 10.13140/RG.2.1.3313.3040
 }
 \usage{
+data(cult_values)
+
 data(cult_values)
 }
 \description{

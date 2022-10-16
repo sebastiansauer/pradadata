@@ -4,14 +4,16 @@
 \name{wo_men}
 \alias{wo_men}
 \title{Height, sex, and shoe size of some students.}
-\format{A data frame containing 101 rows and 5 columns
+\format{
+A data frame containing 101 rows and 5 columns
 \describe{
   \item{row_number}{Integer. Row number}
   \item{time}{Chr. Date and Time in German format}
   \item{sex}{(Chr. Sex; either 'woman' or 'man'}
   \item{height}{Num. Self-reported height in centimeters}
   \item{shoe_size}{Num. Self-reported shoe size in German format}
-}}
+}
+}
 \source{
 The data were published here: \url{https://osf.io/ja9dw}.
    Survey conducted at the Business Psychology lab at

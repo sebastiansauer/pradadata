@@ -4,10 +4,12 @@
 \name{extra_names}
 \alias{extra_names}
 \title{Item labels -- for dataset \code{extra} in package \code{prada}}
-\format{A data frame containing 28 rows and 1 column
+\format{
+A data frame containing 28 rows and 1 column
 \describe{
   \item{extra_names}{Chr. item labels}
- }}
+ }
+}
 \source{
 Please cite this dataset as: 'Sauer, S. (2016, November 19).
     Extraversion Dataset. http://doi.org/10.17605/OSF.IO/4KGZH'
