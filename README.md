@@ -9,6 +9,7 @@ data sets for practical data analysis
 ## Contents
 Data sets featuring data from
 
+- `precip_temp_DWD`: temperature and precipitation in Germany, [csv](https://raw.githubusercontent.com/sebastiansauer/pradadata/master/data-raw/precip_temp_DWD.csv)
 - `ames_de_train`: Ames housing train set, shortened version, [csv](https://raw.githubusercontent.com/sebastiansauer/pradadata/master/data-raw/ames_de_train.csv)
 - `ames_de_test`: Ames housind test set, shortened version, [csv](https://raw.githubusercontent.com/sebastiansauer/pradadata/master/data-raw/ames_de_test.csv)
 - `elec_results`: German elections 2017, [csv](https://raw.githubusercontent.com/sebastiansauer/pradadata/master/data-raw/elec_results.csv)

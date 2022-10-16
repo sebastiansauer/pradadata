@@ -1,12 +1,7 @@
 # Prepare DWD data
 
-ames_de_train <- read.csv("https://raw.githubusercontent.com/sebastiansauer/pradadata/master/data-raw/ames_de_train.csv")
+precip_temp_DWD <- read.csv("https://raw.githubusercontent.com/sebastiansauer/pradadata/master/data-raw/precip_temp_DWD.csv")
 
 
-save(ames_de_train, file = "data/ames_de_train.RData")
+save(precip_temp_DWD, file = "data/precip_temp_DWD.RData")
 
-
-ames_de_test <- read.csv("https://raw.githubusercontent.com/sebastiansauer/pradadata/master/data-raw/ames_de_test.csv")
-
-
-save(ames_de_test, file = "data/ames_de_test.RData")
