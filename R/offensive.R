@@ -1,0 +1,22 @@
+#' Text snippets, similar to tweets, in German language, partly offensive 
+#' 
+#' Short texts, similar to tweets, with a classification of offensive or not.
+#' Two classifications are provided. `c1`  classifies as hateful or not, whereas
+#' `c2` classifies the type of offensive content: abuse, insult, profanity or
+#' other (not offensive).
+#' 
+#'
+#' @docType data
+#'
+#' @usage data(offensive)
+#'
+#' @format A data frame containing 3 variable and approx. 5009 rows
+#' \describe{
+#'   \item{text}{Character. Tweet-like text}
+#'   \item{c1}{Character. Offensive content or not?}
+#'   \item{c2}{Character. Type of offensive content}
+
+#' }
+#' @source Wiegand, Michael. 2019b. GermEval-2018 Corpus (DE). heiDATA. https://doi.org/10.11588/DATA/0B5VML., \url{https://heidata.uni-heidelberg.de/dataset.xhtml?persistentId=doi:10.11588/data/0B5VML}. Licenced under CC-By-4.0 Int.
+
+"offensive"

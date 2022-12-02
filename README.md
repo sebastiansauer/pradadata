@@ -26,8 +26,15 @@ Data sets featuring data from
 - `countries`: names of world countries, [csv](https://raw.githubusercontent.com/sebastiansauer/pradadata/master/data-raw/countries.csv)
 - `afd`: party platform of the AfD party as of 2016 ("Alternative fuer Deutschland"), [csv](https://raw.githubusercontent.com/sebastiansauer/pradadata/master/data-raw/afd.csv)
 - `afd_2022`: party platform of the AfD party as of 2022 ("Alternative fuer Deutschland"), [csv](https://raw.githubusercontent.com/sebastiansauer/pradadata/master/data-raw/afd_2022.csv)
+- `schimpfwoerter`:  List of profane words (Schimpfwörter) in German [csv](https://raw.githubusercontent.com/sebastiansauer/pradadata/master/data-raw/schimpfwoerter.csv)
+- `offensive`:  List of potentially offensive short texts in German [csv](https://raw.githubusercontent.com/sebastiansauer/pradadata/master/data-raw/offensive.csv)
 
-Notes that some (most) of these data sets were not published by the author of this package. The original authors and the respective licences can be found in the desription of each data set.
+
+
+
+
+
+Notes that some (most) of these data sets were *not* published by the author of this package. The original authors and the respective licences can be found in the desription of each data set.
 
 
 ## Installation
