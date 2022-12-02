@@ -1,12 +1,16 @@
+
+
+# pradadata <img src='div/logo.png' align="right" height="139"/>
+
+
 [![Travis-CI Build Status](https://travis-ci.org/sebastiansauer/pradadata.svg?branch=master)](https://travis-ci.org/sebastiansauer/pradadata)
 
-![](div/logo.png)
 
-# pradadata
-data sets for practical data analysis
+Data sets for practical data analysis
 
 
 ## Contents
+
 Data sets featuring data from
 
 - `precip_temp_DWD`: temperature and precipitation in Germany, [csv](https://raw.githubusercontent.com/sebastiansauer/pradadata/master/data-raw/precip_temp_DWD.csv)
@@ -28,6 +32,7 @@ Data sets featuring data from
 - `afd_2022`: party platform of the AfD party as of 2022 ("Alternative fuer Deutschland"), [csv](https://raw.githubusercontent.com/sebastiansauer/pradadata/master/data-raw/afd_2022.csv)
 - `schimpfwoerter`:  List of profane words (Schimpfwörter) in German [csv](https://raw.githubusercontent.com/sebastiansauer/pradadata/master/data-raw/schimpfwoerter.csv)
 - `offensive`:  List of potentially offensive short texts in German [csv](https://raw.githubusercontent.com/sebastiansauer/pradadata/master/data-raw/offensive.csv)
+- `wild_emojis`: Several emojis frequently used to express discontent or hate [csv](https://raw.githubusercontent.com/sebastiansauer/pradadata/master/data-raw/wild_emojis.csv)
 
 
 

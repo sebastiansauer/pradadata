@@ -4,7 +4,7 @@
 #'
 #' @docType data
 #'
-#' @usage data(schimpfwoeter)
+#' @usage data(schimpfwoerter)
 #'
 #' @format A data frame containing 1 variable and approx. 6000 rows
 #' \describe{

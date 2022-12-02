@@ -5,3 +5,6 @@
 ^dev$
 ^div$
 
+^_pkgdown\.yml$
+^docs$
+^pkgdown$

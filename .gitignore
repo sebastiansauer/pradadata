@@ -8,3 +8,4 @@ R/.DS_Store
 *.Rproj
 .Rproj.user
 dev/**
+docs
