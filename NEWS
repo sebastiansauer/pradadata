@@ -1,7 +1,17 @@
-pradadata v0.1.3 (Release date: 2017-12-18)
-===========
+# pradadata 0.2
 
-Changes:
+
+## More data
+
+* `offensive`: list of potentially offensive short texts, tweet-like (German)
+* `wild_emojis`: list of potantially offending emojis, useful for spam and hate detecting
+* `schimpfwoerter`: list of abusive (profane) words (German)
+* `afd_2022`: party program of the right-wing party AfD, year 2022 (German)
+
+
+# pradadata 0.1.13
+
+## Changes:
 
 * Credit authors of datasets in description file
 
