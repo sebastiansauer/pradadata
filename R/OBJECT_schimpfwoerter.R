@@ -1,6 +1,6 @@
 #' List of profane words (Schimpfwörter) in German
 #' 
-#' Schimpfwoerter collection, potentially useful for spam or hate detection. Attention: explicit content. 
+#' @description Schimpfwoerter collection, potentially useful for spam or hate detection. Attention: explicit content. 
 #'
 #' @docType data
 #'
