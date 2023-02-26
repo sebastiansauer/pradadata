@@ -51,7 +51,8 @@ Data sets featuring data from
 - `schimpfwoerter`:  List of profane words (Schimpfwörter) in German [csv](https://raw.githubusercontent.com/sebastiansauer/pradadata/master/data-raw/schimpfwoerter.csv)
 - `offensive`:  List of potentially offensive short texts in German [csv](https://raw.githubusercontent.com/sebastiansauer/pradadata/master/data-raw/offensive.csv)
 - `wild_emojis`: Several emojis frequently used to express discontent or hate [csv](https://raw.githubusercontent.com/sebastiansauer/pradadata/master/data-raw/wild_emojis.csv)
-
+- `corr_data`: Simulated correlation data
+[csv](https://raw.githubusercontent.com/sebastiansauer/pradadata/master/data-raw/corr-data.csv)
 
 
 
