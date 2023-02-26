@@ -61,7 +61,7 @@ Data sets featuring data from
   hate
   [csv](https://raw.githubusercontent.com/sebastiansauer/pradadata/master/data-raw/wild_emojis.csv)
 - `corr_data`: Simulated correlation data
-  [csv](https://raw.githubusercontent.com/sebastiansauer/pradadata/master/data-raw/corr-data.csv)
+  [csv](https://raw.githubusercontent.com/sebastiansauer/pradadata/master/data-raw/corr_data.csv)
 
 Notes that some (most) of these data sets were *not* published by the
 author of this package. The original authors and the respective licences
