@@ -60,6 +60,8 @@ Data sets featuring data from
 - `wild_emojis`: Several emojis frequently used to express discontent or
   hate
   [csv](https://raw.githubusercontent.com/sebastiansauer/pradadata/master/data-raw/wild_emojis.csv)
+- `corr_data`: Simulated correlation data
+  [csv](https://raw.githubusercontent.com/sebastiansauer/pradadata/master/data-raw/corr-data.csv)
 
 Notes that some (most) of these data sets were *not* published by the
 author of this package. The original authors and the respective licences
