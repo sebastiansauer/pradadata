@@ -1,3 +1,10 @@
+# pradadata 0.3
+
+## More data
+* `corr_data`: simulated correlation data
+
+
+
 # pradadata 0.2
 
 
@@ -7,6 +14,7 @@
 * `wild_emojis`: list of potantially offending emojis, useful for spam and hate detecting
 * `schimpfwoerter`: list of abusive (profane) words (German)
 * `afd_2022`: party program of the right-wing party AfD, year 2022 (German)
+
 
 
 # pradadata 0.1.13
