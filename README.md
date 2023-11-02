@@ -62,8 +62,8 @@ Data sets featuring data from
   [csv](https://raw.githubusercontent.com/sebastiansauer/pradadata/master/data-raw/wild_emojis.csv)
 - `corr_data`: Simulated correlation data
   [csv](https://raw.githubusercontent.com/sebastiansauer/pradadata/master/data-raw/corr_data.csv)
-- `germeval_train` and `germeval_test`: short text snippets similar to tweets for hate-speech classification
-  [train csv](https://github.com/sebastiansauer/pradadata/blob/master/data-raw/GermEval-2018-Data-master/germeval2018.training.txt), [test-csv]()
+- `germeval_train` and `germeval_test`: short text snippets similar to tweets for hate-speech classification based on the GermEval2018 data
+  [train csv](https://raw.githubusercontent.com/sebastiansauer/pradadata/master/data-raw/germeval_train.csv), [test-csv](https://raw.githubusercontent.com/sebastiansauer/pradadata/master/data-raw/germeval_test.csv)
 
 Notes that some (most) of these data sets were *not* published by the
 author of this package. The original authors and the respective licences
@@ -101,3 +101,5 @@ R
 ## DOI
 
 [![DOI](https://zenodo.org/badge/109450408.svg)](https://zenodo.org/badge/latestdoi/109450408)
+
+
