@@ -1,11 +1,5 @@
 url: https://sebastiansauer.github.io/pradadata/
-
-authors:
-  Sebastian Sauer:
-    href: https://sebastiansauer-academic.netlify.app/
-
-
 template:
   bootstrap: 5
 
-lang: de
+
