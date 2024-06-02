@@ -5,7 +5,7 @@ R/.DS_Store
 .DS_Store
 .Rbuildignore
 .Rproj.user/**
-*.Rproj
+
 .Rproj.user
 dev/**
-docs
+
