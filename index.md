@@ -1,0 +1,96 @@
+# pradadata
+
+Data sets for practical data analysis
+
+## Contents
+
+Data sets featuring data from
+
+- `precip_temp_DWD`: temperature and precipitation in Germany,
+  [csv](https://raw.githubusercontent.com/sebastiansauer/pradadata/master/data-raw/precip_temp_DWD.csv)
+- `ames_de_train`: Ames housing train set, shortened version,
+  [csv](https://raw.githubusercontent.com/sebastiansauer/pradadata/master/data-raw/ames_de_train.csv)
+- `ames_de_test`: Ames housind test set, shortened version,
+  [csv](https://raw.githubusercontent.com/sebastiansauer/pradadata/master/data-raw/ames_de_test.csv)
+- `elec_results`: German elections 2017,
+  [csv](https://raw.githubusercontent.com/sebastiansauer/pradadata/master/data-raw/elec_results.csv)
+- `wellbeing`: OECD wellbeing 2016,
+  [csv](https://raw.githubusercontent.com/sebastiansauer/pradadata/master/data-raw/wellbeing.csv)
+- `extra`: survey on extraversion 2015-2016,
+  [csv](https://raw.githubusercontent.com/sebastiansauer/pradadata/master/data-raw/extra.csv)
+- `cult_values`: Schwartz cultural values 1988-2000,
+  [csv](https://raw.githubusercontent.com/sebastiansauer/pradadata/master/data-raw/cult_values.csv)
+- `socec`: sociol economic data of all German 2017 electoral districts,
+  [csv](https://raw.githubusercontent.com/sebastiansauer/pradadata/master/data-raw/socec.csv)
+- `wahlkreise_shp`: geomap of German electoral districts 2017,
+  [shape-file](https://sebastiansauer.github.io/pradadata/)
+- `wo_men`: toy data set on sex, height, and shoe size, and their
+  differences between women and men,
+  [csv](https://raw.githubusercontent.com/sebastiansauer/pradadata/master/data-raw/wo_men.csv)
+- `dating`: online dating platform experiment 2015,
+  [csv](https://raw.githubusercontent.com/sebastiansauer/pradadata/master/data-raw/dating.csv)
+- `germanlex`: German sentiment lexicon,
+  [csv](https://raw.githubusercontent.com/sebastiansauer/pradadata/master/data-raw/germanlex.csv)
+- `sentiws`: German sentiment lexicon,
+  [csv](https://raw.githubusercontent.com/sebastiansauer/pradadata/master/data-raw/sentiws.csv)
+- `stats_test`: predictors and score of statistics test,
+  [csv](https://github.com/sebastiansauer/pradadata/blob/master/data-raw/stats_test.csv)
+- `countries`: names of world countries,
+  [csv](https://raw.githubusercontent.com/sebastiansauer/pradadata/master/data-raw/countries.csv)
+- `afd`: party platform of the AfD party as of 2016 (“Alternative fuer
+  Deutschland”),
+  [csv](https://raw.githubusercontent.com/sebastiansauer/pradadata/master/data-raw/afd.csv)
+- `afd_2022`: party platform of the AfD party as of 2022 (“Alternative
+  fuer Deutschland”),
+  [csv](https://raw.githubusercontent.com/sebastiansauer/pradadata/master/data-raw/afd_2022.csv)
+- `schimpfwoerter`: List of profane words (Schimpfwörter) in German
+  [csv](https://raw.githubusercontent.com/sebastiansauer/pradadata/master/data-raw/schimpfwoerter.csv)
+- `offensive`: List of potentially offensive short texts in German
+  [csv](https://raw.githubusercontent.com/sebastiansauer/pradadata/master/data-raw/offensive.csv)
+- `wild_emojis`: Several emojis frequently used to express discontent or
+  hate
+  [csv](https://raw.githubusercontent.com/sebastiansauer/pradadata/master/data-raw/wild_emojis.csv)
+- `corr_data`: Simulated correlation data
+  [csv](https://raw.githubusercontent.com/sebastiansauer/pradadata/master/data-raw/corr_data.csv)
+- `germeval_train` and `germeval_test`: short text snippets similar to
+  tweets for hate-speech classification based on the GermEval2018 data
+  [train
+  csv](https://raw.githubusercontent.com/sebastiansauer/pradadata/master/data-raw/germeval_train.csv),
+  [test-csv](https://raw.githubusercontent.com/sebastiansauer/pradadata/master/data-raw/germeval_test.csv)
+
+Notes that some (most) of these data sets were *not* published by the
+author of this package. The original authors and the respective licences
+can be found in the desription of each data set.
+
+## Installation
+
+`pak::pak("sebastiansauer/pradadata")`
+
+The package `devtools` need to be installed.
+
+## Getting started
+
+In R (or RStudio) type (after having installed the package)
+[`library("pradadata")`](https://github.com/sebastiansauer/pradadata)
+
+## Access the data without package
+
+Use the following template to access the datasets as csv files:
+
+`https://raw.githubusercontent.com/sebastiansauer/pradadata/master/data-raw/<NAME-OF-DATASET>.csv`.
+
+## Get help
+
+[`help("pradadata")`](https://sebastiansauer.github.io/pradadata/reference/pradadata.md)
+
+## Requirements
+
+R
+
+## Licence
+
+[![Package-License](http://img.shields.io/badge/license-GPL--3-brightgreen.svg?style=flat)](http://www.gnu.org/licenses/gpl-3.0.md)
+
+## DOI
+
+[![DOI](https://zenodo.org/badge/109450408.svg)](https://zenodo.org/badge/latestdoi/109450408)
