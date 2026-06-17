@@ -71,7 +71,7 @@ can be found in the desription of each data set.
 
 ## Installation
 
-`devtools::install_github("sebastiansauer/pradadata")`
+`pak::pak("sebastiansauer/pradadata")`
 
 The package `devtools` need to be installed.
 
